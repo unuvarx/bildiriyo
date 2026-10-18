@@ -30,7 +30,8 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python -m bildiriyo
+        # kamuilan (SBB) ve yerelyonetimler yurt dışından erişilemiyor.
+        run: python -m bildiriyo kariyerkapisi ilangov resmigazete iskur
 
       - name: Görülen ilanları kaydet
         if: always()

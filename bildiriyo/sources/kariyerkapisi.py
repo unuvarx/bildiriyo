@@ -1,34 +1,46 @@
+"""Kariyer Kapısı.
+
+api.kariyerkapisi.gov.tr sadece Türkiye'den erişilebiliyor; ana sitedeki
+RSS beslemesi ise her yerden açılıyor ve tüm aktif ilanları içeriyor.
+"""
 from __future__ import annotations
+
+import re
+import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime
 
 from ..models import Ilan, SourceError
 from ..text import clean
 
 LABEL = "Kariyer Kapısı"
-API = "https://api.kariyerkapisi.gov.tr/api/ilan/SearchIlanPublic"
+RSS = "https://kariyerkapisi.gov.tr/RSS"
 
 
 def fetch(s, seen) -> list[Ilan]:
-    # Boş filtre tüm aktif ilanları tek seferde döndürür.
-    r = s.post(API, json={"krM_ID": 0, "searchText": "", "il": "0", "ilanTuru": "0"}, timeout=120)
+    r = s.get(RSS, timeout=180)
     r.raise_for_status()
-    data = r.json()
-    if not isinstance(data, list) or not data:
-        raise SourceError("API boş/beklenmeyen yanıt döndü")
+    root = ET.fromstring(r.content)
+    items = root.findall("./channel/item")
+    if not items:
+        raise SourceError("RSS beslemesi boş geldi")
 
     out = []
-    for x in data:
-        if x.get("ilanTipi") == 1 or not x.get("basvuruLinki"):
-            url = f"https://kariyerkapisi.gov.tr/IlanDetay?i={x['guid']}"
-        else:
-            url = x["basvuruLinki"]
+    for it in items:
+        link = (it.findtext("link") or it.findtext("guid") or "").strip()
+        m = re.search(r"[?&]i=([0-9a-fA-F-]{36})", link)
+        title = clean(it.findtext("title"))
+        category = clean(it.findtext("category"))
+        try:
+            published = parsedate_to_datetime(it.findtext("pubDate")).date().isoformat()
+        except (TypeError, ValueError):
+            published = ""
         out.append(Ilan(
-            source=__name__.rsplit(".", 1)[1],
-            id=x["guid"],
-            title=clean(x.get("ilanBaslik")),
-            url=url,
-            org=clean(x.get("kurumAdi")),
-            deadline=(x.get("bitTarih") or "")[:10],
-            detail=x.get("ilanTuru") or "",
-            note=x.get("ilanTuru") or "",
+            source="kariyerkapisi",
+            id=m.group(1) if m else link,
+            title=title,
+            url=link,
+            org=title.split(" - ", 1)[0] if " - " in title else "",
+            detail=category,
+            note=" · ".join(filter(None, [category, f"yayın: {published}" if published else ""])),
         ))
     return out

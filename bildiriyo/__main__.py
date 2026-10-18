@@ -112,7 +112,7 @@ def send_grey(grey, st, tg) -> None:
             st["seen"][i.source][i.id] = now()
 
 
-def heartbeat(st, tg) -> None:
+def heartbeat(st, tg, keys) -> None:
     """Günde bir 'çalışıyorum' mesajı: bu mesaj gelmezse bot durmuş demektir."""
     t = datetime.now(TR)
     today = t.date().isoformat()
@@ -120,7 +120,8 @@ def heartbeat(st, tg) -> None:
         return
     since = (datetime.now(timezone.utc) - timedelta(days=1)).isoformat()
     lines = []
-    for key, mod in SOURCES.items():
+    for key in keys:
+        mod = SOURCES[key]
         h = st["health"].get(key, {})
         n = sum(v >= since for v in st["seen"].get(key, {}).values())
         status = "✅" if not h.get("fails") else f"⚠️ {h['fails']} hata"
@@ -139,13 +140,13 @@ def main() -> int:
         return 1
     grey = []
     try:
-        for key, mod in SOURCES.items():
-            if only and key not in only:
-                continue
+        keys = [k for k in SOURCES if not only or k in only]
+        for key in keys:
+            mod = SOURCES[key]
             check_source(key, mod, s, st, tg, grey)
             state.save(st)
         send_grey(grey, st, tg)
-        heartbeat(st, tg)
+        heartbeat(st, tg, keys)
     finally:
         state.save(st)
     return 0
