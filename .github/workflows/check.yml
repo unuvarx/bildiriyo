@@ -1,0 +1,45 @@
+name: İlan kontrolü
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"  # her 20 dakikada bir (GitHub birkaç dk geciktirebilir)
+  workflow_dispatch: {}      # Actions sekmesinden elle çalıştırmak için
+
+permissions:
+  contents: write  # state/state.json dosyasını kaydetmek için
+
+concurrency:
+  group: bildiriyo
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: İlanları tara ve Telegram'a gönder
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m bildiriyo
+
+      - name: Görülen ilanları kaydet
+        if: always()
+        run: |
+          git config user.name "bildiriyo-bot"
+          git config user.email "bildiriyo-bot@users.noreply.github.com"
+          git add state/
+          if ! git diff --staged --quiet; then
+            git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase -X theirs
+            git push
+          fi
