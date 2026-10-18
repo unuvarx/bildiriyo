@@ -6,6 +6,7 @@ sayılır. Gönderim başarısız olursa bir sonraki çalışmada tekrar denenir
 from __future__ import annotations
 
 import logging
+import os
 import sys
 from datetime import datetime, timedelta, timezone
 
@@ -132,6 +133,10 @@ def main() -> int:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
     only = sys.argv[1:]
     st, tg, s = state.load(), Telegram(), session()
+    if tg.dry_run and os.environ.get("GITHUB_ACTIONS"):
+        # Gönderemediğimiz ilanları "görüldü" saymamak için hiç çalışma.
+        log.error("TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID secret'ları tanımlı değil")
+        return 1
     grey = []
     try:
         for key, mod in SOURCES.items():
