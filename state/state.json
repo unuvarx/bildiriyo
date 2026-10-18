@@ -1,0 +1,81 @@
+{
+ "health": {
+  "ilangov": {
+   "alerted": false,
+   "error": "SSLError: HTTPSConnectionPool(host='www.ilan.gov.tr', port=443): Max retries exceeded with url: /api/api/services/app/Ad/AdsByFilter (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",
+   "fails": 1
+  },
+  "iskur": {
+   "alerted": false,
+   "error": "",
+   "fails": 0
+  },
+  "kamuilan": {
+   "alerted": false,
+   "error": "HTTPError: 403 Client Error: Forbidden for url: https://kamuilan.sbb.gov.tr/",
+   "fails": 1
+  },
+  "kariyerkapisi": {
+   "alerted": false,
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='api.kariyerkapisi.gov.tr', port=443): Max retries exceeded with url: /api/ilan/SearchIlanPublic (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.kariyerkapisi.gov.tr', port=443) at 0x7f1e21096780>, 'Connection to api.kariyerkapisi.gov.tr timed out. ",
+   "fails": 1
+  },
+  "resmigazete": {
+   "alerted": false,
+   "error": "",
+   "fails": 0
+  }
+ },
+ "heartbeat": "",
+ "seen": {
+  "ilangov": {},
+  "iskur": {
+   "00009855484": "2026-10-18T18:33:05+00:00",
+   "00009858059": "2026-10-18T18:33:05+00:00",
+   "00009860230": "2026-10-18T18:33:05+00:00",
+   "00009860560": "2026-10-18T18:33:05+00:00",
+   "duyuru:turkiye-is-kurumu-genel-mudurlugu-sozlesmeli-bilisim-personeli-alimi-ilani-1": "2026-10-18T18:33:05+00:00"
+  },
+  "kamuilan": {},
+  "kariyerkapisi": {},
+  "resmigazete": {
+   "20261016-4-1.pdf": "2026-10-18T18:32:56+00:00",
+   "20261016-4-10.pdf": "2026-10-18T18:32:56+00:00",
+   "20261016-4-11.pdf": "2026-10-18T18:32:56+00:00",
+   "20261016-4-12.pdf": "2026-10-18T18:32:56+00:00",
+   "20261016-4-13.pdf": "2026-10-18T18:32:56+00:00",
+   "20261016-4-14.pdf": "2026-10-18T18:32:56+00:00",
+   "20261016-4-15.pdf": "2026-10-18T18:32:56+00:00",
+   "20261016-4-16.pdf": "2026-10-18T18:32:56+00:00",
+   "20261016-4-17.pdf": "2026-10-18T18:32:56+00:00",
+   "20261016-4-2.pdf": "2026-10-18T18:32:55+00:00",
+   "20261016-4-3.pdf": "2026-10-18T18:32:55+00:00",
+   "20261016-4-4.pdf": "2026-10-18T18:32:55+00:00",
+   "20261016-4-5.pdf": "2026-10-18T18:32:55+00:00",
+   "20261016-4-6.pdf": "2026-10-18T18:32:55+00:00",
+   "20261016-4-7.pdf": "2026-10-18T18:32:55+00:00",
+   "20261016-4-8.pdf": "2026-10-18T18:32:55+00:00",
+   "20261016-4-9.pdf": "2026-10-18T18:32:55+00:00",
+   "20261017-4-1.pdf": "2026-10-18T18:32:55+00:00",
+   "20261017-4-10.pdf": "2026-10-18T18:32:55+00:00",
+   "20261017-4-11.pdf": "2026-10-18T18:32:56+00:00",
+   "20261017-4-12.pdf": "2026-10-18T18:32:56+00:00",
+   "20261017-4-13.pdf": "2026-10-18T18:32:56+00:00",
+   "20261017-4-14.pdf": "2026-10-18T18:32:56+00:00",
+   "20261017-4-15.pdf": "2026-10-18T18:32:56+00:00",
+   "20261017-4-2.pdf": "2026-10-18T18:32:55+00:00",
+   "20261017-4-3.pdf": "2026-10-18T18:32:55+00:00",
+   "20261017-4-4.pdf": "2026-10-18T18:32:55+00:00",
+   "20261017-4-5.pdf": "2026-10-18T18:32:55+00:00",
+   "20261017-4-6.pdf": "2026-10-18T18:32:55+00:00",
+   "20261017-4-7.pdf": "2026-10-18T18:32:55+00:00",
+   "20261017-4-8.pdf": "2026-10-18T18:32:56+00:00",
+   "20261017-4-9.pdf": "2026-10-18T18:32:56+00:00",
+   "20261018-4-1.pdf": "2026-10-18T18:32:56+00:00",
+   "20261018-4-2.pdf": "2026-10-18T18:32:55+00:00",
+   "20261018-4-3.pdf": "2026-10-18T18:32:56+00:00",
+   "20261018-4-4.pdf": "2026-10-18T18:32:56+00:00",
+   "20261018-4-5.pdf": "2026-10-18T18:32:56+00:00"
+  }
+ }
+}
