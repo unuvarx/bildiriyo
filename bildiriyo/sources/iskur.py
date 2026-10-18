@@ -12,52 +12,68 @@ from ..text import clean, fold
 LABEL = "İŞKUR"
 SEARCH = "https://esube.iskur.gov.tr/Istihdam/AcikIsIlanAra.aspx"
 DUYURU = "https://www.iskur.gov.tr/duyurular/"
-PAGE_SIZE = 15  # e-Şube sonuç sayfası boyutu
 DUYURU_RE = re.compile(r"personel|istihdam|sinav|isci alim|eleman alim|uzman yardimcisi")
 
 
-def _search(s, ilan_tarihi):
-    r = s.get(SEARCH, timeout=90)
-    r.raise_for_status()
-    soup = BeautifulSoup(r.text, "html.parser")
+MAX_PAGES = 100
+
+
+def _form(soup):
     form = {i["name"]: i.get("value", "") for i in soup.find_all("input", type="hidden") if i.get("name")}
     for sel in soup.find_all("select"):
         o = sel.find("option", selected=True) or sel.find("option")
         if sel.get("name"):
             form[sel["name"]] = o.get("value", "") if o else ""
-    form.update({
-        "__EVENTTARGET": "ctl04$ctlAcikIsPageCommand$CommandItem_Search",
-        "__EVENTARGUMENT": "",
-        "ctl04$IsyeriTuruRadios": "kamuRadio",
-        "ctl04$ctlIlanTarihi": ilan_tarihi,  # 1=Tümü, 2=Son 24 saat
-    })
-    r = s.post(SEARCH, data=form, timeout=120)
+    form["ctl04$IsyeriTuruRadios"] = "kamuRadio"
+    form["__EVENTARGUMENT"] = ""
+    return form
+
+
+def _kamu_ilanlari(s):
+    """Kamu işyeri ilanlarının TÜM sayfaları. Toplam kayıt sayısına ulaşılamazsa hata verir."""
+    r = s.get(SEARCH, timeout=90)
     r.raise_for_status()
-    if "ctlGridAcikIslerListeDetail" not in r.text and "bulunamad" not in r.text:
-        raise SourceError("e-Şube arama sonucu beklenen biçimde değil")
-    return BeautifulSoup(r.text, "html.parser").select("a.share-toggle[data-ilanno]")
+    form = _form(BeautifulSoup(r.text, "html.parser"))
+    form["__EVENTTARGET"] = "ctl04$ctlAcikIsPageCommand$CommandItem_Search"
+    form["ctl04$ctlIlanTarihi"] = "1"  # Tümü
+
+    rows, total = {}, None
+    for _ in range(MAX_PAGES):
+        r = s.post(SEARCH, data=form, timeout=120)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        if "ctlGridAcikIslerListeDetail" not in r.text:
+            if "bulunamad" in r.text:
+                return []
+            raise SourceError("e-Şube arama sonucu beklenen biçimde değil")
+        m = re.search(r"Toplam Kayıt:\s*([\d.]+)", soup.get_text(" "))
+        total = int(m.group(1).replace(".", "")) if m else None
+        for a in soup.select("a.share-toggle[data-ilanno]"):
+            rows.setdefault(a["data-ilanno"], a)
+        nxt = soup.find("a", id="ctl04_ctlDataPagerDetay_btnNext")
+        if total is None or len(rows) >= total or not nxt or "disabled" in (nxt.get("class") or []):
+            break
+        form = _form(soup)
+        form["__EVENTTARGET"] = "ctl04$ctlDataPagerDetay$btnNext"
+    if total is not None and len(rows) < total:
+        raise SourceError(f"e-Şube'de {total} kamu ilanı var ama {len(rows)} tanesi okunabildi")
+    return list(rows.values())
 
 
 def fetch(s, seen) -> list[Ilan]:
-    out, ids, warn = [], set(), ""
-    for tarih in ("2", "1"):
-        rows = _search(s, tarih)
-        if len(rows) >= PAGE_SIZE:
-            warn = "e-Şube'de 15'ten fazla kamu ilanı var; tamamını görmek için siteye bakın"
-        for a in rows:
-            no = a["data-ilanno"]
-            if no in ids:
-                continue
-            ids.add(no)
-            out.append(Ilan(
-                source="iskur", id=no,
-                title=clean(a.get("data-meslekler")),
-                url=f"https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID={no}",
-                org=clean(a.find_parent("tr").find("span", id=re.compile("ctlIsverenDL")).get_text())
-                if a.find_parent("tr") else "",
-                deadline=a.get("data-sontarih", ""),
-                note=" · ".join(filter(None, [clean(a.get("data-il")), f"{a.get('data-acikissayi')} kişi", warn])),
-            ))
+    out = []
+    for a in _kamu_ilanlari(s):
+        no = a["data-ilanno"]
+        tr = a.find_parent("tr")
+        org = tr.find("span", id=re.compile("ctlIsverenDL")) if tr else None
+        out.append(Ilan(
+            source="iskur", id=no,
+            title=clean(a.get("data-meslekler")),
+            url=f"https://esube.iskur.gov.tr/Istihdam/AcikIsIlanDetay.aspx?uiID={no}",
+            org=clean(org.get_text()) if org else "",
+            deadline=a.get("data-sontarih", ""),
+            note=" · ".join(filter(None, [clean(a.get("data-il")), f"{a.get('data-acikissayi')} kişi"])),
+        ))
 
     r = s.get(DUYURU, timeout=90)
     r.raise_for_status()

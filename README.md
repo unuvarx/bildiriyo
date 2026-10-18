@@ -7,12 +7,11 @@ GitHub Actions üzerinde her 20 dakikada bir çalışır, sunucu gerekmez.
 
 | Kaynak | Ne alınıyor |
 |---|---|
-| kariyerkapisi.gov.tr | Tüm aktif ilanlar (API) |
+| kariyerkapisi.gov.tr | Tüm aktif ilanlar (resmi RSS beslemesi) |
 | ilan.gov.tr | "Personel Alımı" türündeki tüm ilanlar (API) |
 | resmigazete.gov.tr | Çeşitli İlânlar bölümündeki personel ilanları (PDF içeriği okunur, son 3 gün) |
-| kamuilan.sbb.gov.tr | Tüm aktif ilanlar |
-| iskur.gov.tr | e-Şube'deki kamu işyeri ilanları + İŞKUR'un kendi personel alım duyuruları |
-| yerelyonetimler.csb.gov.tr | Belediye alım ilanı duyuruları |
+| kamuilan.sbb.gov.tr | Tüm aktif ilanlar — **sadece Türkiye IP'sinden erişilebiliyor** |
+| iskur.gov.tr | e-Şube'deki kamu işyeri ilanlarının tüm sayfaları + İŞKUR'un kendi personel alım duyuruları |
 
 ## Mesaj türleri
 
