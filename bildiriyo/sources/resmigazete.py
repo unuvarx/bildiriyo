@@ -36,7 +36,7 @@ def _pdf_text(s, url) -> str:
     r = s.get(url, timeout=120)
     r.raise_for_status()
     reader = PdfReader(io.BytesIO(r.content))
-    return " ".join((p.extract_text() or "") for p in reader.pages[:6])
+    return " ".join((p.extract_text() or "") for p in reader.pages)
 
 
 def _issue_pages(s, day) -> list[str]:

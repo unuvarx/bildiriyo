@@ -10,8 +10,10 @@ GitHub Actions üzerinde her 20 dakikada bir çalışır, sunucu gerekmez.
 | kariyerkapisi.gov.tr | Tüm aktif ilanlar (resmi RSS beslemesi) |
 | ilan.gov.tr | "Personel Alımı" türündeki tüm ilanlar (API) |
 | resmigazete.gov.tr | Çeşitli İlânlar bölümündeki personel ilanları (PDF içeriği okunur, son 3 gün) |
-| kamuilan.sbb.gov.tr | Tüm aktif ilanlar — **sadece Türkiye IP'sinden erişilebiliyor** |
 | iskur.gov.tr | e-Şube'deki kamu işyeri ilanlarının tüm sayfaları + İŞKUR'un kendi personel alım duyuruları |
+
+kamuilan.sbb.gov.tr ve yerelyonetimler.csb.gov.tr yurt dışı IP'lerini engellediği için
+(GitHub sunucuları ABD'de) kapsam dışında.
 
 ## Mesaj türleri
 
@@ -45,7 +47,7 @@ Filtreleri değiştirmek için: `bildiriyo/profile.py`
 ```bash
 python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python -m bildiriyo              # token yoksa mesajları ekrana yazar
-.venv/bin/python -m bildiriyo kamuilan     # sadece bir kaynak
+.venv/bin/python -m bildiriyo iskur        # sadece bir kaynak
 ```
 
 Yerel test `state/state.json` dosyası oluşturur; repoya göndermeden önce silin.

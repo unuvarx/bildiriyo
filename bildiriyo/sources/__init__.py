@@ -1,9 +1,8 @@
-from . import ilangov, iskur, kamuilan, kariyerkapisi, resmigazete
+from . import ilangov, iskur, kariyerkapisi, resmigazete
 
 SOURCES = {
     "kariyerkapisi": kariyerkapisi,
     "ilangov": ilangov,
     "resmigazete": resmigazete,
-    "kamuilan": kamuilan,
     "iskur": iskur,
 }
