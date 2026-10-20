@@ -11,7 +11,9 @@ class Ilan:
     url: str
     org: str = ""
     deadline: str = ""
-    detail: str = ""  # sınıflandırma için ek metin (örn. PDF içeriği)
+    category: str = ""  # ilan türü (Kariyer Kapısı)
+    detail: str = ""  # ilan metni (uygunluk kararı için)
+    has_text: bool = False  # detail gerçekten ilan metnini içeriyor mu
     note: str = ""  # mesajda gösterilecek ek bilgi
     silent: bool = False  # personel ilanı değil: bildirme, sadece "görüldü" say
 

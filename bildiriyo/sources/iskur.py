@@ -88,3 +88,20 @@ def fetch(s, seen) -> list[Ilan]:
                 title=t, url=urljoin(DUYURU, a["href"]), org="Türkiye İş Kurumu",
             ))
     return out
+
+
+def enrich(s, ilan: Ilan) -> None:
+    """Detay sayfasındaki öğrenim şartı tablosu (kabul edilen bölümler)."""
+    if not ilan.id.isdigit():
+        return  # İŞKUR'un kendi duyurusu
+    r = s.get(ilan.url, timeout=90)
+    r.raise_for_status()
+    t = clean(BeautifulSoup(r.text, "html.parser").get_text(" "))
+    m = re.search(r"Genel Birim Adı Genel Bölüm Adı Öğrenim Seviyesi(.*?)(?:×|İlan Geri Bildirim)", t)
+    if m and m.group(1).strip():
+        # Örn. "Mühendislik Fakültesi Bilgisayar Mühendisliği Lisans ..."
+        text = m.group(1).strip()
+        levels = {"lisans", "on", "onlisans", "ortaogretim", "ilkogretim", "yuksek", "lise", "ve", "dengi"}
+        if set(fold(text).replace("(", " ").replace(")", " ").split()) <= levels and "lisans" in fold(text).split():
+            text += " (bölüm şartı yok: herhangi bir lisans)"
+        ilan.detail, ilan.has_text = text, True

@@ -9,11 +9,14 @@ import re
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 
+import requests
+
 from ..models import Ilan, SourceError
 from ..text import clean
 
 LABEL = "Kariyer Kapısı"
 RSS = "https://kariyerkapisi.gov.tr/RSS"
+API = "https://api.kariyerkapisi.gov.tr/api"
 
 
 def fetch(s, seen) -> list[Ilan]:
@@ -40,7 +43,23 @@ def fetch(s, seen) -> list[Ilan]:
             title=title,
             url=link,
             org=title.split(" - ", 1)[0] if " - " in title else "",
-            detail=category,
-            note=" · ".join(filter(None, [category, f"yayın: {published}" if published else ""])),
+            category=category,
+            note=f"yayın: {published}" if published else "",
         ))
     return out
+
+
+def enrich(s, ilan: Ilan) -> None:
+    """İlan metni sadece Türkiye'den erişilebilen API'de; erişilemezse sessizce geç."""
+    body = {"ilanGuid": ilan.id}
+    try:
+        parts = [requests.post(f"{API}/ilan/GetIlanPreviewPublic", json=body, timeout=(8, 60),
+                               headers={"User-Agent": s.headers["User-Agent"]}).json().get("ilanMetni", "")]
+        alt = requests.post(f"{API}/altilan/GetAltIlanInfoByIlanIdPublic", json=body, timeout=(8, 60),
+                            headers={"User-Agent": s.headers["User-Agent"]}).json()
+        parts += [f"{a.get('ilanBaslik', '')} {a.get('ilanMetni', '')}" for a in alt or []]
+    except (requests.RequestException, ValueError):
+        return
+    text = clean(re.sub(r"\[/?[a-z0-9=#]+\]", " ", " ".join(parts)))
+    if len(text) > 200:
+        ilan.detail, ilan.has_text = text, True

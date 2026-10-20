@@ -9,25 +9,25 @@ GitHub Actions üzerinde her 20 dakikada bir çalışır, sunucu gerekmez.
 |---|---|
 | kariyerkapisi.gov.tr | Tüm aktif ilanlar (resmi RSS beslemesi) |
 | ilan.gov.tr | "Personel Alımı" türündeki tüm ilanlar (API) |
-| resmigazete.gov.tr | Çeşitli İlânlar bölümündeki personel ilanları (PDF içeriği okunur, son 3 gün) |
+| resmigazete.gov.tr | Çeşitli İlânlar bölümündeki personel ilanları (PDF içeriği okunur, taranmış PDF için OCR, son 7 gün) |
 | iskur.gov.tr | e-Şube'deki kamu işyeri ilanlarının tüm sayfaları + İŞKUR'un kendi personel alım duyuruları |
 
 kamuilan.sbb.gov.tr ve yerelyonetimler.csb.gov.tr yurt dışı IP'lerini engellediği için
 (GitHub sunucuları ABD'de) kapsam dışında.
 
-## Mesaj türleri
+## Nasıl çalışır
 
-- 🟢 **Size uygun olabilir**: bilişim, yazılım, bilgisayar mühendisliği, "tüm lisans bölümleri", KPSS P3 vb.
-- 🟡 **Yeni kamu ilanı**: uygunluğu başlıktan anlaşılamayan ilanlar (her biri ayrı mesaj).
-- ⚪ **Muhtemelen uygun değil**: öğretim üyesi, sağlık, askeri, iptal/sonuç duyuruları vb.
-  Bunlar atılmaz, her çalışmada tek bir özet mesajda toplanır.
-- ⚠️ Bir site 3 kez üst üste (~1 saat) taranamazsa uyarı gelir.
-- 🤖 Her sabah 09:00'dan sonra günlük durum mesajı gelir. **Bu mesaj gelmezse bot durmuş demektir.**
-
-Bir ilan yalnızca Telegram'a başarıyla gönderildikten sonra "görüldü" sayılır;
-gönderim başarısız olursa sonraki çalışmada tekrar denenir.
-
-Filtreleri değiştirmek için: `bildiriyo/profile.py`
+- Her gün **19:00**'da (yedek: 21:00) 4 kaynak taranır. Daha önce görülmemiş her ilanın
+  **metni okunur** ve profilinize göre karar verilir (`bildiriyo/profile.py`):
+  - 🟢 **Başvurabilirsiniz**: metinde Yazılım/Bilgisayar Mühendisliği veya "herhangi bir lisans" geçiyor.
+  - 🟡 **Şartları kontrol edin**: bölümler ilan ekinde/kılavuzda, deneyim isteyen kadro var
+    ya da ilan metni okunamadı (Kariyer Kapısı metni yurt dışından okunamıyor).
+  - Gönderilmeyenler: akademik kadrolar (ALES/doktora), sözleşmeli bilişim personeli
+    (en az 3 yıl deneyim), farklı bölüm/meslek, iptal/düzeltme/sonuç duyuruları, kurum içi sınavlar.
+- Aynı ilan birden fazla kaynakta çıkarsa tek kez gönderilir.
+- Her taramadan sonra 🤖 durum mesajı gelir (gönderilen / elenen sayısı). **Gelmezse bot durmuştur.**
+- Bir site taranamazsa ⚠️ uyarısı gelir.
+- Şu an açık tüm uygun ilanların özeti: Actions → "İlan kontrolü" → Run workflow → "özet" kutusunu işaretleyin.
 
 ## Kurulum
 

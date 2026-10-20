@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+from bs4 import BeautifulSoup
+
 from ..models import Ilan, SourceError
 from ..text import clean
 
@@ -40,3 +42,13 @@ def fetch(s, seen) -> list[Ilan]:
     if not out:
         raise SourceError("Personel alımı ilanı listesi boş geldi")
     return out
+
+
+def enrich(s, ilan: Ilan) -> None:
+    r = s.get("https://www.ilan.gov.tr/api/api/services/app/AdDetail/GetAdDetail",
+              params={"id": ilan.id}, headers=HEADERS, timeout=90)
+    r.raise_for_status()
+    content = (r.json().get("result") or {}).get("content") or ""
+    text = clean(BeautifulSoup(content, "html.parser").get_text(" "))
+    if len(text) > 100:
+        ilan.detail, ilan.has_text = text, True

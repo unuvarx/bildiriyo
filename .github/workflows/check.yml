@@ -2,8 +2,16 @@ name: İlan kontrolü
 
 on:
   schedule:
-    - cron: "*/20 * * * *"  # her 20 dakikada bir (GitHub birkaç dk geciktirebilir)
-  workflow_dispatch: {}      # Actions sekmesinden elle çalıştırmak için
+    # Günde bir tarama, 19:00 TR (16:00 UTC). 21:00 yedektir: GitHub zamanlanmış
+    # çalışmaları ara sıra atlayabiliyor; o gün tarama yapıldıysa yedek hemen çıkar.
+    - cron: "0 16 * * *"
+    - cron: "0 18 * * *"
+  workflow_dispatch:         # Actions sekmesinden elle çalıştırmak için
+    inputs:
+      ozet:
+        description: "Şu an açık tüm uygun ilanların özetini gönder"
+        type: boolean
+        default: false
 
 permissions:
   contents: write  # state/state.json dosyasını kaydetmek için
@@ -15,7 +23,7 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
@@ -26,11 +34,14 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - name: OCR araçları (taranmış Resmî Gazete PDF'leri için)
+        run: sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-tur > /dev/null
+
       - name: İlanları tara ve Telegram'a gönder
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python -m bildiriyo
+        run: python -m bildiriyo ${{ inputs.ozet && '--ozet' || '' }}
 
       - name: Görülen ilanları kaydet
         if: always()

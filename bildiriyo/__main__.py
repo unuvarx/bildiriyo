@@ -10,18 +10,19 @@ import os
 import sys
 from datetime import datetime, timedelta, timezone
 
-from . import state
-from .classify import GREEN, GREY, YELLOW, classify
+from . import dedupe, state
+from .eligibility import CHECK, OK, SKIP, decide
 from .http import session
 from .models import Ilan
 from .sources import SOURCES
 from .telegram import Telegram, esc
 
 TR = timezone(timedelta(hours=3))
-ALERT_AFTER = 3  # art arda bu kadar hatalı çalışmadan sonra uyar (~1 saat)
-HEARTBEAT_HOUR = 9
-ICON = {GREEN: "🟢", YELLOW: "🟡", GREY: "⚪"}
-HEAD = {GREEN: "SİZE UYGUN OLABİLİR", YELLOW: "YENİ KAMU İLANI", GREY: ""}
+ALERT_AFTER = 1  # günde bir tarama: ilk hatada uyar
+ENRICH_TRIES = 3  # ilan metni bu kadar denemede alınamazsa metinsiz karar ver
+ICON = {OK: "🟢", CHECK: "🟡"}
+HEAD = {OK: "BAŞVURABİLİRSİNİZ", CHECK: "ŞARTLARI KONTROL EDİN"}
+WHY = {OK: "✅", CHECK: "❓"}
 
 log = logging.getLogger("bildiriyo")
 
@@ -30,30 +31,56 @@ def now() -> str:
     return datetime.now(timezone.utc).isoformat(timespec="seconds")
 
 
-def format_one(i: Ilan, level: str, kw: str) -> str:
+def format_one(i: Ilan, dec: str, why: str) -> str:
     label = SOURCES[i.source].LABEL
-    lines = [f"{ICON[level]} <b>{HEAD[level]}</b> · {esc(label)}", f"<b>{esc(i.title)}</b>"]
+    lines = [f"{ICON[dec]} <b>{HEAD[dec]}</b> · {esc(label)}", f"<b>{esc(i.title)}</b>"]
     if i.org and i.org.lower() not in i.title.lower():
         lines.append(f"🏢 {esc(i.org)}")
+    if i.category:
+        lines.append(f"🏷 {esc(i.category)}")
     if i.deadline:
         lines.append(f"📅 Başvuru: {esc(i.deadline)}")
     if i.note:
         lines.append(f"ℹ️ {esc(i.note)}")
-    if kw:
-        lines.append(f"🔎 Eşleşen: <i>{esc(kw)}</i>")
+    lines.append(f"{WHY[dec]} {esc(why[:300])}")
     lines.append(f'🔗 <a href="{esc(i.url)}">İlana git</a>')
     return "\n".join(lines)
 
 
-def format_line(i: Ilan, level: str) -> str:
+def format_line(i: Ilan, dec: str) -> str:
     title = i.title[:140]
     if i.org and i.org.lower() not in i.title.lower():
         title = f"{i.org[:80]} – {title}"
     extra = f" ({esc(i.deadline)})" if i.deadline else ""
-    return f'{ICON[level]} <a href="{esc(i.url)}">{esc(title)}</a>{extra}'
+    return f'{ICON[dec]} <a href="{esc(i.url)}">{esc(title)}</a>{extra}'
 
 
-def check_source(key, mod, s, st, tg, grey_out) -> None:
+def judge(i: Ilan, mod, s, st) -> tuple[str, str, bool] | None:
+    """(karar, sebep, tekrar mı). None: metin alınamadı, sonraki çalışmada tekrar dene."""
+    enrich = getattr(mod, "enrich", None)
+    if enrich and not i.has_text:
+        key = f"{i.source}:{i.id}"
+        try:
+            enrich(s, i)
+        except Exception as e:
+            fails = st.setdefault("enrich_fail", {})
+            fails[key] = fails.get(key, 0) + 1
+            log.warning("%s metni alınamadı (%d. deneme): %s", key, fails[key], e)
+            if fails[key] < ENRICH_TRIES:
+                return None
+        st.get("enrich_fail", {}).pop(key, None)
+
+    dec, why = decide(i)
+    fp = dedupe.fingerprint(i)
+    prior = dedupe.find(st, fp) if dec != SKIP else None
+    if prior and prior["sent"]:
+        return dec, f"daha önce gönderildi: {prior['t']}", True
+    if dec != SKIP and not i.has_text and prior and prior["dec"] == SKIP:
+        return SKIP, f"aynı ilanın metnine göre: {prior['why']}", False
+    return dec, why, False
+
+
+def check_source(key, mod, s, st, tg) -> None:
     seen = st["seen"].setdefault(key, {})
     health = st["health"].setdefault(key, {"fails": 0, "alerted": False, "error": ""})
     bootstrap = not seen
@@ -76,78 +103,108 @@ def check_source(key, mod, s, st, tg, grey_out) -> None:
 
     new = [i for i in items if i.id not in seen]
     log.info("%s: %d ilan, %d yeni", key, len(items), len(new))
+    digest = []
     for i in new:
         if i.silent:
             seen[i.id] = now()
-    new = [i for i in new if not i.silent]
-    if not new:
-        return
-
-    ranked = [(i, *classify(i)) for i in new]
-    if bootstrap:
-        # İlk çalışma: şu an açık olan ilanları tek tek değil, özet olarak gönder.
-        good = [format_line(i, lv) for i, lv, _ in ranked if lv != GREY]
-        n_grey = sum(lv == GREY for _, lv, _ in ranked)
-        header = (f"📋 <b>{esc(mod.LABEL)}</b>: takip başladı. Şu an açık {len(ranked)} ilan var"
-                  + (f" ({n_grey} tanesi muhtemelen size uygun değil, listelenmedi)" if n_grey else "") + ":")
-        good.sort(key=lambda x: not x.startswith(ICON[GREEN]))
-        if tg.send_long(header, good or ["(listelenecek ilan yok)"]):
-            for i in new:
-                seen[i.id] = now()
-        return
-
-    for i, lv, kw in ranked:
-        if lv == GREY:
-            grey_out.append((i, lv, kw))
-        elif tg.send(format_one(i, lv, kw)):
+            continue
+        verdict = judge(i, mod, s, st)
+        if verdict is None:
+            continue
+        dec, why, dup = verdict
+        log.info("  [%s%s] %s — %s", dec, " tekrar" if dup else "", i.title[:80], why[:120])
+        if dec == SKIP or dup:
+            if dec == SKIP:
+                st.setdefault("skipped", {})[f"{key}:{i.id}"] = {"t": i.title[:120], "why": why, "d": now()}
+                if i.has_text:
+                    dedupe.remember(st, dedupe.fingerprint(i), dec, why, i.title, sent=False)
             seen[i.id] = now()
+        elif bootstrap:
+            digest.append((i, dec, why))
+        elif tg.send(format_one(i, dec, why)):
+            seen[i.id] = now()
+            dedupe.remember(st, dedupe.fingerprint(i), dec, why, i.title, sent=True)
+
+    if digest:
+        # İlk çalışma: şu an açık olan uygun ilanları tek mesajda özetle.
+        digest.sort(key=lambda x: x[1] != OK)
+        lines = [format_line(i, dec) for i, dec, _ in digest]
+        if tg.send_long(f"📋 <b>{esc(mod.LABEL)}</b>: şu an açık ve size uygun olabilecek ilanlar:", lines):
+            for i, dec, why in digest:
+                seen[i.id] = now()
+                dedupe.remember(st, dedupe.fingerprint(i), dec, why, i.title, sent=True)
 
 
-def send_grey(grey, st, tg) -> None:
-    if not grey:
-        return
-    lines = [format_line(i, lv) + f" · {esc(SOURCES[i.source].LABEL)}" for i, lv, _ in grey]
-    if tg.send_long(f"⚪ <b>Muhtemelen size uygun olmayan {len(grey)} yeni ilan</b> (yine de göz atın):", lines):
-        for i, _, _ in grey:
-            st["seen"][i.source][i.id] = now()
+def summary(keys, s, st, tg) -> None:
+    """Şu an açık olan TÜM ilanları (görülmüş olsalar da) değerlendirip uygun olanları tek mesajda özetler."""
+    rows = []
+    for key in keys:
+        mod = SOURCES[key]
+        try:
+            items = mod.fetch(s, {})
+        except Exception as e:
+            log.exception("%s özet için taranamadı", key)
+            rows.append((None, CHECK, f"⚠️ {mod.LABEL} taranamadı: {e}"[:200]))
+            continue
+        for i in items:
+            if i.silent:
+                continue
+            verdict = judge(i, mod, s, st)
+            if not verdict or verdict[2] or verdict[0] == SKIP:
+                continue
+            dec, why, _ = verdict
+            dedupe.remember(st, dedupe.fingerprint(i), dec, why, i.title, sent=True)
+            st["seen"].setdefault(key, {})[i.id] = now()
+            rows.append((i, dec, why))
+    rows.sort(key=lambda r: r[1] != OK)
+    lines = [format_line(i, dec) if i else why for i, dec, why in rows]
+    n_ok = sum(dec == OK for i, dec, _ in rows if i)
+    tg.send_long(f"📋 <b>Şu an açık ve başvurabileceğiniz ilanlar</b> "
+                 f"({n_ok} uygun 🟢, {len(rows) - n_ok} şartları kontrol edilmeli 🟡):", lines or ["(yok)"])
 
 
 def heartbeat(st, tg, keys) -> None:
-    """Günde bir 'çalışıyorum' mesajı: bu mesaj gelmezse bot durmuş demektir."""
-    t = datetime.now(TR)
-    today = t.date().isoformat()
-    if t.hour < HEARTBEAT_HOUR or st.get("heartbeat") == today:
-        return
+    """Her taramanın sonunda durum mesajı: bu mesaj gelmezse bot durmuş demektir."""
+    today = datetime.now(TR).date().isoformat()
     since = (datetime.now(timezone.utc) - timedelta(days=1)).isoformat()
     lines = []
     for key in keys:
-        mod = SOURCES[key]
         h = st["health"].get(key, {})
-        n = sum(v >= since for v in st["seen"].get(key, {}).values())
-        status = "✅" if not h.get("fails") else f"⚠️ {h['fails']} hata"
-        lines.append(f"{status} {esc(mod.LABEL)}: son 24 saatte {n} yeni kayıt")
-    if tg.send("🤖 <b>Bildiriyo günlük durum</b>\n" + "\n".join(lines)):
+        lines.append(("✅" if not h.get("fails") else "⚠️ taranamadı:") + f" {esc(SOURCES[key].LABEL)}")
+    sent = sum(x["sent"] and x["d"] >= since for x in st.get("decided", []))
+    skipped = sum(v["d"] >= since for v in st.get("skipped", {}).values())
+    lines.append(f"\n📨 Size gönderilen yeni ilan: {sent}")
+    lines.append(f"🚫 Uygun olmadığı için gönderilmeyen: {skipped}")
+    if tg.send(f"🤖 <b>Bildiriyo günlük tarama</b> · {today}\n" + "\n".join(lines)):
         st["heartbeat"] = today
 
 
 def main() -> int:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
-    only = sys.argv[1:]
+    args = sys.argv[1:]
+    force = "--force" in args
+    only = [a for a in args if not a.startswith("--")]
     st, tg, s = state.load(), Telegram(), session()
+    today = datetime.now(TR).date().isoformat()
+    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and st.get("heartbeat") == today and not force:
+        log.info("Bugünkü tarama zaten yapıldı (%s), yedek çalışma çıkıyor.", today)
+        return 0
     if tg.dry_run and os.environ.get("GITHUB_ACTIONS"):
         # Gönderemediğimiz ilanları "görüldü" saymamak için hiç çalışma.
         log.error("TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID secret'ları tanımlı değil")
         return 1
-    grey = []
     try:
         keys = [k for k in SOURCES if not only or k in only]
+        if "--ozet" in args:
+            summary(keys, s, st, tg)
+            return 0
         for key in keys:
             mod = SOURCES[key]
-            check_source(key, mod, s, st, tg, grey)
+            check_source(key, mod, s, st, tg)
             state.save(st)
-        send_grey(grey, st, tg)
         heartbeat(st, tg, keys)
     finally:
+        dedupe.prune(st)
         state.save(st)
     return 0
 
