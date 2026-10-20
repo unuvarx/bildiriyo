@@ -83,7 +83,7 @@ BOLUM_OK = [
 
 # Bölüm uygunluğu metinden kesin anlaşılamıyor ama muhtemel: "kontrol edin" olarak gönderilir.
 BOLUM_MAYBE = [
-    (r"(?:,|ve) muhendislik(?: ve [a-z-]+)?(?:,| ve| veya| fakulte)", "mühendislik fakültesi mezunları kabul ediliyor görünüyor"),
+    (r"(?:(?<=, )|(?<=ve ))muhendislik(?: ve [a-z-]+)?(?:,| ve| veya| fakulte)", "mühendislik fakültesi mezunları kabul ediliyor görünüyor"),
     (r"(?:fakulte|bolum)[^.]{0,250}?(?<![a-z])(?:yazilim|bilgisayar)(?! (?:programciligi|teknolojisi|teknolojileri|isletmen|kullan|operat|ve ogretim))",
      "kabul edilen bölümler arasında bilgisayar/yazılım geçiyor"),
     (r"tablo(?:da|lar|-?\s?\d)?\W[^.]{0,40}belirtilen", "kabul edilen bölümler ilan ekindeki tabloda"),

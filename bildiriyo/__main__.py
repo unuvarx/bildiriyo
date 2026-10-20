@@ -150,6 +150,9 @@ def summary(keys, s, st, tg) -> None:
             if i.silent:
                 continue
             verdict = judge(i, mod, s, st)
+            if verdict and verdict[0] == SKIP and i.has_text:
+                # Kariyer Kapısı'ndaki kopyası bu karara göre elensin
+                dedupe.remember(st, dedupe.fingerprint(i), SKIP, verdict[1], i.title, sent=False)
             if not verdict or verdict[2] or verdict[0] == SKIP:
                 continue
             dec, why, _ = verdict
