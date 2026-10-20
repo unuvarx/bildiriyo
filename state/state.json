@@ -1,4 +1,326 @@
 {
+ "decided": [
+  {
+   "d": "2026-10-20T18:06:19+00:00",
+   "dec": "ok",
+   "k": "uzman yardimci",
+   "o": [
+    "akrab",
+    "toplu",
+    "turkl",
+    "yurtd"
+   ],
+   "sent": true,
+   "t": "Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı Uzman Yardımcısı Alım İlanı",
+   "why": "bölüm şartı uygun: “…giler fakultesi belirtilen fakultelerin herhangi bir lisans bolumunden mezun olmak. diger fakultele…”"
+  },
+  {
+   "d": "2026-10-20T18:06:30+00:00",
+   "dec": "check",
+   "k": "personel",
+   "o": [
+    "ajans",
+    "kalki",
+    "karad",
+    "orta"
+   ],
+   "sent": true,
+   "t": "Orta Karadeniz Kalkınma Ajansı Personel Alım İlanı",
+   "why": "bölüm şartı uygun: “…kpss veya is tecrubesi 1 (bir) 5 (bes) bilgisayar muhendisligi, cevre muhendisligi, elektrik-elekt…”; ama bazı kadrolar iş deneyimi istiyor"
+  },
+  {
+   "d": "2026-10-20T18:06:31+00:00",
+   "dec": "check",
+   "k": "uzman yardimci",
+   "o": [
+    "bakan",
+    "kultu",
+    "turiz",
+    "vakif"
+   ],
+   "sent": true,
+   "t": "Kültür ve Turizm Bakanlığı Vakıflar Genel Müdürlüğü Vakıf Uzman Yardımcılığı Sınav İlanı",
+   "why": "kabul edilen bölümler ilan ekindeki tabloda; bölüm şartını kontrol edin"
+  },
+  {
+   "d": "2026-10-20T18:06:31+00:00",
+   "dec": "check",
+   "k": "subay",
+   "o": [
+    "akade",
+    "bakan",
+    "guven",
+    "icisl",
+    "janda",
+    "sahil",
+    "subay"
+   ],
+   "sent": true,
+   "t": "İçişleri Bakanlığı Jandarma ve Sahil Güvenlik Akademisi Başkanlığı Muvazzaf Subay Temin İlanı",
+   "why": "kabul edilen bölümler başvuru kılavuzunda; bölüm şartını kontrol edin"
+  },
+  {
+   "d": "2026-10-20T18:06:32+00:00",
+   "dec": "check",
+   "k": "uzman yardimci",
+   "o": [
+    "avuka",
+    "denet",
+    "fon",
+    "fonu",
+    "mevdu",
+    "sigor",
+    "tasar"
+   ],
+   "sent": true,
+   "t": "Tasarruf Mevduatı Sigorta Fonu Başkanlığından Fon Denetçi Yardımcısı, Fon Uzman Yardımcısı ve Fon Avukatı Alım İlanı",
+   "why": "kabul edilen bölümler arasında bilgisayar/yazılım geçiyor; bölüm şartını kontrol edin"
+  },
+  {
+   "d": "2026-10-20T18:06:32+00:00",
+   "dec": "check",
+   "k": "personel",
+   "o": [
+    "ajans",
+    "istan",
+    "kalki"
+   ],
+   "sent": true,
+   "t": "İstanbul Kalkınma Ajansı Personel Alım İlanı",
+   "why": "bölüm şartı uygun: “…zman sayisi kpss/deneyim kpss puan turu bilgisayar muhendisligi, cevre muhendisligi, elektrik-elekt…”; ama bazı kadrolar iş deneyimi istiyor"
+  },
+  {
+   "d": "2026-10-20T18:06:33+00:00",
+   "dec": "ok",
+   "k": "uzman yardimci",
+   "o": [
+    "cumhu",
+    "sanay",
+    "savun"
+   ],
+   "sent": true,
+   "t": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığı 22 Uzman Yardımcısı Alacak",
+   "why": "bölüm şartı uygun: “…uhendisligi - bilgisayar muhendisligi - yazilim muhendisligi - bilisim sistemleri muhendisligi -…”"
+  },
+  {
+   "d": "2026-10-20T18:06:38+00:00",
+   "dec": "check",
+   "k": "personel",
+   "o": [
+    "ajans",
+    "bakan",
+    "gelis",
+    "kultu",
+    "tanit",
+    "turiz",
+    "turki"
+   ],
+   "sent": true,
+   "t": "Kültür ve Turizm Bakanlığı Türkiye Turizm Tanıtım ve Geliştirme Ajansı Personel Alım İlanı",
+   "why": "bölüm şartı uygun: “…niversitelerin bilgisayar muhendisligi, yazilim muhendisligi, yapay zeka muhendisligi, elektrik-…”; ama bazı kadrolar iş deneyimi istiyor"
+  },
+  {
+   "d": "2026-10-20T18:06:39+00:00",
+   "dec": "ok",
+   "k": "memur",
+   "o": [
+    "beled",
+    "sile"
+   ],
+   "sent": true,
+   "t": "Şile Belediye Başkanlığı Memur Alım İlanı",
+   "why": "bölüm şartı uygun: “…pss taban puani 1 zabita memuru gih 9 2 herhangi bir lisans programindan mezun olmak. erkek/ kadin…”"
+  },
+  {
+   "d": "2026-10-20T18:06:40+00:00",
+   "dec": "ok",
+   "k": "personel",
+   "o": [
+    "arast",
+    "bilim",
+    "kismi",
+    "kurum",
+    "proje",
+    "surel",
+    "tekno",
+    "turki"
+   ],
+   "sent": true,
+   "t": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu Başkanlığı Kısmi Süreli Proje Personeli Alımı",
+   "why": "bölüm şartı uygun: “…sistemleri muhendisligi, bilgisayar ve yazilim muhendisligi, yazilim muhendisligi, elektronik m…”"
+  },
+  {
+   "d": "2026-10-20T18:06:41+00:00",
+   "dec": "ok",
+   "k": "memur",
+   "o": [
+    "beled",
+    "buyuk",
+    "iett",
+    "islet",
+    "istan"
+   ],
+   "sent": true,
+   "t": "İstanbul Büyükşehir Belediye Başkanlığı İETT İşletmeleri Genel Müdürlüğü Memur Alım İlanı",
+   "why": "bölüm şartı uygun: “…gi, kontrol ve bilgisayar muhendisligi, yazilim muhendisligi lisans programlarinin birinden mezu…”"
+  },
+  {
+   "d": "2026-10-20T18:06:41+00:00",
+   "dec": "ok",
+   "k": "personel",
+   "o": [
+    "ajans",
+    "dogu",
+    "kalki",
+    "marma"
+   ],
+   "sent": true,
+   "t": "Doğu Marmara Kalkınma Ajansı Personel Alım İlanı",
+   "why": "bölüm şartı uygun: “…uru personel sayisi cevre muhendisligi, bilgisayar muhendisligi, gida muhendisligi, metalurji ve ma…”"
+  },
+  {
+   "d": "2026-10-20T18:06:41+00:00",
+   "dec": "ok",
+   "k": "uzman yardimci",
+   "o": [
+    "cumhu",
+    "ileti"
+   ],
+   "sent": true,
+   "t": "Cumhurbaşkanlığı İletişim Başkanlığı İletişim Uzman Yardımcısı Alım İlanı",
+   "why": "bölüm şartı uygun: “…kultelerinin bilgisayar muhendisligi ve yazilim muhendisligi bolumlerinden (2 kisi) veya bunlara…”"
+  },
+  {
+   "d": "2026-10-20T18:06:42+00:00",
+   "dec": "ok",
+   "k": "memur",
+   "o": [
+    "beled",
+    "didim",
+    "zabit"
+   ],
+   "sent": true,
+   "t": "Didim Belediye Başkanlığı Zabıta Memuru Alım İlanı",
+   "why": "bölüm şartı uygun: “…ss taban puani 1 zabita memuru gih 9 18 herhangi bir lisans programindan mezun olmak, en az (b) sin…”"
+  },
+  {
+   "d": "2026-10-20T18:06:42+00:00",
+   "dec": "check",
+   "k": "uzman yardimci",
+   "o": [
+    "daire",
+    "idare",
+    "ozell"
+   ],
+   "sent": true,
+   "t": "Uzman Yardımcılığı Giriş Sınavı Duyurusu",
+   "why": "kabul edilen bölümler ilan ekindeki tabloda; bölüm şartını kontrol edin"
+  },
+  {
+   "d": "2026-10-20T18:06:42+00:00",
+   "dec": "ok",
+   "k": "personel",
+   "o": [
+    "ajans",
+    "akden",
+    "bati",
+    "kalki"
+   ],
+   "sent": true,
+   "t": "Batı Akdeniz Kalkınma Ajansı Personel Alım İlanı",
+   "why": "bölüm şartı uygun: “…ne muhendisligi, endustri muhendisligi, bilgisayar muhendisligi, cevre muhendisligi, kimya muhendis…”"
+  },
+  {
+   "d": "2026-10-20T18:08:09+00:00",
+   "dec": "check",
+   "k": "memur",
+   "o": [
+    "emniy",
+    "kiyi"
+   ],
+   "sent": true,
+   "t": "Büro Memuru (Genel)",
+   "why": "ilan metni okunamadı, şartları kontrol edin"
+  },
+  {
+   "d": "2026-10-20T18:08:22+00:00",
+   "dec": "check",
+   "k": "subay",
+   "o": [
+    "bakan",
+    "milli",
+    "savun"
+   ],
+   "sent": true,
+   "t": "MİLLİ SAVUNMA BAKANLIĞI - 2026 YILI MİLLÎ SAVUNMA ÜNİVERSİTESİNE ÖĞRETMEN/MÜHENDİS SINIFI MUVAZZAF SUBAY ADAYI TEMİNİ",
+   "why": "ilan metni okunamadı, şartları kontrol edin"
+  },
+  {
+   "d": "2026-10-20T18:08:31+00:00",
+   "dec": "check",
+   "k": "sozlesmeli personel",
+   "o": [
+    "idare",
+    "milli",
+    "saray"
+   ],
+   "sent": true,
+   "t": "MİLLİ SARAYLAR İDARESİ BAŞKANLIĞI - 158 Sözleşmeli Personel Alımı İlanı",
+   "why": "ilan metni okunamadı, şartları kontrol edin"
+  },
+  {
+   "d": "2026-10-20T18:09:53+00:00",
+   "dec": "check",
+   "k": "personel",
+   "o": [
+    "kurul",
+    "piyas",
+    "serma"
+   ],
+   "sent": true,
+   "t": "SERMAYE PİYASASI KURULU BAŞKANLIĞI - SERMAYE PİYASASI KURULU MESLEK PERSONEL YARDIMCILIĞI GİRİŞ SINAVI 2026",
+   "why": "ilan metni okunamadı, şartları kontrol edin"
+  },
+  {
+   "d": "2026-10-20T18:10:10+00:00",
+   "dec": "check",
+   "k": "sozlesmeli personel",
+   "o": [
+    "istan",
+    "tekni",
+    "unive"
+   ],
+   "sent": true,
+   "t": "İSTANBUL TEKNİK ÜNİVERSİTESİ REKTÖRLÜĞÜ - SÖZLEŞMELİ PERSONEL ALIMI İLANI",
+   "why": "ilan metni okunamadı, şartları kontrol edin"
+  },
+  {
+   "d": "2026-10-20T18:10:19+00:00",
+   "dec": "check",
+   "k": "sozlesmeli personel",
+   "o": [
+    "duzce",
+    "unive"
+   ],
+   "sent": true,
+   "t": "DÜZCE ÜNİVERSİTESİ REKTÖRLÜĞÜ - 2026 / 3 SÖZLEŞMELİ PERSONEL ALIM İLANI",
+   "why": "ilan metni okunamadı, şartları kontrol edin"
+  },
+  {
+   "d": "2026-10-20T18:11:00+00:00",
+   "dec": "check",
+   "k": "uzman yardimci",
+   "o": [
+    "akred",
+    "kurum",
+    "sekre",
+    "turk"
+   ],
+   "sent": true,
+   "t": "TÜRK AKREDİTASYON KURUMU GENEL SEKRETERLİĞİ - AKREDİTASYON UZMAN YARDIMCISI ALIMI",
+   "why": "ilan metni okunamadı, şartları kontrol edin"
+  }
+ ],
  "health": {
   "ilangov": {
    "alerted": false,
@@ -33,18 +355,18 @@
    "2176784": "2026-10-18T18:55:34+00:00",
    "2176787": "2026-10-18T18:55:34+00:00",
    "2188158": "2026-10-18T18:55:34+00:00",
-   "2220817": "2026-10-18T18:55:34+00:00",
-   "2222188": "2026-10-18T18:55:34+00:00",
+   "2220817": "2026-10-20T18:06:42+00:00",
+   "2222188": "2026-10-20T18:06:42+00:00",
    "2223911": "2026-10-18T18:55:34+00:00",
    "2226085": "2026-10-18T18:55:34+00:00",
-   "2226095": "2026-10-18T18:55:34+00:00",
+   "2226095": "2026-10-20T18:06:42+00:00",
    "2226098": "2026-10-18T18:55:34+00:00",
    "2226099": "2026-10-18T18:55:34+00:00",
    "2227126": "2026-10-18T18:55:34+00:00",
-   "2227279": "2026-10-18T18:55:34+00:00",
+   "2227279": "2026-10-20T18:06:41+00:00",
    "2228897": "2026-10-18T18:55:34+00:00",
-   "2228917": "2026-10-18T18:55:34+00:00",
-   "2229085": "2026-10-18T18:55:34+00:00",
+   "2228917": "2026-10-20T18:06:41+00:00",
+   "2229085": "2026-10-20T18:06:41+00:00",
    "2229184": "2026-10-18T18:55:34+00:00",
    "2230483": "2026-10-18T18:55:34+00:00",
    "2232010": "2026-10-18T18:55:34+00:00",
@@ -53,15 +375,15 @@
    "2237196": "2026-10-18T18:55:34+00:00",
    "2238204": "2026-10-18T18:55:34+00:00",
    "2240011": "2026-10-18T18:55:34+00:00",
-   "2240064": "2026-10-18T18:55:34+00:00",
+   "2240064": "2026-10-20T18:06:40+00:00",
    "2240448": "2026-10-18T18:55:34+00:00",
    "2240651": "2026-10-18T18:55:34+00:00",
    "2242993": "2026-10-18T18:55:34+00:00",
-   "2242996": "2026-10-18T18:55:34+00:00",
+   "2242996": "2026-10-20T18:06:39+00:00",
    "2243042": "2026-10-18T18:55:34+00:00",
    "2243231": "2026-10-18T18:55:34+00:00",
    "2244449": "2026-10-18T18:55:34+00:00",
-   "2244741": "2026-10-18T18:55:34+00:00",
+   "2244741": "2026-10-20T18:06:38+00:00",
    "2244748": "2026-10-18T18:55:34+00:00",
    "2244776": "2026-10-18T18:55:34+00:00",
    "2244783": "2026-10-18T18:55:34+00:00",
@@ -93,20 +415,20 @@
    "2250857": "2026-10-18T18:55:34+00:00",
    "2250858": "2026-10-18T18:55:34+00:00",
    "2250867": "2026-10-18T18:55:34+00:00",
-   "2250868": "2026-10-18T18:55:34+00:00",
+   "2250868": "2026-10-20T18:06:33+00:00",
    "2250871": "2026-10-18T18:55:34+00:00",
    "2250872": "2026-10-18T18:55:34+00:00",
    "2250889": "2026-10-18T18:55:34+00:00",
    "2250902": "2026-10-18T18:55:34+00:00",
    "2250965": "2026-10-18T18:55:34+00:00",
-   "2252974": "2026-10-18T18:55:34+00:00",
+   "2252974": "2026-10-20T18:06:32+00:00",
    "2252975": "2026-10-18T18:55:34+00:00",
    "2252976": "2026-10-18T18:55:34+00:00",
-   "2252977": "2026-10-18T18:55:34+00:00",
-   "2252978": "2026-10-18T18:55:34+00:00",
+   "2252977": "2026-10-20T18:06:32+00:00",
+   "2252978": "2026-10-20T18:06:31+00:00",
    "2252979": "2026-10-18T18:55:34+00:00",
    "2252980": "2026-10-18T18:55:34+00:00",
-   "2252995": "2026-10-18T18:55:34+00:00",
+   "2252995": "2026-10-20T18:06:31+00:00",
    "2252997": "2026-10-18T18:55:34+00:00",
    "2253002": "2026-10-18T18:55:34+00:00",
    "2253698": "2026-10-18T18:55:34+00:00",
@@ -115,7 +437,7 @@
    "2254541": "2026-10-18T18:55:34+00:00",
    "2254568": "2026-10-18T18:55:34+00:00",
    "2254593": "2026-10-18T18:55:34+00:00",
-   "2254634": "2026-10-18T18:55:34+00:00",
+   "2254634": "2026-10-20T18:06:30+00:00",
    "2254672": "2026-10-18T18:55:34+00:00",
    "2255032": "2026-10-18T18:55:34+00:00",
    "2255991": "2026-10-18T18:55:34+00:00",
@@ -175,7 +497,7 @@
    "2262290": "2026-10-20T09:12:48+00:00",
    "2262299": "2026-10-20T09:12:32+00:00",
    "2262304": "2026-10-20T09:12:48+00:00",
-   "2262386": "2026-10-20T09:12:31+00:00"
+   "2262386": "2026-10-20T18:06:19+00:00"
   },
   "iskur": {
    "00009855484": "2026-10-18T18:33:05+00:00",
@@ -186,7 +508,7 @@
    "00009860367": "2026-10-18T23:21:14+00:00",
    "00009860560": "2026-10-18T18:33:05+00:00",
    "00009860684": "2026-10-18T23:21:15+00:00",
-   "00009860695": "2026-10-18T23:21:16+00:00",
+   "00009860695": "2026-10-20T18:08:09+00:00",
    "00009860708": "2026-10-18T23:21:18+00:00",
    "00009860723": "2026-10-18T23:21:19+00:00",
    "00009861672": "2026-10-18T23:21:21+00:00",
@@ -204,34 +526,34 @@
    "1610b4a4-0f83-48cb-bd45-9aba5f32b893": "2026-10-18T21:01:34+00:00",
    "17bdedb4-3b36-4f67-9543-d6755941032b": "2026-10-18T18:55:22+00:00",
    "232d3886-9af8-4b69-a802-b393f13a600d": "2026-10-18T18:55:22+00:00",
-   "292b13a1-7511-4f89-896d-b19f526fcab1": "2026-10-18T18:55:22+00:00",
+   "292b13a1-7511-4f89-896d-b19f526fcab1": "2026-10-20T18:08:31+00:00",
    "2ce03869-1a9d-44f3-a18e-fba394abe5aa": "2026-10-18T18:55:22+00:00",
    "2fcec3f5-8c49-41d2-9ab4-9aead6433459": "2026-10-18T18:55:22+00:00",
    "320d07cc-b5bc-4bab-9541-6c1100def856": "2026-10-19T14:24:16+00:00",
    "39d5a688-3b17-48de-a123-9140f55af29e": "2026-10-18T18:55:22+00:00",
    "4850e095-8b16-4aba-9956-555740a41146": "2026-10-18T21:01:15+00:00",
    "4f7526a3-f38f-4117-913d-df615e9d8b78": "2026-10-18T18:55:22+00:00",
-   "56b19c9c-b32c-45ae-8fdc-101d776c8df3": "2026-10-18T18:55:22+00:00",
+   "56b19c9c-b32c-45ae-8fdc-101d776c8df3": "2026-10-20T18:11:00+00:00",
    "5a71a4f2-6023-4194-822c-01e687eb9b15": "2026-10-18T18:55:22+00:00",
    "727b6946-c0fe-493f-a9e1-a0d668eabca2": "2026-10-18T18:55:22+00:00",
    "72e593aa-e1b5-43c4-a4c5-63da01a63ef9": "2026-10-18T18:55:22+00:00",
    "826fbdb8-f082-4294-9ac6-cd0abd98a7c9": "2026-10-18T18:55:22+00:00",
    "89781649-6080-4021-9739-f8ba3d875cd0": "2026-10-19T14:24:18+00:00",
-   "9a12db48-03c8-46f2-8276-adfec8e26efa": "2026-10-18T18:55:22+00:00",
+   "9a12db48-03c8-46f2-8276-adfec8e26efa": "2026-10-20T18:10:19+00:00",
    "a14f0db5-110e-4656-a977-7b6b17b55fbb": "2026-10-18T18:55:22+00:00",
    "a6d18ac1-8799-4f76-b4f5-418ceb8c735e": "2026-10-18T18:55:22+00:00",
    "ac9395a0-1096-4384-abba-76719301f64a": "2026-10-18T18:55:22+00:00",
    "c1ab5cba-d22b-40ab-b89b-1d27431a422c": "2026-10-18T18:55:22+00:00",
-   "cb266bf7-8022-4349-b285-053be1f91922": "2026-10-18T18:55:22+00:00",
+   "cb266bf7-8022-4349-b285-053be1f91922": "2026-10-20T18:10:10+00:00",
    "d419889e-c536-4404-b91f-b319b84f1fa9": "2026-10-20T09:12:26+00:00",
-   "d518cb3b-36c9-43fb-8e94-e563f9887888": "2026-10-18T18:55:22+00:00",
+   "d518cb3b-36c9-43fb-8e94-e563f9887888": "2026-10-20T18:08:22+00:00",
    "d72bc5ed-a952-4452-9fea-b05616038765": "2026-10-18T18:55:22+00:00",
    "da785726-3bff-45bb-9ab6-d43389db86f9": "2026-10-18T18:55:22+00:00",
    "db21f412-186a-4d5c-bc46-03dff9ea17fb": "2026-10-18T18:55:22+00:00",
    "e53c369b-3913-48dc-8e41-be3a6392c249": "2026-10-19T14:24:15+00:00",
    "eff11df8-6568-4b54-9deb-2865aa9ac767": "2026-10-18T18:55:22+00:00",
    "f0ca8a29-559f-426a-ade5-5ed30651c618": "2026-10-18T18:55:22+00:00",
-   "f64bcfee-da05-46c5-8324-b42254c169a2": "2026-10-18T18:55:22+00:00",
+   "f64bcfee-da05-46c5-8324-b42254c169a2": "2026-10-20T18:09:53+00:00",
    "fa2227c2-e4f6-43fe-b45f-82552f7277aa": "2026-10-18T18:55:22+00:00"
   },
   "resmigazete": {
@@ -297,5 +619,6 @@
    "20261020-4-8.pdf": "2026-10-19T23:47:51+00:00",
    "20261020-4-9.pdf": "2026-10-19T23:47:51+00:00"
   }
- }
+ },
+ "skipped": {}
 }
