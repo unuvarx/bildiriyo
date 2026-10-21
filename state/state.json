@@ -319,6 +319,1298 @@
    "sent": true,
    "t": "TÜRK AKREDİTASYON KURUMU GENEL SEKRETERLİĞİ - AKREDİTASYON UZMAN YARDIMCISI ALIMI",
    "why": "ilan metni okunamadı, şartları kontrol edin"
+  },
+  {
+   "d": "2026-10-21T19:44:52+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "elema",
+    "fatih",
+    "mehme",
+    "ogret",
+    "sul",
+    "unive",
+    "vakif"
+   ],
+   "sent": false,
+   "t": "Fatih Sultan Mehmet Vakıf Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-21T19:44:52+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "fatih",
+    "mehme",
+    "ogret",
+    "sul",
+    "unive",
+    "uyesi",
+    "vakif"
+   ],
+   "sent": false,
+   "t": "Fatih Sultan Mehmet Vakıf Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-21T19:44:53+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ajans",
+    "iptal",
+    "izmir",
+    "kalki"
+   ],
+   "sent": false,
+   "t": "İptal İlanı (İzmir Kalkınma Ajansı)",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-10-21T19:44:53+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "cag",
+    "elema",
+    "ogret",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Çağ Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-21T19:44:53+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ogret",
+    "pamuk",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Pamukkale Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-21T19:44:53+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "basvu",
+    "liste",
+    "tercu"
+   ],
+   "sent": false,
+   "t": "Tercüman listesi başvuruları hakkında duyuru",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-21T19:44:53+00:00",
+   "dec": "skip",
+   "k": "sozlesmeli personel",
+   "o": [
+    "beled",
+    "dogan"
+   ],
+   "sent": false,
+   "t": "Doğanyol Belediye Başkanlığı Sözleşmeli Personel Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-21T19:44:53+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ege",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Ege Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-21T19:44:53+00:00",
+   "dec": "skip",
+   "k": "surekli isci",
+   "o": [
+    "surek",
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "TCDD Taşımacılık AŞ Genel Müdürlüğünden 166 Sürekli İşçi Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-21T19:45:31+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ajans",
+    "izmir",
+    "kalki"
+   ],
+   "sent": false,
+   "t": "İPTAL İLANI 7",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-10-21T19:45:31+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "fatih",
+    "mehme",
+    "sul",
+    "unive",
+    "vakif"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-21T19:45:31+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "cag",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ELEMANI ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-21T19:45:31+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ege",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI 21.09.2026 “ÇARŞAMBA” ᴎAMIK 10811 “RESİM” “ÇEŞİTLİ İLANLAR” 2 21.09.2026 “ÇARŞAMBA” ᴎAMIK 10811",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-21T19:45:31+00:00",
+   "dec": "skip",
+   "k": "sozlesmeli personel",
+   "o": [
+    "beled",
+    "carsa",
+    "cesit",
+    "diske",
+    "dogan",
+    "malat",
+    "salih"
+   ],
+   "sent": false,
+   "t": "İLK DEFA ATANMAK ÜZERE SÖZLEŞMELİ PERSONEL ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-21T19:45:31+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "pamuk",
+    "unive"
+   ],
+   "sent": false,
+   "t": "21.10.2026 “ÇARŞAMBA” AYŞEGÜL 10819 “FİLM” “ÇEŞİTLİ İLANLAR” 2 21.10.2026 “ÇARŞAMBA” AYŞEGÜL 10819 “FİLM” “ÇEŞİTLİ İLANL",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-10-21T19:45:31+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "erbak",
+    "necme",
+    "unive"
+   ],
+   "sent": false,
+   "t": "DÜZELTME İLANI 13.10.2026 tarih ve 33399 sayılı Resm î Gazete’de aslı uygun ola rak yayımlanan Üniversitemiz akademik bi",
+   "why": "düzeltme duyurusu"
+  },
+  {
+   "d": "2026-10-21T19:45:31+00:00",
+   "dec": "skip",
+   "k": "personel",
+   "o": [
+    "antal",
+    "belek",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ PERSONEL ALIM İLANI I.",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-21T19:45:31+00:00",
+   "dec": "skip",
+   "k": "mufettis yardimci",
+   "o": [
+    "ankar",
+    "beled",
+    "buyuk"
+   ],
+   "sent": false,
+   "t": "İLK DEFA ATANMAK ÜZERE MÜFETTİŞ YARDIMCISI ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-21T19:45:31+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "aksar",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Öğretim Üyesi Dışındaki Öğretim Elemanı Kadrolarına Yapılacak A tamalarda Uygulanacak Merkezi Sınav ile Giriş Sınavların",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-21T19:45:31+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "atatu",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Üniversitemize bağlı birimlerde istihdam edilmek üzere, 2547 sa yılı Kanun ve Üniversitemiz Öğretim Üyeliği Kadrolarına ",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-10-21T19:45:31+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "baske",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Aşağıda Belirtilen Bölümlere Öğretim Üyesi, Öğretim Görevlisi Alınacaktır. 15.09.2026 “PERŞEMBE” ᴎAMIK 10620 “RESİM” “ÇE",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-21T19:45:31+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "cesit",
+    "ebys",
+    "ilanl",
+    "inonu",
+    "perse",
+    "unive",
+    "yalci"
+   ],
+   "sent": false,
+   "t": "Üniversitemizin aşağıda belirtilen birimlerine; Öğretim Üyesi D ışındaki Öğretim Elemanı Kadrolarına Yapılacak Atamalard",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-21T19:45:45+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:45+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:46+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:46+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:46+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:47+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:47+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:47+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:47+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:48+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:48+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:48+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:48+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:49+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:49+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:50+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:50+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:50+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "lokom",
+    "mekan"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:51+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "makin",
+    "motor",
+    "tekni"
+   ],
+   "sent": false,
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:51+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "makin",
+    "motor",
+    "tekni"
+   ],
+   "sent": false,
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:51+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "makin",
+    "motor",
+    "tekni"
+   ],
+   "sent": false,
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:51+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "makin",
+    "motor",
+    "tekni"
+   ],
+   "sent": false,
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:52+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "makin",
+    "motor",
+    "tekni"
+   ],
+   "sent": false,
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:52+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "makin",
+    "motor",
+    "tekni"
+   ],
+   "sent": false,
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:52+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "makin",
+    "motor",
+    "tekni"
+   ],
+   "sent": false,
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:52+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "makin",
+    "motor",
+    "tekni"
+   ],
+   "sent": false,
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:52+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "makin",
+    "motor",
+    "tekni"
+   ],
+   "sent": false,
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:53+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "elekt",
+    "iscis",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:53+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "elekt",
+    "iscis",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:53+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "elekt",
+    "iscis",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:53+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "elekt",
+    "iscis",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:54+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "elekt",
+    "iscis",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:54+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "elekt",
+    "iscis",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:54+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "elekt",
+    "iscis",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:54+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "mekan",
+    "vagon"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Vagon",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:54+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "mekan",
+    "vagon"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Vagon",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:55+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "mekan",
+    "vagon"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Vagon",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:55+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "elekt",
+    "iscis",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:55+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "mekan",
+    "vagon"
+   ],
+   "sent": false,
+   "t": "Mekaniker-Vagon",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:55+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "elekt",
+    "iscis",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:56+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "elekt",
+    "iscis",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:56+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Kaynakçı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:56+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Kaynakçı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:56+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:56+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Kaynakçı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:57+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Kaynakçı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:57+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Kaynakçı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:57+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:57+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:58+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:58+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:58+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:58+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:58+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:59+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:59+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:59+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:59+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Kaynakçı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:45:59+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "iscis",
+    "teski",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:00+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "iscis",
+    "teski",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:00+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "iscis",
+    "teski",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:00+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "iscis",
+    "teski",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:00+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:01+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:01+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:01+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:02+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:02+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "iscis",
+    "teski",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:02+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "iscis",
+    "teski",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:03+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:03+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:03+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:03+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:04+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:04+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:04+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:04+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:04+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "tasim",
+    "tcdd"
+   ],
+   "sent": false,
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:05+00:00",
+   "dec": "skip",
+   "k": "isci",
+   "o": [
+    "iscis",
+    "teski",
+    "tren"
+   ],
+   "sent": false,
+   "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-21T19:46:16+00:00",
+   "dec": "check",
+   "k": "surekli isci",
+   "o": [
+    "anoni",
+    "cumhu",
+    "demir",
+    "devle",
+    "sirke",
+    "tasim",
+    "turki"
+   ],
+   "sent": true,
+   "t": "TÜRKİYE CUMHURİYETİ DEVLET DEMİRYOLLARI TAŞIMACILIK ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ - 166 SÜREKLİ İŞÇİ İSTİHDAMI",
+   "why": "ilan metni okunamadı, şartları kontrol edin"
   }
  ],
  "health": {
@@ -348,7 +1640,7 @@
    "fails": 0
   }
  },
- "heartbeat": "2026-10-20",
+ "heartbeat": "2026-10-21",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -485,6 +1777,7 @@
    "2261343": "2026-10-19T14:24:25+00:00",
    "2261344": "2026-10-19T14:24:24+00:00",
    "2261370": "2026-10-19T14:24:22+00:00",
+   "2261868": "2026-10-21T19:44:53+00:00",
    "2262215": "2026-10-20T09:12:48+00:00",
    "2262216": "2026-10-20T09:12:48+00:00",
    "2262219": "2026-10-20T09:12:48+00:00",
@@ -497,7 +1790,15 @@
    "2262290": "2026-10-20T09:12:48+00:00",
    "2262299": "2026-10-20T09:12:32+00:00",
    "2262304": "2026-10-20T09:12:48+00:00",
-   "2262386": "2026-10-20T18:06:19+00:00"
+   "2262386": "2026-10-20T18:06:19+00:00",
+   "2263496": "2026-10-21T19:44:53+00:00",
+   "2263522": "2026-10-21T19:44:53+00:00",
+   "2263556": "2026-10-21T19:44:53+00:00",
+   "2263775": "2026-10-21T19:44:53+00:00",
+   "2264012": "2026-10-21T19:44:53+00:00",
+   "2264013": "2026-10-21T19:44:53+00:00",
+   "2264107": "2026-10-21T19:44:52+00:00",
+   "2264127": "2026-10-21T19:44:52+00:00"
   },
   "iskur": {
    "00009855484": "2026-10-18T18:33:05+00:00",
@@ -515,11 +1816,91 @@
    "00009861947": "2026-10-18T23:21:22+00:00",
    "00009862009": "2026-10-18T23:21:24+00:00",
    "00009862041": "2026-10-18T23:21:25+00:00",
+   "00009862271": "2026-10-21T19:45:45+00:00",
+   "00009862396": "2026-10-21T19:45:45+00:00",
+   "00009862425": "2026-10-21T19:45:46+00:00",
+   "00009862473": "2026-10-21T19:45:46+00:00",
+   "00009862483": "2026-10-21T19:45:46+00:00",
+   "00009862634": "2026-10-21T19:45:47+00:00",
+   "00009862658": "2026-10-21T19:45:47+00:00",
+   "00009862667": "2026-10-21T19:45:47+00:00",
+   "00009862676": "2026-10-21T19:45:47+00:00",
+   "00009862707": "2026-10-21T19:45:48+00:00",
+   "00009862715": "2026-10-21T19:45:48+00:00",
+   "00009862756": "2026-10-21T19:45:48+00:00",
+   "00009862757": "2026-10-21T19:45:48+00:00",
+   "00009862786": "2026-10-21T19:45:49+00:00",
+   "00009862822": "2026-10-21T19:45:49+00:00",
+   "00009862860": "2026-10-21T19:45:50+00:00",
+   "00009862869": "2026-10-21T19:45:50+00:00",
+   "00009862878": "2026-10-21T19:45:50+00:00",
+   "00009863049": "2026-10-21T19:45:51+00:00",
+   "00009863078": "2026-10-21T19:45:51+00:00",
+   "00009863082": "2026-10-21T19:45:51+00:00",
+   "00009863087": "2026-10-21T19:45:51+00:00",
+   "00009863100": "2026-10-21T19:45:52+00:00",
+   "00009863128": "2026-10-21T19:45:52+00:00",
+   "00009863142": "2026-10-21T19:45:52+00:00",
+   "00009863188": "2026-10-21T19:45:52+00:00",
+   "00009863193": "2026-10-21T19:45:52+00:00",
+   "00009863984": "2026-10-21T19:45:53+00:00",
+   "00009863991": "2026-10-21T19:45:53+00:00",
+   "00009863995": "2026-10-21T19:45:53+00:00",
+   "00009864072": "2026-10-21T19:45:53+00:00",
+   "00009864078": "2026-10-21T19:45:54+00:00",
+   "00009864088": "2026-10-21T19:45:54+00:00",
+   "00009864089": "2026-10-21T19:45:54+00:00",
+   "00009864107": "2026-10-21T19:45:54+00:00",
+   "00009864115": "2026-10-21T19:45:54+00:00",
+   "00009864122": "2026-10-21T19:45:55+00:00",
+   "00009864125": "2026-10-21T19:45:55+00:00",
+   "00009864130": "2026-10-21T19:45:55+00:00",
+   "00009864173": "2026-10-21T19:45:55+00:00",
+   "00009864229": "2026-10-21T19:45:56+00:00",
+   "00009864475": "2026-10-21T19:45:56+00:00",
+   "00009864479": "2026-10-21T19:45:56+00:00",
+   "00009864606": "2026-10-21T19:45:56+00:00",
+   "00009864620": "2026-10-21T19:45:56+00:00",
+   "00009864625": "2026-10-21T19:45:57+00:00",
+   "00009864629": "2026-10-21T19:45:57+00:00",
+   "00009864935": "2026-10-21T19:45:57+00:00",
+   "00009864939": "2026-10-21T19:45:57+00:00",
+   "00009864942": "2026-10-21T19:45:58+00:00",
+   "00009864951": "2026-10-21T19:45:58+00:00",
+   "00009864953": "2026-10-21T19:45:58+00:00",
+   "00009864962": "2026-10-21T19:45:58+00:00",
+   "00009864966": "2026-10-21T19:45:58+00:00",
+   "00009864969": "2026-10-21T19:45:59+00:00",
+   "00009864998": "2026-10-21T19:45:59+00:00",
+   "00009865005": "2026-10-21T19:45:59+00:00",
+   "00009865043": "2026-10-21T19:45:59+00:00",
+   "00009865075": "2026-10-21T19:45:59+00:00",
+   "00009865103": "2026-10-21T19:46:00+00:00",
+   "00009865164": "2026-10-21T19:46:00+00:00",
+   "00009865199": "2026-10-21T19:46:00+00:00",
+   "00009865263": "2026-10-21T19:46:00+00:00",
+   "00009865270": "2026-10-21T19:46:01+00:00",
+   "00009865273": "2026-10-21T19:46:01+00:00",
+   "00009865302": "2026-10-21T19:46:01+00:00",
+   "00009865306": "2026-10-21T19:46:02+00:00",
+   "00009865311": "2026-10-21T19:46:02+00:00",
+   "00009865319": "2026-10-21T19:46:02+00:00",
+   "00009865484": "2026-10-21T19:46:03+00:00",
+   "00009865496": "2026-10-21T19:46:03+00:00",
+   "00009865540": "2026-10-21T19:46:03+00:00",
+   "00009865548": "2026-10-21T19:46:03+00:00",
+   "00009865553": "2026-10-21T19:46:04+00:00",
+   "00009865559": "2026-10-21T19:46:04+00:00",
+   "00009865584": "2026-10-21T19:46:04+00:00",
+   "00009865616": "2026-10-21T19:46:04+00:00",
+   "00009865639": "2026-10-21T19:46:04+00:00",
+   "00009867009": "2026-10-21T19:46:05+00:00",
    "duyuru:turkiye-is-kurumu-genel-mudurlugu-sozlesmeli-bilisim-personeli-alimi-ilani-1": "2026-10-18T18:33:05+00:00"
   },
   "kamuilan": {},
   "kariyerkapisi": {
    "0ad1bd8f-f6ad-4a03-8f10-7a42c33cf44a": "2026-10-18T18:55:22+00:00",
+   "0f54adef-6e76-4b95-b503-03f415523085": "2026-10-21T19:46:16+00:00",
    "11272843-b0f1-470e-af31-cc176fa0e5d4": "2026-10-18T18:55:22+00:00",
    "12c5b0ac-cd05-4316-9d7c-39ed4d06a358": "2026-10-18T18:55:22+00:00",
    "1559e356-a0e2-44e2-869b-beb38c5fdb7a": "2026-10-18T18:55:22+00:00",
@@ -557,6 +1938,19 @@
    "fa2227c2-e4f6-43fe-b45f-82552f7277aa": "2026-10-18T18:55:22+00:00"
   },
   "resmigazete": {
+   "20261015-4-1.pdf": "2026-10-21T19:45:31+00:00",
+   "20261015-4-10.pdf": "2026-10-21T19:45:31+00:00",
+   "20261015-4-11.pdf": "2026-10-21T19:45:31+00:00",
+   "20261015-4-12.pdf": "2026-10-21T19:45:31+00:00",
+   "20261015-4-13.pdf": "2026-10-21T19:45:31+00:00",
+   "20261015-4-2.pdf": "2026-10-21T19:45:31+00:00",
+   "20261015-4-3.pdf": "2026-10-21T19:45:31+00:00",
+   "20261015-4-4.pdf": "2026-10-21T19:45:31+00:00",
+   "20261015-4-5.pdf": "2026-10-21T19:45:31+00:00",
+   "20261015-4-6.pdf": "2026-10-21T19:45:31+00:00",
+   "20261015-4-7.pdf": "2026-10-21T19:45:31+00:00",
+   "20261015-4-8.pdf": "2026-10-21T19:45:31+00:00",
+   "20261015-4-9.pdf": "2026-10-21T19:45:31+00:00",
    "20261016-4-1.pdf": "2026-10-18T18:32:56+00:00",
    "20261016-4-10.pdf": "2026-10-18T18:32:56+00:00",
    "20261016-4-11.pdf": "2026-10-18T18:32:56+00:00",
@@ -617,8 +2011,527 @@
    "20261020-4-6.pdf": "2026-10-19T23:47:51+00:00",
    "20261020-4-7.pdf": "2026-10-19T23:47:42+00:00",
    "20261020-4-8.pdf": "2026-10-19T23:47:51+00:00",
-   "20261020-4-9.pdf": "2026-10-19T23:47:51+00:00"
+   "20261020-4-9.pdf": "2026-10-19T23:47:51+00:00",
+   "20261021-4-1.pdf": "2026-10-21T19:45:31+00:00",
+   "20261021-4-10.pdf": "2026-10-21T19:45:31+00:00",
+   "20261021-4-11.pdf": "2026-10-21T19:45:31+00:00",
+   "20261021-4-12.pdf": "2026-10-21T19:45:31+00:00",
+   "20261021-4-13.pdf": "2026-10-21T19:45:31+00:00",
+   "20261021-4-2.pdf": "2026-10-21T19:45:31+00:00",
+   "20261021-4-3.pdf": "2026-10-21T19:45:31+00:00",
+   "20261021-4-4.pdf": "2026-10-21T19:45:31+00:00",
+   "20261021-4-5.pdf": "2026-10-21T19:45:31+00:00",
+   "20261021-4-6.pdf": "2026-10-21T19:45:31+00:00",
+   "20261021-4-7.pdf": "2026-10-21T19:45:31+00:00",
+   "20261021-4-8.pdf": "2026-10-21T19:45:31+00:00",
+   "20261021-4-9.pdf": "2026-10-21T19:45:31+00:00"
   }
  },
- "skipped": {}
+ "skipped": {
+  "ilangov:2261868": {
+   "d": "2026-10-21T19:44:53+00:00",
+   "t": "Tercüman listesi başvuruları hakkında duyuru",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "ilangov:2263496": {
+   "d": "2026-10-21T19:44:53+00:00",
+   "t": "TCDD Taşımacılık AŞ Genel Müdürlüğünden 166 Sürekli İşçi Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "ilangov:2263522": {
+   "d": "2026-10-21T19:44:53+00:00",
+   "t": "Ege Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2263556": {
+   "d": "2026-10-21T19:44:53+00:00",
+   "t": "Doğanyol Belediye Başkanlığı Sözleşmeli Personel Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "ilangov:2263775": {
+   "d": "2026-10-21T19:44:53+00:00",
+   "t": "Pamukkale Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2264012": {
+   "d": "2026-10-21T19:44:53+00:00",
+   "t": "Çağ Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2264013": {
+   "d": "2026-10-21T19:44:53+00:00",
+   "t": "İptal İlanı (İzmir Kalkınma Ajansı)",
+   "why": "iptal duyurusu"
+  },
+  "ilangov:2264107": {
+   "d": "2026-10-21T19:44:52+00:00",
+   "t": "Fatih Sultan Mehmet Vakıf Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2264127": {
+   "d": "2026-10-21T19:44:52+00:00",
+   "t": "Fatih Sultan Mehmet Vakıf Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "iskur:00009862271": {
+   "d": "2026-10-21T19:45:45+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862396": {
+   "d": "2026-10-21T19:45:45+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862425": {
+   "d": "2026-10-21T19:45:46+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862473": {
+   "d": "2026-10-21T19:45:46+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862483": {
+   "d": "2026-10-21T19:45:46+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862634": {
+   "d": "2026-10-21T19:45:47+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862658": {
+   "d": "2026-10-21T19:45:47+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862667": {
+   "d": "2026-10-21T19:45:47+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862676": {
+   "d": "2026-10-21T19:45:47+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862707": {
+   "d": "2026-10-21T19:45:48+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862715": {
+   "d": "2026-10-21T19:45:48+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862756": {
+   "d": "2026-10-21T19:45:48+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862757": {
+   "d": "2026-10-21T19:45:48+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862786": {
+   "d": "2026-10-21T19:45:49+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862822": {
+   "d": "2026-10-21T19:45:49+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862860": {
+   "d": "2026-10-21T19:45:50+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862869": {
+   "d": "2026-10-21T19:45:50+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009862878": {
+   "d": "2026-10-21T19:45:50+00:00",
+   "t": "Mekaniker-Lokomotif",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009863049": {
+   "d": "2026-10-21T19:45:51+00:00",
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009863078": {
+   "d": "2026-10-21T19:45:51+00:00",
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009863082": {
+   "d": "2026-10-21T19:45:51+00:00",
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009863087": {
+   "d": "2026-10-21T19:45:51+00:00",
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009863100": {
+   "d": "2026-10-21T19:45:52+00:00",
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009863128": {
+   "d": "2026-10-21T19:45:52+00:00",
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009863142": {
+   "d": "2026-10-21T19:45:52+00:00",
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009863188": {
+   "d": "2026-10-21T19:45:52+00:00",
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009863193": {
+   "d": "2026-10-21T19:45:52+00:00",
+   "t": "Makine Teknisyeni(Makine Teknisyeni-Motor ve Makine)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009863984": {
+   "d": "2026-10-21T19:45:53+00:00",
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009863991": {
+   "d": "2026-10-21T19:45:53+00:00",
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009863995": {
+   "d": "2026-10-21T19:45:53+00:00",
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864072": {
+   "d": "2026-10-21T19:45:53+00:00",
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864078": {
+   "d": "2026-10-21T19:45:54+00:00",
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864088": {
+   "d": "2026-10-21T19:45:54+00:00",
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864089": {
+   "d": "2026-10-21T19:45:54+00:00",
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864107": {
+   "d": "2026-10-21T19:45:54+00:00",
+   "t": "Mekaniker-Vagon",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864115": {
+   "d": "2026-10-21T19:45:54+00:00",
+   "t": "Mekaniker-Vagon",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864122": {
+   "d": "2026-10-21T19:45:55+00:00",
+   "t": "Mekaniker-Vagon",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864125": {
+   "d": "2026-10-21T19:45:55+00:00",
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864130": {
+   "d": "2026-10-21T19:45:55+00:00",
+   "t": "Mekaniker-Vagon",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864173": {
+   "d": "2026-10-21T19:45:55+00:00",
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864229": {
+   "d": "2026-10-21T19:45:56+00:00",
+   "t": "Elektronik İşçisi (Tren)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864475": {
+   "d": "2026-10-21T19:45:56+00:00",
+   "t": "Kaynakçı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864479": {
+   "d": "2026-10-21T19:45:56+00:00",
+   "t": "Kaynakçı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864606": {
+   "d": "2026-10-21T19:45:56+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864620": {
+   "d": "2026-10-21T19:45:56+00:00",
+   "t": "Kaynakçı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864625": {
+   "d": "2026-10-21T19:45:57+00:00",
+   "t": "Kaynakçı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864629": {
+   "d": "2026-10-21T19:45:57+00:00",
+   "t": "Kaynakçı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864935": {
+   "d": "2026-10-21T19:45:57+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864939": {
+   "d": "2026-10-21T19:45:57+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864942": {
+   "d": "2026-10-21T19:45:58+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864951": {
+   "d": "2026-10-21T19:45:58+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864953": {
+   "d": "2026-10-21T19:45:58+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864962": {
+   "d": "2026-10-21T19:45:58+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864966": {
+   "d": "2026-10-21T19:45:58+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864969": {
+   "d": "2026-10-21T19:45:59+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009864998": {
+   "d": "2026-10-21T19:45:59+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865005": {
+   "d": "2026-10-21T19:45:59+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865043": {
+   "d": "2026-10-21T19:45:59+00:00",
+   "t": "Kaynakçı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865075": {
+   "d": "2026-10-21T19:45:59+00:00",
+   "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865103": {
+   "d": "2026-10-21T19:46:00+00:00",
+   "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865164": {
+   "d": "2026-10-21T19:46:00+00:00",
+   "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865199": {
+   "d": "2026-10-21T19:46:00+00:00",
+   "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865263": {
+   "d": "2026-10-21T19:46:00+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865270": {
+   "d": "2026-10-21T19:46:01+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865273": {
+   "d": "2026-10-21T19:46:01+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865302": {
+   "d": "2026-10-21T19:46:01+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865306": {
+   "d": "2026-10-21T19:46:02+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865311": {
+   "d": "2026-10-21T19:46:02+00:00",
+   "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865319": {
+   "d": "2026-10-21T19:46:02+00:00",
+   "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865484": {
+   "d": "2026-10-21T19:46:03+00:00",
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865496": {
+   "d": "2026-10-21T19:46:03+00:00",
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865540": {
+   "d": "2026-10-21T19:46:03+00:00",
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865548": {
+   "d": "2026-10-21T19:46:03+00:00",
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865553": {
+   "d": "2026-10-21T19:46:04+00:00",
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865559": {
+   "d": "2026-10-21T19:46:04+00:00",
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865584": {
+   "d": "2026-10-21T19:46:04+00:00",
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865616": {
+   "d": "2026-10-21T19:46:04+00:00",
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009865639": {
+   "d": "2026-10-21T19:46:04+00:00",
+   "t": "Tesviyeci",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009867009": {
+   "d": "2026-10-21T19:46:05+00:00",
+   "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "resmigazete:20261015-4-10.pdf": {
+   "d": "2026-10-21T19:45:31+00:00",
+   "t": "Üniversitemize bağlı birimlerde istihdam edilmek üzere, 2547 sa yılı Kanun ve Üniversitemiz Öğretim Üyeliği Kadrolarına ",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261015-4-11.pdf": {
+   "d": "2026-10-21T19:45:31+00:00",
+   "t": "Aşağıda Belirtilen Bölümlere Öğretim Üyesi, Öğretim Görevlisi Alınacaktır. 15.09.2026 “PERŞEMBE” ᴎAMIK 10620 “RESİM” “ÇE",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261015-4-12.pdf": {
+   "d": "2026-10-21T19:45:31+00:00",
+   "t": "Üniversitemizin aşağıda belirtilen birimlerine; Öğretim Üyesi D ışındaki Öğretim Elemanı Kadrolarına Yapılacak Atamalard",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261015-4-5.pdf": {
+   "d": "2026-10-21T19:45:31+00:00",
+   "t": "DÜZELTME İLANI 13.10.2026 tarih ve 33399 sayılı Resm î Gazete’de aslı uygun ola rak yayımlanan Üniversitemiz akademik bi",
+   "why": "düzeltme duyurusu"
+  },
+  "resmigazete:20261015-4-6.pdf": {
+   "d": "2026-10-21T19:45:31+00:00",
+   "t": "ÖĞRETİM ÜYESİ PERSONEL ALIM İLANI I.",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261015-4-8.pdf": {
+   "d": "2026-10-21T19:45:31+00:00",
+   "t": "İLK DEFA ATANMAK ÜZERE MÜFETTİŞ YARDIMCISI ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261015-4-9.pdf": {
+   "d": "2026-10-21T19:45:31+00:00",
+   "t": "Öğretim Üyesi Dışındaki Öğretim Elemanı Kadrolarına Yapılacak A tamalarda Uygulanacak Merkezi Sınav ile Giriş Sınavların",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261021-4-1.pdf": {
+   "d": "2026-10-21T19:45:31+00:00",
+   "t": "İPTAL İLANI 7",
+   "why": "iptal duyurusu"
+  },
+  "resmigazete:20261021-4-10.pdf": {
+   "d": "2026-10-21T19:45:31+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI 21.09.2026 “ÇARŞAMBA” ᴎAMIK 10811 “RESİM” “ÇEŞİTLİ İLANLAR” 2 21.09.2026 “ÇARŞAMBA” ᴎAMIK 10811",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261021-4-11.pdf": {
+   "d": "2026-10-21T19:45:31+00:00",
+   "t": "İLK DEFA ATANMAK ÜZERE SÖZLEŞMELİ PERSONEL ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261021-4-12.pdf": {
+   "d": "2026-10-21T19:45:31+00:00",
+   "t": "21.10.2026 “ÇARŞAMBA” AYŞEGÜL 10819 “FİLM” “ÇEŞİTLİ İLANLAR” 2 21.10.2026 “ÇARŞAMBA” AYŞEGÜL 10819 “FİLM” “ÇEŞİTLİ İLANL",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261021-4-8.pdf": {
+   "d": "2026-10-21T19:45:31+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261021-4-9.pdf": {
+   "d": "2026-10-21T19:45:31+00:00",
+   "t": "ÖĞRETİM ELEMANI ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  }
+ }
 }
