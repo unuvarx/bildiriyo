@@ -1611,6 +1611,306 @@
    "sent": true,
    "t": "TÜRKİYE CUMHURİYETİ DEVLET DEMİRYOLLARI TAŞIMACILIK ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ - 166 SÜREKLİ İŞÇİ İSTİHDAMI",
    "why": "ilan metni okunamadı, şartları kontrol edin"
+  },
+  {
+   "d": "2026-10-22T19:36:19+00:00",
+   "dec": "skip",
+   "k": "bilisim",
+   "o": [
+    "bakan",
+    "bilis",
+    "orman",
+    "tarim"
+   ],
+   "sent": false,
+   "t": "Tarım ve Orman Bakanlığından Sözleşmeli Bilişim Personeli Alım İlanı",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  {
+   "d": "2026-10-22T19:36:19+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "karat",
+    "kto",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "KTO Karatay Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-22T19:36:19+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "abant",
+    "baysa",
+    "bolu",
+    "izzet",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Bolu Abant İzzet Baysal Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-22T19:36:19+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "arast",
+    "bogaz",
+    "gorev",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Boğaziçi Üniversitesi Araştırma Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-22T19:36:19+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "arast",
+    "beyke",
+    "gorev",
+    "istan",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İstanbul Beykent Üniversitesi Rektörlüğünden Araştırma Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-22T19:36:19+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "demir",
+    "iptal",
+    "suley",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İptal İlanı (Süleyman Demirel Üniversitesi Rektörlüğü)",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-10-22T19:36:19+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "beled",
+    "duzel",
+    "sarii"
+   ],
+   "sent": false,
+   "t": "Düzeltme İlanı (Sarıidris Belediye Başkanlığı)",
+   "why": "düzeltme duyurusu"
+  },
+  {
+   "d": "2026-10-22T19:36:20+00:00",
+   "dec": "skip",
+   "k": "bilisim",
+   "o": [
+    "bilis",
+    "galat",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Galatasaray Üniversitesi Rektörlüğü Sözleşmeli Bilişim Personeli Alım İlanı",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  {
+   "d": "2026-10-22T19:36:20+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "beyke",
+    "istan",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "İstanbul Beykent Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-22T19:36:20+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ege",
+    "elema",
+    "ogret",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Ege Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-22T19:36:20+00:00",
+   "dec": "skip",
+   "k": "bilisim",
+   "o": [
+    "bilis",
+    "butce",
+    "cumhu",
+    "strat"
+   ],
+   "sent": false,
+   "t": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığından Sözleşmeli Bilişim Personeli Alım İlanı",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  {
+   "d": "2026-10-22T19:36:20+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "beled",
+    "elmak",
+    "iptal"
+   ],
+   "sent": false,
+   "t": "İptal İlanı (Elmakaya Belediye Başkanlığı)",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-10-22T19:36:46+00:00",
+   "dec": "skip",
+   "k": "bilisim",
+   "o": [
+    "butce",
+    "cumhu",
+    "strat"
+   ],
+   "sent": false,
+   "t": "SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  {
+   "d": "2026-10-22T19:36:46+00:00",
+   "dec": "skip",
+   "k": "bilisim",
+   "o": [
+    "galat",
+    "unive"
+   ],
+   "sent": false,
+   "t": "SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  {
+   "d": "2026-10-22T19:36:46+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "karat",
+    "kto",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-22T19:36:46+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "beled",
+    "elmak",
+    "mus"
+   ],
+   "sent": false,
+   "t": "İPTAL İLANI 17.09.2026 tarihli ve 33373 sayılı Resmî Gazete’de yayımlanan i lk defa atanmak üzere memur alım ilanı iptal",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-10-22T19:36:46+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "beled",
+    "ispar",
+    "sarii"
+   ],
+   "sent": false,
+   "t": "DÜZELTME İLANI 13/10/2026 tarihli ve 33399 sayılı Resmî Gazete’de yayımlanan İ lk Defa Atanmak Üzere Memur Alım İlanında",
+   "why": "düzeltme duyurusu"
+  },
+  {
+   "d": "2026-10-22T19:36:46+00:00",
+   "dec": "skip",
+   "k": "personel",
+   "o": [
+    "demir",
+    "suley",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İPTAL İLANI 02.10.2026 tarihli ve 33388 sayılı Resmî Gazete’de yayımlanan Akademik Personel Alımı ilanımızdaki; 4416 İla",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-10-22T19:36:46+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bogaz",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ARAŞTIRMA GÖREVLİSİ ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-22T19:36:46+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "abant",
+    "baysa",
+    "bolu",
+    "izzet",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-22T19:36:46+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ege",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ELEMANI ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-22T19:36:46+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "beyke",
+    "istan",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Üniversitemize 2547 Sayılı Yükseköğretim Kanunu ve \"Öğretim Üye liğine Yükseltilme ve Atanma Yönetmeliği” ile “İstanbul ",
+   "why": "akademik kadro (2547 sayılı Kanun)"
   }
  ],
  "health": {
@@ -1640,7 +1940,7 @@
    "fails": 0
   }
  },
- "heartbeat": "2026-10-21",
+ "heartbeat": "2026-10-22",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -1798,7 +2098,19 @@
    "2264012": "2026-10-21T19:44:53+00:00",
    "2264013": "2026-10-21T19:44:53+00:00",
    "2264107": "2026-10-21T19:44:52+00:00",
-   "2264127": "2026-10-21T19:44:52+00:00"
+   "2264127": "2026-10-21T19:44:52+00:00",
+   "2265050": "2026-10-22T19:36:20+00:00",
+   "2265051": "2026-10-22T19:36:20+00:00",
+   "2265055": "2026-10-22T19:36:20+00:00",
+   "2265071": "2026-10-22T19:36:20+00:00",
+   "2265072": "2026-10-22T19:36:20+00:00",
+   "2265112": "2026-10-22T19:36:19+00:00",
+   "2265120": "2026-10-22T19:36:19+00:00",
+   "2265131": "2026-10-22T19:36:19+00:00",
+   "2265177": "2026-10-22T19:36:19+00:00",
+   "2265183": "2026-10-22T19:36:19+00:00",
+   "2265191": "2026-10-22T19:36:19+00:00",
+   "2265614": "2026-10-22T19:36:19+00:00"
   },
   "iskur": {
    "00009855484": "2026-10-18T18:33:05+00:00",
@@ -1915,9 +2227,11 @@
    "4850e095-8b16-4aba-9956-555740a41146": "2026-10-18T21:01:15+00:00",
    "4f7526a3-f38f-4117-913d-df615e9d8b78": "2026-10-18T18:55:22+00:00",
    "56b19c9c-b32c-45ae-8fdc-101d776c8df3": "2026-10-20T18:11:00+00:00",
+   "5976effc-ff4b-49b1-a5d7-c08d82d81636": "2026-10-22T19:37:19+00:00",
    "5a71a4f2-6023-4194-822c-01e687eb9b15": "2026-10-18T18:55:22+00:00",
    "727b6946-c0fe-493f-a9e1-a0d668eabca2": "2026-10-18T18:55:22+00:00",
    "72e593aa-e1b5-43c4-a4c5-63da01a63ef9": "2026-10-18T18:55:22+00:00",
+   "7726dd9c-56dd-49e0-a0b2-a098e6c57b8a": "2026-10-22T19:37:10+00:00",
    "826fbdb8-f082-4294-9ac6-cd0abd98a7c9": "2026-10-18T18:55:22+00:00",
    "89781649-6080-4021-9739-f8ba3d875cd0": "2026-10-19T14:24:18+00:00",
    "9a12db48-03c8-46f2-8276-adfec8e26efa": "2026-10-20T18:10:19+00:00",
@@ -2024,7 +2338,25 @@
    "20261021-4-6.pdf": "2026-10-21T19:45:31+00:00",
    "20261021-4-7.pdf": "2026-10-21T19:45:31+00:00",
    "20261021-4-8.pdf": "2026-10-21T19:45:31+00:00",
-   "20261021-4-9.pdf": "2026-10-21T19:45:31+00:00"
+   "20261021-4-9.pdf": "2026-10-21T19:45:31+00:00",
+   "20261022-4-1.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-10.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-11.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-12.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-13.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-14.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-15.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-16.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-17.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-18.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-2.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-3.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-4.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-5.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-6.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-7.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-8.pdf": "2026-10-22T19:36:46+00:00",
+   "20261022-4-9.pdf": "2026-10-22T19:36:46+00:00"
   }
  },
  "skipped": {
@@ -2072,6 +2404,66 @@
    "d": "2026-10-21T19:44:52+00:00",
    "t": "Fatih Sultan Mehmet Vakıf Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
    "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2265050": {
+   "d": "2026-10-22T19:36:20+00:00",
+   "t": "İptal İlanı (Elmakaya Belediye Başkanlığı)",
+   "why": "iptal duyurusu"
+  },
+  "ilangov:2265051": {
+   "d": "2026-10-22T19:36:20+00:00",
+   "t": "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığından Sözleşmeli Bilişim Personeli Alım İlanı",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "ilangov:2265055": {
+   "d": "2026-10-22T19:36:20+00:00",
+   "t": "Ege Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2265071": {
+   "d": "2026-10-22T19:36:20+00:00",
+   "t": "İstanbul Beykent Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2265072": {
+   "d": "2026-10-22T19:36:20+00:00",
+   "t": "Galatasaray Üniversitesi Rektörlüğü Sözleşmeli Bilişim Personeli Alım İlanı",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "ilangov:2265112": {
+   "d": "2026-10-22T19:36:19+00:00",
+   "t": "Düzeltme İlanı (Sarıidris Belediye Başkanlığı)",
+   "why": "düzeltme duyurusu"
+  },
+  "ilangov:2265120": {
+   "d": "2026-10-22T19:36:19+00:00",
+   "t": "İptal İlanı (Süleyman Demirel Üniversitesi Rektörlüğü)",
+   "why": "iptal duyurusu"
+  },
+  "ilangov:2265131": {
+   "d": "2026-10-22T19:36:19+00:00",
+   "t": "İstanbul Beykent Üniversitesi Rektörlüğünden Araştırma Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2265177": {
+   "d": "2026-10-22T19:36:19+00:00",
+   "t": "Boğaziçi Üniversitesi Araştırma Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2265183": {
+   "d": "2026-10-22T19:36:19+00:00",
+   "t": "Bolu Abant İzzet Baysal Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2265191": {
+   "d": "2026-10-22T19:36:19+00:00",
+   "t": "KTO Karatay Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2265614": {
+   "d": "2026-10-22T19:36:19+00:00",
+   "t": "Tarım ve Orman Bakanlığından Sözleşmeli Bilişim Personeli Alım İlanı",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
   },
   "iskur:00009862271": {
    "d": "2026-10-21T19:45:45+00:00",
@@ -2468,6 +2860,16 @@
    "t": "Tren Teşkil İşçisi",
    "why": "meslek alanınızla ilgili değil"
   },
+  "kariyerkapisi:5976effc-ff4b-49b1-a5d7-c08d82d81636": {
+   "d": "2026-10-22T19:37:19+00:00",
+   "t": "TARIM VE ORMAN BAKANLIĞI - SÖZLEŞMELİ BİLİŞİM PERSONEL ALIMI",
+   "why": "aynı ilanın metnine göre: sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "kariyerkapisi:7726dd9c-56dd-49e0-a0b2-a098e6c57b8a": {
+   "d": "2026-10-22T19:37:10+00:00",
+   "t": "GALATASARAY ÜNİVERSİTESİ REKTÖRLÜĞÜ - SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
   "resmigazete:20261015-4-10.pdf": {
    "d": "2026-10-21T19:45:31+00:00",
    "t": "Üniversitemize bağlı birimlerde istihdam edilmek üzere, 2547 sa yılı Kanun ve Üniversitemiz Öğretim Üyeliği Kadrolarına ",
@@ -2532,6 +2934,56 @@
    "d": "2026-10-21T19:45:31+00:00",
    "t": "ÖĞRETİM ELEMANI ALIM İLANI",
    "why": "akademik kadro (ALES gerekir)"
+  },
+  "resmigazete:20261022-4-1.pdf": {
+   "d": "2026-10-22T19:36:46+00:00",
+   "t": "SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "resmigazete:20261022-4-10.pdf": {
+   "d": "2026-10-22T19:36:46+00:00",
+   "t": "DÜZELTME İLANI 13/10/2026 tarihli ve 33399 sayılı Resmî Gazete’de yayımlanan İ lk Defa Atanmak Üzere Memur Alım İlanında",
+   "why": "düzeltme duyurusu"
+  },
+  "resmigazete:20261022-4-11.pdf": {
+   "d": "2026-10-22T19:36:46+00:00",
+   "t": "İPTAL İLANI 02.10.2026 tarihli ve 33388 sayılı Resmî Gazete’de yayımlanan Akademik Personel Alımı ilanımızdaki; 4416 İla",
+   "why": "iptal duyurusu"
+  },
+  "resmigazete:20261022-4-14.pdf": {
+   "d": "2026-10-22T19:36:46+00:00",
+   "t": "ARAŞTIRMA GÖREVLİSİ ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "resmigazete:20261022-4-15.pdf": {
+   "d": "2026-10-22T19:36:46+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261022-4-16.pdf": {
+   "d": "2026-10-22T19:36:46+00:00",
+   "t": "ÖĞRETİM ELEMANI ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "resmigazete:20261022-4-17.pdf": {
+   "d": "2026-10-22T19:36:46+00:00",
+   "t": "Üniversitemize 2547 Sayılı Yükseköğretim Kanunu ve \"Öğretim Üye liğine Yükseltilme ve Atanma Yönetmeliği” ile “İstanbul ",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261022-4-6.pdf": {
+   "d": "2026-10-22T19:36:46+00:00",
+   "t": "SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "resmigazete:20261022-4-7.pdf": {
+   "d": "2026-10-22T19:36:46+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261022-4-9.pdf": {
+   "d": "2026-10-22T19:36:46+00:00",
+   "t": "İPTAL İLANI 17.09.2026 tarihli ve 33373 sayılı Resmî Gazete’de yayımlanan i lk defa atanmak üzere memur alım ilanı iptal",
+   "why": "iptal duyurusu"
   }
  }
 }
