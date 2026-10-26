@@ -27,6 +27,7 @@ kamuilan.sbb.gov.tr ve yerelyonetimler.csb.gov.tr yurt dışı IP'lerini engelle
 - Aynı ilan birden fazla kaynakta çıkarsa tek kez gönderilir.
 - Her taramadan sonra 🤖 durum mesajı gelir (gönderilen / elenen sayısı). **Gelmezse bot durmuştur.**
 - Bir site taranamazsa ⚠️ uyarısı gelir.
+- Tarama işi herhangi bir sebeple çökerse ❌ mesajı ve hata kaydının linki gelir.
 - Şu an açık tüm uygun ilanların özeti: Actions → "İlan kontrolü" → Run workflow → "özet" kutusunu işaretleyin.
 
 ## Kurulum
