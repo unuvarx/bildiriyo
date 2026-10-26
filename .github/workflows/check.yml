@@ -34,8 +34,12 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      # Kurulamazsa tarama yine çalışır, sadece taranmış PDF'ler OCR'sız kalır.
       - name: OCR araçları (taranmış Resmî Gazete PDF'leri için)
-        run: sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-tur > /dev/null
+        continue-on-error: true
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-tur > /dev/null
 
       - name: İlanları tara ve Telegram'a gönder
         env:
