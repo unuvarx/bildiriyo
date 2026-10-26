@@ -1911,6 +1911,614 @@
    "sent": false,
    "t": "Üniversitemize 2547 Sayılı Yükseköğretim Kanunu ve \"Öğretim Üye liğine Yükseltilme ve Atanma Yönetmeliği” ile “İstanbul ",
    "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-10-26T09:23:34+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "beled",
+    "buyuk",
+    "izmir",
+    "zabit"
+   ],
+   "sent": false,
+   "t": "İzmir Büyükşehir Belediye Başkanlığı Zabıta Memur Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-26T09:23:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "elema",
+    "firat",
+    "ogret",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Fırat Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:23:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "firat",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Fırat Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:23:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "duzel",
+    "marma",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Düzeltme İlanı (Marmara Üniversitesi Rektörlüğü)",
+   "why": "düzeltme duyurusu"
+  },
+  {
+   "d": "2026-10-26T09:23:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "dokuz",
+    "elema",
+    "eylul",
+    "ogret",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Dokuz Eylül Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:23:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bilim",
+    "duzel",
+    "iptal",
+    "sagli",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Sağlık Bilimleri Üniversitesi (İptal ve Düzeltme İlanı)",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-10-26T09:23:36+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "dokuz",
+    "eylul",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Dokuz Eylül Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:23:36+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bilim",
+    "islam",
+    "ogret",
+    "tekno",
+    "turki",
+    "ulusl",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:23:36+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bekta",
+    "haci",
+    "nevse",
+    "ogret",
+    "unive",
+    "uyesi",
+    "veli"
+   ],
+   "sent": false,
+   "t": "Nevşehir Hacı Bektaş Veli Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:23:36+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bayra",
+    "elema",
+    "haci",
+    "ogret",
+    "unive",
+    "veli"
+   ],
+   "sent": false,
+   "t": "Hacı Bayram Veli Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:23:36+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "beled",
+    "bozte",
+    "kirse"
+   ],
+   "sent": false,
+   "t": "Kırşehir Boztepe Belediye Başkanlığı Memur Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-26T09:23:37+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bayar",
+    "celal",
+    "manis",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Manisa Celal Bayar Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:23:37+00:00",
+   "dec": "skip",
+   "k": "mufettis yardimci",
+   "o": [
+    "bakan",
+    "mufet",
+    "orman",
+    "tarim"
+   ],
+   "sent": false,
+   "t": "Tarım ve Orman Bakanlığı Orman Genel Müdürlüğünden Müfettiş Yardımcısı Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-26T09:23:37+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "arast",
+    "gorev",
+    "imam",
+    "kahra",
+    "sutcu",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Kahramanmaraş Sütçü İmam Üniversitesi Araştırma Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:23:37+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "akhis",
+    "beled",
+    "manis"
+   ],
+   "sent": false,
+   "t": "Manisa İli Akhisar Belediye Başkanlığından Memur Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-26T09:23:37+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bakan",
+    "kultu",
+    "kutup",
+    "turiz"
+   ],
+   "sent": false,
+   "t": "Kültür ve Turizm Bakanlığından 162 Sözleşmeli Kütüphaneci Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-26T09:23:37+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "istan",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "İstanbul Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:23:38+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "arast",
+    "bilim",
+    "gorev",
+    "islam",
+    "tekno",
+    "turki",
+    "ulusl",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi Rektörlüğünden Araştırma Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:23:38+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "canki",
+    "karat",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Çankırı Karatekin Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:23:38+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "adiya",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Adıyaman Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:23:38+00:00",
+   "dec": "skip",
+   "k": "sozlesmeli personel",
+   "o": [
+    "marma",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Marmara Üniversitesi Rektörlüğünden Sözleşmeli Personel Alım İlanı",
+   "why": "sadece lise/ön lisans kadroları (KPSS P93/P94)"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "dokuz",
+    "eylul",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Üniversitemiz birimlerine 2547 s ayılı Yükseköğretim Kanununa gö re aşağıda belirtilen ana bilim dallarına Öğretim Üyesi",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "sozlesmeli personel",
+   "o": [
+    "marma",
+    "unive"
+   ],
+   "sent": false,
+   "t": "DÜZELTME İLANI 23.10.2026 tarihli ve 33409 sayılı R esmî Gazete’de aslına uygun olarak yayımlanan Sözleşmeli Personel al",
+   "why": "düzeltme duyurusu"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ankar",
+    "bayra",
+    "cesit",
+    "ebys",
+    "haci",
+    "ilanl",
+    "pazar",
+    "unive",
+    "veli",
+    "yalci"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ELEMANI ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "firat",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "bekta",
+    "cesit",
+    "diske",
+    "haci",
+    "nevse",
+    "pazar",
+    "salih",
+    "unive",
+    "veli"
+   ],
+   "sent": false,
+   "t": "Üniversitemiz birimlerine 2547 sayılı Yükseköğretim Kanunu, 657 sayılı Devlet Memurları Kanunu’ nun 48. maddesi, Öğretim",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bilim",
+    "islam",
+    "tekno",
+    "turki",
+    "ulusl",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "beled",
+    "buyuk",
+    "izmir"
+   ],
+   "sent": false,
+   "t": "İLK DEFA ATANMAK ÜZERE ZABITA MEMURU ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "personel",
+   "o": [
+    "bakan",
+    "cevre",
+    "degis",
+    "iklim",
+    "isler",
+    "sehir",
+    "yapi"
+   ],
+   "sent": false,
+   "t": "Yapı Denetim Uygulama Yönetmeliğinin 16’ncı maddesinin birinci fıkrası gereği, çekirdek personel eksikliğini 90 takvim g",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bilim",
+    "sagli",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İPTAL VE DÜZELTME İLANI",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "istan",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Üniversitemizin aşağıda isimleri yazılı birimlerine, 2547 Sayıl ı Kanunun ilgili maddeleri, 657 sayılı Devlet Memurları ",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "imam",
+    "kahra",
+    "sutcu",
+    "unive"
+   ],
+   "sent": false,
+   "t": "2547 sayılı Yükseköğretim Kanunu ile Öğretim Üyesi Dışındaki Öğ retim Elemanı Kadrolarına Yapılacak Atamalarda Uygulanac",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "beled",
+    "bozte",
+    "kirse"
+   ],
+   "sent": false,
+   "t": "İLK DEFA ATANMAK ÜZERE MEMUR ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bakan",
+    "kultu",
+    "turiz"
+   ],
+   "sent": false,
+   "t": "162 SÖZLEŞMELİ KÜTÜPHANECİ ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "akhis",
+    "beled",
+    "manis"
+   ],
+   "sent": false,
+   "t": "İLK DEFA ATANMAK ÜZERE MEMUR ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "sozlesmeli personel",
+   "o": [
+    "marma",
+    "unive"
+   ],
+   "sent": false,
+   "t": "SÖZLEŞMELİ PERSONEL ALIM İLANI",
+   "why": "sadece lise/ön lisans kadroları (KPSS P93/P94)"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "mufettis yardimci",
+   "o": [
+    "bakan",
+    "orman",
+    "tarim"
+   ],
+   "sent": false,
+   "t": "MÜFETTİŞ YARDIMCILIĞI GİRİŞ SINAVI İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "adiya",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Üniversitemize, 2547 sayılı Kanun, “Öğretim Üyeliğine Yükseltilme ve Atanma Yönetmeliği” ve “Adıyaman Üniversitesi Akade",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "canki",
+    "karat",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Üniversitemize 2547 sayılı Yükseköğretim Kanunu’nun ilgili madd eleri gereğince ve Öğretim Üyeliğine Yükseltilme ve Atan",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bayar",
+    "celal",
+    "manis",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ KADROLARINA (PROFESÖR, DOÇENT, DOKTOR ÖĞRETİM ÜYESİ) ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-26T09:24:42+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bilim",
+    "cesit",
+    "cuma",
+    "film",
+    "ilanl",
+    "islam",
+    "tekno",
+    "turki",
+    "ulusl",
+    "unive",
+    "yalci"
+   ],
+   "sent": false,
+   "t": "23.10.2026 “CUMA” YALÇIN 11046 “FİLM” ÇEŞİTLİ",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-10-26T09:25:06+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "deniz",
+    "islet",
+    "turki"
+   ],
+   "sent": false,
+   "t": "Avukat",
+   "why": "meslek alanınızla ilgili değil"
   }
  ],
  "health": {
@@ -1940,7 +2548,7 @@
    "fails": 0
   }
  },
- "heartbeat": "2026-10-22",
+ "heartbeat": "2026-10-26",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -2110,7 +2718,28 @@
    "2265177": "2026-10-22T19:36:19+00:00",
    "2265183": "2026-10-22T19:36:19+00:00",
    "2265191": "2026-10-22T19:36:19+00:00",
-   "2265614": "2026-10-22T19:36:19+00:00"
+   "2265614": "2026-10-22T19:36:19+00:00",
+   "2266482": "2026-10-26T09:23:38+00:00",
+   "2266499": "2026-10-26T09:23:38+00:00",
+   "2266522": "2026-10-26T09:23:38+00:00",
+   "2266535": "2026-10-26T09:23:38+00:00",
+   "2266536": "2026-10-26T09:23:37+00:00",
+   "2266544": "2026-10-26T09:23:37+00:00",
+   "2266555": "2026-10-26T09:23:37+00:00",
+   "2266584": "2026-10-26T09:23:37+00:00",
+   "2266585": "2026-10-26T09:23:37+00:00",
+   "2266605": "2026-10-26T09:23:37+00:00",
+   "2266674": "2026-10-26T09:23:36+00:00",
+   "2268378": "2026-10-26T09:23:36+00:00",
+   "2268379": "2026-10-26T09:23:36+00:00",
+   "2268380": "2026-10-26T09:23:36+00:00",
+   "2268383": "2026-10-26T09:23:36+00:00",
+   "2268384": "2026-10-26T09:23:35+00:00",
+   "2268385": "2026-10-26T09:23:35+00:00",
+   "2268396": "2026-10-26T09:23:35+00:00",
+   "2268397": "2026-10-26T09:23:35+00:00",
+   "2268403": "2026-10-26T09:23:35+00:00",
+   "2268404": "2026-10-26T09:23:34+00:00"
   },
   "iskur": {
    "00009855484": "2026-10-18T18:33:05+00:00",
@@ -2206,7 +2835,11 @@
    "00009865584": "2026-10-21T19:46:04+00:00",
    "00009865616": "2026-10-21T19:46:04+00:00",
    "00009865639": "2026-10-21T19:46:04+00:00",
+   "00009866684": "2026-10-26T09:25:06+00:00",
    "00009867009": "2026-10-21T19:46:05+00:00",
+   "00009870677": "2026-10-26T09:25:09+00:00",
+   "00009873285": "2026-10-26T09:25:08+00:00",
+   "00009873527": "2026-10-26T09:25:09+00:00",
    "duyuru:turkiye-is-kurumu-genel-mudurlugu-sozlesmeli-bilisim-personeli-alimi-ilani-1": "2026-10-18T18:33:05+00:00"
   },
   "kamuilan": {},
@@ -2232,12 +2865,14 @@
    "727b6946-c0fe-493f-a9e1-a0d668eabca2": "2026-10-18T18:55:22+00:00",
    "72e593aa-e1b5-43c4-a4c5-63da01a63ef9": "2026-10-18T18:55:22+00:00",
    "7726dd9c-56dd-49e0-a0b2-a098e6c57b8a": "2026-10-22T19:37:10+00:00",
+   "793cd518-1ca4-4e15-90ee-58989b15bd08": "2026-10-26T09:25:28+00:00",
    "826fbdb8-f082-4294-9ac6-cd0abd98a7c9": "2026-10-18T18:55:22+00:00",
    "89781649-6080-4021-9739-f8ba3d875cd0": "2026-10-19T14:24:18+00:00",
    "9a12db48-03c8-46f2-8276-adfec8e26efa": "2026-10-20T18:10:19+00:00",
    "a14f0db5-110e-4656-a977-7b6b17b55fbb": "2026-10-18T18:55:22+00:00",
    "a6d18ac1-8799-4f76-b4f5-418ceb8c735e": "2026-10-18T18:55:22+00:00",
    "ac9395a0-1096-4384-abba-76719301f64a": "2026-10-18T18:55:22+00:00",
+   "af46c544-8728-4ab2-beed-937fe050035c": "2026-10-26T09:25:20+00:00",
    "c1ab5cba-d22b-40ab-b89b-1d27431a422c": "2026-10-18T18:55:22+00:00",
    "cb266bf7-8022-4349-b285-053be1f91922": "2026-10-20T18:10:10+00:00",
    "d419889e-c536-4404-b91f-b319b84f1fa9": "2026-10-20T09:12:26+00:00",
@@ -2356,7 +2991,51 @@
    "20261022-4-6.pdf": "2026-10-22T19:36:46+00:00",
    "20261022-4-7.pdf": "2026-10-22T19:36:46+00:00",
    "20261022-4-8.pdf": "2026-10-22T19:36:46+00:00",
-   "20261022-4-9.pdf": "2026-10-22T19:36:46+00:00"
+   "20261022-4-9.pdf": "2026-10-22T19:36:46+00:00",
+   "20261023-4-1.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-10.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-11.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-12.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-13.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-14.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-15.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-16.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-17.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-18.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-19.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-2.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-20.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-21.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-22.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-23.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-24.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-25.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-3.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-4.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-5.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-6.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-7.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-8.pdf": "2026-10-26T09:24:42+00:00",
+   "20261023-4-9.pdf": "2026-10-26T09:24:42+00:00",
+   "20261024-4-1.pdf": "2026-10-26T09:24:42+00:00",
+   "20261024-4-2.pdf": "2026-10-26T09:24:42+00:00",
+   "20261024-4-3.pdf": "2026-10-26T09:24:42+00:00",
+   "20261024-4-4.pdf": "2026-10-26T09:24:42+00:00",
+   "20261024-4-5.pdf": "2026-10-26T09:24:42+00:00",
+   "20261024-4-6.pdf": "2026-10-26T09:24:42+00:00",
+   "20261024-4-7.pdf": "2026-10-26T09:24:42+00:00",
+   "20261025-4-1.pdf": "2026-10-26T09:24:42+00:00",
+   "20261025-4-2.pdf": "2026-10-26T09:24:42+00:00",
+   "20261025-4-3.pdf": "2026-10-26T09:24:42+00:00",
+   "20261025-4-4.pdf": "2026-10-26T09:24:42+00:00",
+   "20261025-4-5.pdf": "2026-10-26T09:24:42+00:00",
+   "20261025-4-6.pdf": "2026-10-26T09:24:42+00:00",
+   "20261026-4-1.pdf": "2026-10-26T09:24:42+00:00",
+   "20261026-4-2.pdf": "2026-10-26T09:24:42+00:00",
+   "20261026-4-3.pdf": "2026-10-26T09:24:42+00:00",
+   "20261026-4-4.pdf": "2026-10-26T09:24:42+00:00",
+   "20261026-4-5.pdf": "2026-10-26T09:24:42+00:00",
+   "20261026-4-6.pdf": "2026-10-26T09:24:42+00:00"
   }
  },
  "skipped": {
@@ -2464,6 +3143,111 @@
    "d": "2026-10-22T19:36:19+00:00",
    "t": "Tarım ve Orman Bakanlığından Sözleşmeli Bilişim Personeli Alım İlanı",
    "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "ilangov:2266482": {
+   "d": "2026-10-26T09:23:38+00:00",
+   "t": "Marmara Üniversitesi Rektörlüğünden Sözleşmeli Personel Alım İlanı",
+   "why": "sadece lise/ön lisans kadroları (KPSS P93/P94)"
+  },
+  "ilangov:2266499": {
+   "d": "2026-10-26T09:23:38+00:00",
+   "t": "Adıyaman Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2266522": {
+   "d": "2026-10-26T09:23:38+00:00",
+   "t": "Çankırı Karatekin Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2266535": {
+   "d": "2026-10-26T09:23:38+00:00",
+   "t": "Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi Rektörlüğünden Araştırma Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2266536": {
+   "d": "2026-10-26T09:23:37+00:00",
+   "t": "İstanbul Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2266544": {
+   "d": "2026-10-26T09:23:37+00:00",
+   "t": "Kültür ve Turizm Bakanlığından 162 Sözleşmeli Kütüphaneci Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "ilangov:2266555": {
+   "d": "2026-10-26T09:23:37+00:00",
+   "t": "Manisa İli Akhisar Belediye Başkanlığından Memur Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "ilangov:2266584": {
+   "d": "2026-10-26T09:23:37+00:00",
+   "t": "Kahramanmaraş Sütçü İmam Üniversitesi Araştırma Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2266585": {
+   "d": "2026-10-26T09:23:37+00:00",
+   "t": "Tarım ve Orman Bakanlığı Orman Genel Müdürlüğünden Müfettiş Yardımcısı Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "ilangov:2266605": {
+   "d": "2026-10-26T09:23:37+00:00",
+   "t": "Manisa Celal Bayar Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2266674": {
+   "d": "2026-10-26T09:23:36+00:00",
+   "t": "Kırşehir Boztepe Belediye Başkanlığı Memur Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "ilangov:2268378": {
+   "d": "2026-10-26T09:23:36+00:00",
+   "t": "Hacı Bayram Veli Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2268379": {
+   "d": "2026-10-26T09:23:36+00:00",
+   "t": "Nevşehir Hacı Bektaş Veli Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2268380": {
+   "d": "2026-10-26T09:23:36+00:00",
+   "t": "Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2268383": {
+   "d": "2026-10-26T09:23:36+00:00",
+   "t": "Dokuz Eylül Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2268384": {
+   "d": "2026-10-26T09:23:35+00:00",
+   "t": "Sağlık Bilimleri Üniversitesi (İptal ve Düzeltme İlanı)",
+   "why": "iptal duyurusu"
+  },
+  "ilangov:2268385": {
+   "d": "2026-10-26T09:23:35+00:00",
+   "t": "Dokuz Eylül Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2268396": {
+   "d": "2026-10-26T09:23:35+00:00",
+   "t": "Düzeltme İlanı (Marmara Üniversitesi Rektörlüğü)",
+   "why": "düzeltme duyurusu"
+  },
+  "ilangov:2268397": {
+   "d": "2026-10-26T09:23:35+00:00",
+   "t": "Fırat Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2268403": {
+   "d": "2026-10-26T09:23:35+00:00",
+   "t": "Fırat Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2268404": {
+   "d": "2026-10-26T09:23:34+00:00",
+   "t": "İzmir Büyükşehir Belediye Başkanlığı Zabıta Memur Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
   },
   "iskur:00009862271": {
    "d": "2026-10-21T19:45:45+00:00",
@@ -2855,9 +3639,29 @@
    "t": "Tesviyeci",
    "why": "meslek alanınızla ilgili değil"
   },
+  "iskur:00009866684": {
+   "d": "2026-10-26T09:25:06+00:00",
+   "t": "Avukat",
+   "why": "meslek alanınızla ilgili değil"
+  },
   "iskur:00009867009": {
    "d": "2026-10-21T19:46:05+00:00",
    "t": "Tren Teşkil İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009870677": {
+   "d": "2026-10-26T09:25:09+00:00",
+   "t": "Şoför (Yolcu Taşıma)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009873285": {
+   "d": "2026-10-26T09:25:08+00:00",
+   "t": "Sıhhi Tesisatçı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009873527": {
+   "d": "2026-10-26T09:25:09+00:00",
+   "t": "Doğal Gaz Kalorifer Ateşçisi",
    "why": "meslek alanınızla ilgili değil"
   },
   "kariyerkapisi:5976effc-ff4b-49b1-a5d7-c08d82d81636": {
@@ -2869,6 +3673,16 @@
    "d": "2026-10-22T19:37:10+00:00",
    "t": "GALATASARAY ÜNİVERSİTESİ REKTÖRLÜĞÜ - SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
    "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "kariyerkapisi:793cd518-1ca4-4e15-90ee-58989b15bd08": {
+   "d": "2026-10-26T09:25:28+00:00",
+   "t": "ORMAN GENEL MÜDÜRLÜĞÜ - MÜFETTİŞ YARDIMCILIĞI GİRİŞ SINAVI İLANI",
+   "why": "aynı ilanın metnine göre: bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "kariyerkapisi:af46c544-8728-4ab2-beed-937fe050035c": {
+   "d": "2026-10-26T09:25:20+00:00",
+   "t": "MARMARA ÜNİVERSİTESİ REKTÖRLÜĞÜ - Sözleşmeli Personel Alım İlanı (26.10.2026)",
+   "why": "aynı ilanın metnine göre: düzeltme duyurusu"
   },
   "resmigazete:20261015-4-10.pdf": {
    "d": "2026-10-21T19:45:31+00:00",
@@ -2984,6 +3798,106 @@
    "d": "2026-10-22T19:36:46+00:00",
    "t": "İPTAL İLANI 17.09.2026 tarihli ve 33373 sayılı Resmî Gazete’de yayımlanan i lk defa atanmak üzere memur alım ilanı iptal",
    "why": "iptal duyurusu"
+  },
+  "resmigazete:20261023-4-10.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "Üniversitemizin aşağıda isimleri yazılı birimlerine, 2547 Sayıl ı Kanunun ilgili maddeleri, 657 sayılı Devlet Memurları ",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261023-4-11.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "2547 sayılı Yükseköğretim Kanunu ile Öğretim Üyesi Dışındaki Öğ retim Elemanı Kadrolarına Yapılacak Atamalarda Uygulanac",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261023-4-12.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "İLK DEFA ATANMAK ÜZERE MEMUR ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261023-4-13.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "162 SÖZLEŞMELİ KÜTÜPHANECİ ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261023-4-14.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "İLK DEFA ATANMAK ÜZERE MEMUR ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261023-4-15.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "SÖZLEŞMELİ PERSONEL ALIM İLANI",
+   "why": "sadece lise/ön lisans kadroları (KPSS P93/P94)"
+  },
+  "resmigazete:20261023-4-16.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "MÜFETTİŞ YARDIMCILIĞI GİRİŞ SINAVI İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261023-4-20.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "Üniversitemize, 2547 sayılı Kanun, “Öğretim Üyeliğine Yükseltilme ve Atanma Yönetmeliği” ve “Adıyaman Üniversitesi Akade",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261023-4-21.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "Üniversitemize 2547 sayılı Yükseköğretim Kanunu’nun ilgili madd eleri gereğince ve Öğretim Üyeliğine Yükseltilme ve Atan",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261023-4-22.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "ÖĞRETİM ÜYESİ KADROLARINA (PROFESÖR, DOÇENT, DOKTOR ÖĞRETİM ÜYESİ) ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261023-4-23.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "23.10.2026 “CUMA” YALÇIN 11046 “FİLM” ÇEŞİTLİ",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261024-4-5.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "Yapı Denetim Uygulama Yönetmeliğinin 16’ncı maddesinin birinci fıkrası gereği, çekirdek personel eksikliğini 90 takvim g",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261024-4-6.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "İPTAL VE DÜZELTME İLANI",
+   "why": "iptal duyurusu"
+  },
+  "resmigazete:20261025-4-5.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "İLK DEFA ATANMAK ÜZERE ZABITA MEMURU ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261026-4-1.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "Üniversitemiz birimlerine 2547 s ayılı Yükseköğretim Kanununa gö re aşağıda belirtilen ana bilim dallarına Öğretim Üyesi",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261026-4-2.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "DÜZELTME İLANI 23.10.2026 tarihli ve 33409 sayılı R esmî Gazete’de aslına uygun olarak yayımlanan Sözleşmeli Personel al",
+   "why": "düzeltme duyurusu"
+  },
+  "resmigazete:20261026-4-3.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "ÖĞRETİM ELEMANI ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "resmigazete:20261026-4-4.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261026-4-5.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "Üniversitemiz birimlerine 2547 sayılı Yükseköğretim Kanunu, 657 sayılı Devlet Memurları Kanunu’ nun 48. maddesi, Öğretim",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261026-4-6.pdf": {
+   "d": "2026-10-26T09:24:42+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
   }
  }
 }
