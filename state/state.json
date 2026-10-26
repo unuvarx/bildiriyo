@@ -2519,6 +2519,86 @@
    "sent": false,
    "t": "Avukat",
    "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-10-26T21:58:58+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "beled",
+    "dogan",
+    "malat"
+   ],
+   "sent": false,
+   "t": "İPTAL İLANI 21.10.2026 tarihli ve 33407 sayılı Resmî Gazete’de yayımlanan i lk defa atanmak üzere memur alım ilanı iptal",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-10-26T21:58:58+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "firat",
+    "unive"
+   ],
+   "sent": false,
+   "t": "DÜZELTME İLANI 26.10.2026 tarih ve 33412 sayılı Re smi Gazete’de aslına uygun o larak yayımlanan Üniversitemiz Öğretim Ü",
+   "why": "düzeltme duyurusu"
+  },
+  {
+   "d": "2026-10-26T21:58:58+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "beled",
+    "berga",
+    "izmir"
+   ],
+   "sent": false,
+   "t": "İLK DEFA ATANMAK ÜZERE MEMUR ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-26T21:58:58+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "harra",
+    "unive"
+   ],
+   "sent": false,
+   "t": "10928/1-1",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-10-26T21:58:58+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "gires",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Üniversitemiz birimlerine 2547 sayılı Yükseköğretim Kanunu, 657 sayılı Devlet Memurları Kanunu’nun 48 inci maddesi, Öğre",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-10-26T21:58:58+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "alpar",
+    "cesit",
+    "film",
+    "ilanl",
+    "mus",
+    "sali",
+    "unive",
+    "yalci"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI 27.10.2026 “SALI” YALÇIN 11131 “FİLM” “ÇEŞİTLİ",
+   "why": "akademik kadro (doktora gerekir)"
   }
  ],
  "health": {
@@ -2548,7 +2628,7 @@
    "fails": 0
   }
  },
- "heartbeat": "2026-10-26",
+ "heartbeat": "2026-10-27",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -3035,7 +3115,21 @@
    "20261026-4-3.pdf": "2026-10-26T09:24:42+00:00",
    "20261026-4-4.pdf": "2026-10-26T09:24:42+00:00",
    "20261026-4-5.pdf": "2026-10-26T09:24:42+00:00",
-   "20261026-4-6.pdf": "2026-10-26T09:24:42+00:00"
+   "20261026-4-6.pdf": "2026-10-26T09:24:42+00:00",
+   "20261027-4-1.pdf": "2026-10-26T21:58:58+00:00",
+   "20261027-4-10.pdf": "2026-10-26T21:58:58+00:00",
+   "20261027-4-11.pdf": "2026-10-26T21:58:58+00:00",
+   "20261027-4-12.pdf": "2026-10-26T21:58:58+00:00",
+   "20261027-4-13.pdf": "2026-10-26T21:58:58+00:00",
+   "20261027-4-14.pdf": "2026-10-26T21:58:58+00:00",
+   "20261027-4-2.pdf": "2026-10-26T21:58:58+00:00",
+   "20261027-4-3.pdf": "2026-10-26T21:58:58+00:00",
+   "20261027-4-4.pdf": "2026-10-26T21:58:58+00:00",
+   "20261027-4-5.pdf": "2026-10-26T21:58:58+00:00",
+   "20261027-4-6.pdf": "2026-10-26T21:58:58+00:00",
+   "20261027-4-7.pdf": "2026-10-26T21:58:58+00:00",
+   "20261027-4-8.pdf": "2026-10-26T21:58:58+00:00",
+   "20261027-4-9.pdf": "2026-10-26T21:58:58+00:00"
   }
  },
  "skipped": {
@@ -3898,6 +3992,36 @@
    "d": "2026-10-26T09:24:42+00:00",
    "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
    "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261027-4-10.pdf": {
+   "d": "2026-10-26T21:58:58+00:00",
+   "t": "İLK DEFA ATANMAK ÜZERE MEMUR ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261027-4-11.pdf": {
+   "d": "2026-10-26T21:58:58+00:00",
+   "t": "10928/1-1",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261027-4-12.pdf": {
+   "d": "2026-10-26T21:58:58+00:00",
+   "t": "Üniversitemiz birimlerine 2547 sayılı Yükseköğretim Kanunu, 657 sayılı Devlet Memurları Kanunu’nun 48 inci maddesi, Öğre",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261027-4-13.pdf": {
+   "d": "2026-10-26T21:58:58+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI 27.10.2026 “SALI” YALÇIN 11131 “FİLM” “ÇEŞİTLİ",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261027-4-2.pdf": {
+   "d": "2026-10-26T21:58:58+00:00",
+   "t": "İPTAL İLANI 21.10.2026 tarihli ve 33407 sayılı Resmî Gazete’de yayımlanan i lk defa atanmak üzere memur alım ilanı iptal",
+   "why": "iptal duyurusu"
+  },
+  "resmigazete:20261027-4-3.pdf": {
+   "d": "2026-10-26T21:58:58+00:00",
+   "t": "DÜZELTME İLANI 26.10.2026 tarih ve 33412 sayılı Re smi Gazete’de aslına uygun o larak yayımlanan Üniversitemiz Öğretim Ü",
+   "why": "düzeltme duyurusu"
   }
  }
 }
