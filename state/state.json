@@ -2599,6 +2599,199 @@
    "sent": false,
    "t": "ÖĞRETİM ÜYESİ ALIM İLANI 27.10.2026 “SALI” YALÇIN 11131 “FİLM” “ÇEŞİTLİ",
    "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-27T21:31:46+00:00",
+   "dec": "check",
+   "k": "memur",
+   "o": [
+    "acent",
+    "birli",
+    "iktis",
+    "islet",
+    "seyah",
+    "turki"
+   ],
+   "sent": true,
+   "t": "Enformasyon Memurluğu Sınavı Hakkında Duyuru",
+   "why": "ilan metni okunamadı, şartları kontrol edin"
+  },
+  {
+   "d": "2026-10-27T21:31:47+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "beled",
+    "berga",
+    "izmir"
+   ],
+   "sent": false,
+   "t": "İzmir ili Bergama Belediye Başkanlığı Memur Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-27T21:31:47+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "duzel",
+    "firat",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Düzeltme İlanı (Fırat Üniversitesi Rektörlüğü)",
+   "why": "düzeltme duyurusu"
+  },
+  {
+   "d": "2026-10-27T21:31:47+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "beled",
+    "dogan",
+    "iptal"
+   ],
+   "sent": false,
+   "t": "İptal İlanı (Doğanyol Belediye Başkanlığı)",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-10-27T21:31:47+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "gires",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Giresun Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-27T21:31:47+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "harra",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Harran Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-27T21:31:47+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "alpar",
+    "elema",
+    "mus",
+    "ogret",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Muş Alparslan Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-27T21:31:47+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "alpar",
+    "mus",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Muş Alparslan Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-27T21:32:07+00:00",
+   "dec": "skip",
+   "k": "sozlesmeli personel",
+   "o": [
+    "cumhu",
+    "idare",
+    "milli",
+    "saray"
+   ],
+   "sent": false,
+   "t": "SÖZLEŞMELİ PERSONEL POZİSYONUNDA 3 MÜZE GÖREVLİSİ (KAZI GÖREVLİSİ) ALIMI SINAV İLANI 1-SINAVA İLİŞKİN BİLGİLER",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-27T21:32:07+00:00",
+   "dec": "skip",
+   "k": "bilisim",
+   "o": [
+    "akif",
+    "burdu",
+    "ersoy",
+    "mehme",
+    "unive"
+   ],
+   "sent": false,
+   "t": "SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  {
+   "d": "2026-10-27T21:32:07+00:00",
+   "dec": "skip",
+   "k": "sozlesmeli personel",
+   "o": [
+    "elazi",
+    "idare",
+    "ozel"
+   ],
+   "sent": false,
+   "t": "İLK DEFA ATANMAK ÜZERE SÖZLEŞMELİ PERSONEL ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-27T21:32:07+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "istin",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Üniversitemizin aşağıda belirtilen birimlerinde boş bulunan kad rolarına 2547 sayılı Yükseköğretim Kanunu ile Öğretim Üy",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-10-27T21:32:07+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "unive",
+    "yedit"
+   ],
+   "sent": false,
+   "t": "Üniversitemizin aşağıda belirtil en birimlerinde açık bulunan Pr ofesör, Doçent ve Doktor Öğretim Üyesi kadrolarına 2547",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-27T21:32:07+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "alaad",
+    "alany",
+    "keyku",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İPTAL İLANI 29.09.2026 tarihli ve 33385 sayılı Resmî Gazete'de aslına uygun olarak yayımlanan öğretim üyesi alım ilanımı",
+   "why": "iptal duyurusu"
   }
  ],
  "health": {
@@ -2628,7 +2821,7 @@
    "fails": 0
   }
  },
- "heartbeat": "2026-10-27",
+ "heartbeat": "2026-10-28",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -2819,7 +3012,15 @@
    "2268396": "2026-10-26T09:23:35+00:00",
    "2268397": "2026-10-26T09:23:35+00:00",
    "2268403": "2026-10-26T09:23:35+00:00",
-   "2268404": "2026-10-26T09:23:34+00:00"
+   "2268404": "2026-10-26T09:23:34+00:00",
+   "2269389": "2026-10-27T21:31:46+00:00",
+   "2269832": "2026-10-27T21:31:47+00:00",
+   "2269833": "2026-10-27T21:31:47+00:00",
+   "2269834": "2026-10-27T21:31:47+00:00",
+   "2269835": "2026-10-27T21:31:47+00:00",
+   "2269836": "2026-10-27T21:31:47+00:00",
+   "2269837": "2026-10-27T21:31:47+00:00",
+   "2269849": "2026-10-27T21:31:47+00:00"
   },
   "iskur": {
    "00009855484": "2026-10-18T18:33:05+00:00",
@@ -2920,6 +3121,7 @@
    "00009870677": "2026-10-26T09:25:09+00:00",
    "00009873285": "2026-10-26T09:25:08+00:00",
    "00009873527": "2026-10-26T09:25:09+00:00",
+   "00009877774": "2026-10-27T21:32:13+00:00",
    "duyuru:turkiye-is-kurumu-genel-mudurlugu-sozlesmeli-bilisim-personeli-alimi-ilani-1": "2026-10-18T18:33:05+00:00"
   },
   "kamuilan": {},
@@ -3129,7 +3331,21 @@
    "20261027-4-6.pdf": "2026-10-26T21:58:58+00:00",
    "20261027-4-7.pdf": "2026-10-26T21:58:58+00:00",
    "20261027-4-8.pdf": "2026-10-26T21:58:58+00:00",
-   "20261027-4-9.pdf": "2026-10-26T21:58:58+00:00"
+   "20261027-4-9.pdf": "2026-10-26T21:58:58+00:00",
+   "20261028-4-1.pdf": "2026-10-27T21:32:07+00:00",
+   "20261028-4-10.pdf": "2026-10-27T21:32:07+00:00",
+   "20261028-4-11.pdf": "2026-10-27T21:32:07+00:00",
+   "20261028-4-12.pdf": "2026-10-27T21:32:07+00:00",
+   "20261028-4-13.pdf": "2026-10-27T21:32:07+00:00",
+   "20261028-4-14.pdf": "2026-10-27T21:32:07+00:00",
+   "20261028-4-2.pdf": "2026-10-27T21:32:07+00:00",
+   "20261028-4-3.pdf": "2026-10-27T21:32:07+00:00",
+   "20261028-4-4.pdf": "2026-10-27T21:32:07+00:00",
+   "20261028-4-5.pdf": "2026-10-27T21:32:07+00:00",
+   "20261028-4-6.pdf": "2026-10-27T21:32:07+00:00",
+   "20261028-4-7.pdf": "2026-10-27T21:32:07+00:00",
+   "20261028-4-8.pdf": "2026-10-27T21:32:07+00:00",
+   "20261028-4-9.pdf": "2026-10-27T21:32:07+00:00"
   }
  },
  "skipped": {
@@ -3341,6 +3557,41 @@
   "ilangov:2268404": {
    "d": "2026-10-26T09:23:34+00:00",
    "t": "İzmir Büyükşehir Belediye Başkanlığı Zabıta Memur Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "ilangov:2269832": {
+   "d": "2026-10-27T21:31:47+00:00",
+   "t": "Muş Alparslan Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2269833": {
+   "d": "2026-10-27T21:31:47+00:00",
+   "t": "Muş Alparslan Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2269834": {
+   "d": "2026-10-27T21:31:47+00:00",
+   "t": "Harran Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2269835": {
+   "d": "2026-10-27T21:31:47+00:00",
+   "t": "Giresun Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2269836": {
+   "d": "2026-10-27T21:31:47+00:00",
+   "t": "İptal İlanı (Doğanyol Belediye Başkanlığı)",
+   "why": "iptal duyurusu"
+  },
+  "ilangov:2269837": {
+   "d": "2026-10-27T21:31:47+00:00",
+   "t": "Düzeltme İlanı (Fırat Üniversitesi Rektörlüğü)",
+   "why": "düzeltme duyurusu"
+  },
+  "ilangov:2269849": {
+   "d": "2026-10-27T21:31:47+00:00",
+   "t": "İzmir ili Bergama Belediye Başkanlığı Memur Alım İlanı",
    "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
   },
   "iskur:00009862271": {
@@ -3758,6 +4009,11 @@
    "t": "Doğal Gaz Kalorifer Ateşçisi",
    "why": "meslek alanınızla ilgili değil"
   },
+  "iskur:00009877774": {
+   "d": "2026-10-27T21:32:13+00:00",
+   "t": "İnşaat İşçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
   "kariyerkapisi:5976effc-ff4b-49b1-a5d7-c08d82d81636": {
    "d": "2026-10-22T19:37:19+00:00",
    "t": "TARIM VE ORMAN BAKANLIĞI - SÖZLEŞMELİ BİLİŞİM PERSONEL ALIMI",
@@ -4022,6 +4278,36 @@
    "d": "2026-10-26T21:58:58+00:00",
    "t": "DÜZELTME İLANI 26.10.2026 tarih ve 33412 sayılı Re smi Gazete’de aslına uygun o larak yayımlanan Üniversitemiz Öğretim Ü",
    "why": "düzeltme duyurusu"
+  },
+  "resmigazete:20261028-4-1.pdf": {
+   "d": "2026-10-27T21:32:07+00:00",
+   "t": "SÖZLEŞMELİ PERSONEL POZİSYONUNDA 3 MÜZE GÖREVLİSİ (KAZI GÖREVLİSİ) ALIMI SINAV İLANI 1-SINAVA İLİŞKİN BİLGİLER",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261028-4-10.pdf": {
+   "d": "2026-10-27T21:32:07+00:00",
+   "t": "Üniversitemizin aşağıda belirtilen birimlerinde boş bulunan kad rolarına 2547 sayılı Yükseköğretim Kanunu ile Öğretim Üy",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261028-4-11.pdf": {
+   "d": "2026-10-27T21:32:07+00:00",
+   "t": "Üniversitemizin aşağıda belirtil en birimlerinde açık bulunan Pr ofesör, Doçent ve Doktor Öğretim Üyesi kadrolarına 2547",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261028-4-13.pdf": {
+   "d": "2026-10-27T21:32:07+00:00",
+   "t": "İPTAL İLANI 29.09.2026 tarihli ve 33385 sayılı Resmî Gazete'de aslına uygun olarak yayımlanan öğretim üyesi alım ilanımı",
+   "why": "iptal duyurusu"
+  },
+  "resmigazete:20261028-4-8.pdf": {
+   "d": "2026-10-27T21:32:07+00:00",
+   "t": "SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "resmigazete:20261028-4-9.pdf": {
+   "d": "2026-10-27T21:32:07+00:00",
+   "t": "İLK DEFA ATANMAK ÜZERE SÖZLEŞMELİ PERSONEL ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
   }
  }
 }
