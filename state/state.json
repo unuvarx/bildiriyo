@@ -2792,6 +2792,106 @@
    "sent": false,
    "t": "İPTAL İLANI 29.09.2026 tarihli ve 33385 sayılı Resmî Gazete'de aslına uygun olarak yayımlanan öğretim üyesi alım ilanımı",
    "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-10-28T21:56:26+00:00",
+   "dec": "skip",
+   "k": "sozlesmeli personel",
+   "o": [
+    "cumhu",
+    "idare",
+    "milli",
+    "saray"
+   ],
+   "sent": false,
+   "t": "Cumhurbaşkanlığı Milli Saraylar İdaresi Başkanlığı Sözleşmeli Personel Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-28T21:56:27+00:00",
+   "dec": "skip",
+   "k": "bilisim",
+   "o": [
+    "akif",
+    "bilis",
+    "burdu",
+    "ersoy",
+    "mehme",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Burdur Mehmet Akif Ersoy Üniversitesi Sözleşmeli Bilişim Personeli Alım İlanı",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  {
+   "d": "2026-10-28T21:56:27+00:00",
+   "dec": "skip",
+   "k": "sozlesmeli personel",
+   "o": [
+    "elazi",
+    "idare",
+    "ozel"
+   ],
+   "sent": false,
+   "t": "Elazığ İl Özel İdaresi Sözleşmeli Personel Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-10-28T21:56:27+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "alaad",
+    "alany",
+    "iptal",
+    "keyku",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İptal İlanı (Alanya Alaaddin Keykubat Üniversitesi Rektörlüğünden)",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-10-28T21:56:27+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ogret",
+    "unive",
+    "uyesi",
+    "yedit"
+   ],
+   "sent": false,
+   "t": "Yeditepe Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-10-28T21:56:27+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "elema",
+    "istin",
+    "ogret",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İstinye Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-10-28T21:56:27+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "istin",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "İstinye Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
   }
  ],
  "health": {
@@ -2816,12 +2916,12 @@
    "fails": 0
   },
   "resmigazete": {
-   "alerted": false,
-   "error": "",
-   "fails": 0
+   "alerted": true,
+   "error": "SourceError: Fihrist sayfası beklenen biçimde değil (2026-10-29, 78024 bayt)",
+   "fails": 1
   }
  },
- "heartbeat": "2026-10-28",
+ "heartbeat": "2026-10-29",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -3020,7 +3120,14 @@
    "2269835": "2026-10-27T21:31:47+00:00",
    "2269836": "2026-10-27T21:31:47+00:00",
    "2269837": "2026-10-27T21:31:47+00:00",
-   "2269849": "2026-10-27T21:31:47+00:00"
+   "2269849": "2026-10-27T21:31:47+00:00",
+   "2271445": "2026-10-28T21:56:27+00:00",
+   "2271452": "2026-10-28T21:56:27+00:00",
+   "2271453": "2026-10-28T21:56:27+00:00",
+   "2271454": "2026-10-28T21:56:27+00:00",
+   "2271463": "2026-10-28T21:56:27+00:00",
+   "2271489": "2026-10-28T21:56:27+00:00",
+   "2271555": "2026-10-28T21:56:26+00:00"
   },
   "iskur": {
    "00009855484": "2026-10-18T18:33:05+00:00",
@@ -3138,6 +3245,7 @@
    "2ce03869-1a9d-44f3-a18e-fba394abe5aa": "2026-10-18T18:55:22+00:00",
    "2fcec3f5-8c49-41d2-9ab4-9aead6433459": "2026-10-18T18:55:22+00:00",
    "320d07cc-b5bc-4bab-9541-6c1100def856": "2026-10-19T14:24:16+00:00",
+   "39c5ca3c-3571-485b-b226-2ff559360a0a": "2026-10-28T21:56:45+00:00",
    "39d5a688-3b17-48de-a123-9140f55af29e": "2026-10-18T18:55:22+00:00",
    "4850e095-8b16-4aba-9956-555740a41146": "2026-10-18T21:01:15+00:00",
    "4f7526a3-f38f-4117-913d-df615e9d8b78": "2026-10-18T18:55:22+00:00",
@@ -3166,6 +3274,7 @@
    "eff11df8-6568-4b54-9deb-2865aa9ac767": "2026-10-18T18:55:22+00:00",
    "f0ca8a29-559f-426a-ade5-5ed30651c618": "2026-10-18T18:55:22+00:00",
    "f64bcfee-da05-46c5-8324-b42254c169a2": "2026-10-20T18:09:53+00:00",
+   "f7ee3ab4-6c25-48f1-8a78-588066e3cf52": "2026-10-28T21:56:53+00:00",
    "fa2227c2-e4f6-43fe-b45f-82552f7277aa": "2026-10-18T18:55:22+00:00"
   },
   "resmigazete": {
@@ -3592,6 +3701,41 @@
   "ilangov:2269849": {
    "d": "2026-10-27T21:31:47+00:00",
    "t": "İzmir ili Bergama Belediye Başkanlığı Memur Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "ilangov:2271445": {
+   "d": "2026-10-28T21:56:27+00:00",
+   "t": "İstinye Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2271452": {
+   "d": "2026-10-28T21:56:27+00:00",
+   "t": "İstinye Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2271453": {
+   "d": "2026-10-28T21:56:27+00:00",
+   "t": "Yeditepe Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2271454": {
+   "d": "2026-10-28T21:56:27+00:00",
+   "t": "İptal İlanı (Alanya Alaaddin Keykubat Üniversitesi Rektörlüğünden)",
+   "why": "iptal duyurusu"
+  },
+  "ilangov:2271463": {
+   "d": "2026-10-28T21:56:27+00:00",
+   "t": "Elazığ İl Özel İdaresi Sözleşmeli Personel Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "ilangov:2271489": {
+   "d": "2026-10-28T21:56:27+00:00",
+   "t": "Burdur Mehmet Akif Ersoy Üniversitesi Sözleşmeli Bilişim Personeli Alım İlanı",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "ilangov:2271555": {
+   "d": "2026-10-28T21:56:26+00:00",
+   "t": "Cumhurbaşkanlığı Milli Saraylar İdaresi Başkanlığı Sözleşmeli Personel Alım İlanı",
    "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
   },
   "iskur:00009862271": {
@@ -4033,6 +4177,11 @@
    "d": "2026-10-26T09:25:20+00:00",
    "t": "MARMARA ÜNİVERSİTESİ REKTÖRLÜĞÜ - Sözleşmeli Personel Alım İlanı (26.10.2026)",
    "why": "aynı ilanın metnine göre: düzeltme duyurusu"
+  },
+  "kariyerkapisi:f7ee3ab4-6c25-48f1-8a78-588066e3cf52": {
+   "d": "2026-10-28T21:56:53+00:00",
+   "t": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ REKTÖRLÜĞÜ - SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
   },
   "resmigazete:20261015-4-10.pdf": {
    "d": "2026-10-21T19:45:31+00:00",
