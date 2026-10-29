@@ -1,7 +1,7 @@
 # Bildiriyo
 
 Kamu ilanlarını tarayıp yenilerini Telegram grubuna gönderen ücretsiz bot.
-GitHub Actions üzerinde her 20 dakikada bir çalışır, sunucu gerekmez.
+GitHub Actions üzerinde günde bir çalışır, sunucu gerekmez.
 
 ## Taranan kaynaklar
 
@@ -17,7 +17,7 @@ kamuilan.sbb.gov.tr ve yerelyonetimler.csb.gov.tr yurt dışı IP'lerini engelle
 
 ## Nasıl çalışır
 
-- Her gün **19:00**'da (yedek: 21:00) 4 kaynak taranır. Daha önce görülmemiş her ilanın
+- Her gün **~18:30**'da (yedekler: 19:40, 20:50; GitHub birkaç saat geciktirebilir) 4 kaynak taranır. Daha önce görülmemiş her ilanın
   **metni okunur** ve profilinize göre karar verilir (`bildiriyo/profile.py`):
   - 🟢 **Başvurabilirsiniz**: metinde Yazılım/Bilgisayar Mühendisliği veya "herhangi bir lisans" geçiyor.
   - 🟡 **Şartları kontrol edin**: bölümler ilan ekinde/kılavuzda, deneyim isteyen kadro var

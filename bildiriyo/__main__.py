@@ -19,6 +19,7 @@ from .telegram import Telegram, esc
 
 TR = timezone(timedelta(hours=3))
 ALERT_AFTER = 1  # günde bir tarama: ilk hatada uyar
+SCAN_GAP_HOURS = 12  # bundan yakın zamanda tarama yapıldıysa yedek çalışmalar çıkar
 ENRICH_TRIES = 3  # ilan metni bu kadar denemede alınamazsa metinsiz karar ver
 ICON = {OK: "🟢", CHECK: "🟡"}
 HEAD = {OK: "BAŞVURABİLİRSİNİZ", CHECK: "ŞARTLARI KONTROL EDİN"}
@@ -180,6 +181,7 @@ def heartbeat(st, tg, keys) -> None:
     lines.append(f"🚫 Uygun olmadığı için gönderilmeyen: {skipped}")
     if tg.send(f"🤖 <b>Bildiriyo günlük tarama</b> · {today}\n" + "\n".join(lines)):
         st["heartbeat"] = today
+        st["last_scan"] = now()
 
 
 def main() -> int:
@@ -188,9 +190,12 @@ def main() -> int:
     force = "--force" in args
     only = [a for a in args if not a.startswith("--")]
     st, tg, s = state.load(), Telegram(), session()
-    today = datetime.now(TR).date().isoformat()
-    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and st.get("heartbeat") == today and not force:
-        log.info("Bugünkü tarama zaten yapıldı (%s), yedek çalışma çıkıyor.", today)
+    # Takvim günü yerine son taramadan geçen süreye bakılır: GitHub zamanlanmış
+    # çalışmaları saatlerce geciktirebiliyor; gece yarısını geçen bir tarama
+    # ertesi günün taramasını da "yapıldı" saydırıyordu.
+    recent = (datetime.now(timezone.utc) - timedelta(hours=SCAN_GAP_HOURS)).isoformat()
+    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and st.get("last_scan", "") >= recent and not force:
+        log.info("Son tarama %s, yedek çalışma çıkıyor.", st["last_scan"])
         return 0
     if tg.dry_run and os.environ.get("GITHUB_ACTIONS"):
         # Gönderemediğimiz ilanları "görüldü" saymamak için hiç çalışma.

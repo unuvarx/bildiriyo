@@ -76,6 +76,8 @@ def _issue_pages(s, day) -> list[str]:
         if r.status_code == 404:
             continue
         r.raise_for_status()
+        if "yayimlanmamaktadir" in fold(r.text):
+            break  # bayram vb.: o gün Resmî Gazete çıkmıyor
         if "fihrist-item" not in r.text:
             # Engelleme/hata sayfası: "ilan yok" sanıp sessizce geçmek yerine hata ver.
             raise SourceError(f"Fihrist sayfası beklenen biçimde değil ({day}, {len(r.text)} bayt)")

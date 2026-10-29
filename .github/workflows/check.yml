@@ -2,10 +2,12 @@ name: İlan kontrolü
 
 on:
   schedule:
-    # Günde bir tarama, 19:00 TR (16:00 UTC). 21:00 yedektir: GitHub zamanlanmış
-    # çalışmaları ara sıra atlayabiliyor; o gün tarama yapıldıysa yedek hemen çıkar.
-    - cron: "0 16 * * *"
-    - cron: "0 18 * * *"
+    # Günde bir tarama, ~18:30 TR. GitHub zamanlanmış çalışmaları (özellikle tam
+    # saatlerde) saatlerce geciktirip bazen atlıyor; bu yüzden tam saat dışı
+    # dakikalar ve iki yedek var. Son 12 saatte tarama yapıldıysa yedek hemen çıkar.
+    - cron: "27 15 * * *"
+    - cron: "41 16 * * *"
+    - cron: "53 17 * * *"
   workflow_dispatch:         # Actions sekmesinden elle çalıştırmak için
     inputs:
       ozet:
