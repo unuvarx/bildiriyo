@@ -172,6 +172,12 @@ def heartbeat(st, tg, keys) -> None:
     today = datetime.now(TR).date().isoformat()
     since = (datetime.now(timezone.utc) - timedelta(days=1)).isoformat()
     lines = []
+    last = st.get("last_scan", "")
+    if last and last < (datetime.now(timezone.utc) - timedelta(hours=36)).isoformat():
+        # GitHub o gün(ler) hiç çalıştırmadı: sayılar arada geçen tüm süreyi kapsasın.
+        since = last
+        days = (datetime.now(timezone.utc) - datetime.fromisoformat(last)).days
+        lines.append(f"⏱ Son tarama {days} gün önceydi. Arada çıkan ve hâlâ açık olan ilanlar bu taramada kontrol edildi.\n")
     for key in keys:
         h = st["health"].get(key, {})
         lines.append(("✅" if not h.get("fails") else "⚠️ taranamadı:") + f" {esc(SOURCES[key].LABEL)}")
