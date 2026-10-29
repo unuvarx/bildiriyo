@@ -4,10 +4,11 @@ on:
   schedule:
     # Günde bir tarama, ~18:30 TR. GitHub zamanlanmış çalışmaları (özellikle tam
     # saatlerde) saatlerce geciktirip bazen atlıyor; bu yüzden tam saat dışı
-    # dakikalar ve iki yedek var. Son 12 saatte tarama yapıldıysa yedek hemen çıkar.
+    # dakikalar ve üç yedek var. Son 12 saatte tarama yapıldıysa yedek hemen çıkar.
     - cron: "27 15 * * *"
     - cron: "41 16 * * *"
     - cron: "53 17 * * *"
+    - cron: "13 19 * * *"
   workflow_dispatch:         # Actions sekmesinden elle çalıştırmak için
     inputs:
       ozet:
