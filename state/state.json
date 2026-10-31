@@ -3226,6 +3226,62 @@
    "sent": false,
    "t": "Üniversitemizin aşağıda belirtilen akademik birimlerine 2547 sa yılı Yükseköğretim Kanunu ve Öğre tim Üyeliğine Yükselti",
    "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-10-31T19:27:12+00:00",
+   "dec": "check",
+   "k": "memur",
+   "o": [
+    "beled",
+    "izmir",
+    "karsi"
+   ],
+   "sent": true,
+   "t": "İLK DEFA ATANMAK ÜZERE MEMUR ALIM İLANI",
+   "why": "kabul edilen bölümler ilan ekindeki tabloda; bölüm şartını kontrol edin"
+  },
+  {
+   "d": "2026-10-31T19:27:12+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "beled",
+    "karat",
+    "konya"
+   ],
+   "sent": false,
+   "t": "İLK DEFA ATANMAK ÜZERE ZABITA MEMURU ALIM İLANI",
+   "why": "sadece lise/ön lisans kadroları (KPSS P93/P94)"
+  },
+  {
+   "d": "2026-10-31T19:27:12+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "toros",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Üniversitemize aylık ve özlük hakları yönünden 4857 sayılı İş K anunu hükümlerine tabi, tam zamanlı görev yapacak, 2547 ",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-10-31T19:27:12+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bitli",
+    "cesit",
+    "cevri",
+    "cumar",
+    "eren",
+    "pdf",
+    "unive",
+    "yapil"
+   ],
+   "sent": false,
+   "t": "Üniversitemize, 2547 Sayılı Yükseköğretim Kanunu ve Öğretim Üyeliğine Yükseltilme ve Atanma Yönetmeliğinin ilgili maddel",
+   "why": "akademik kadro (2547 sayılı Kanun)"
   }
  ],
  "health": {
@@ -3255,8 +3311,8 @@
    "fails": 0
   }
  },
- "heartbeat": "2026-10-30",
- "last_scan": "2026-10-30T20:00:09+00:00",
+ "heartbeat": "2026-10-31",
+ "last_scan": "2026-10-31T19:27:20+00:00",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -3820,7 +3876,32 @@
    "20261030-4-6.pdf": "2026-10-30T19:59:53+00:00",
    "20261030-4-7.pdf": "2026-10-30T19:59:53+00:00",
    "20261030-4-8.pdf": "2026-10-30T19:59:53+00:00",
-   "20261030-4-9.pdf": "2026-10-30T19:59:53+00:00"
+   "20261030-4-9.pdf": "2026-10-30T19:59:53+00:00",
+   "20261031-4-1.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-10.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-11.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-12.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-13.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-14.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-15.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-16.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-17.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-18.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-19.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-2.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-20.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-21.pdf": "2026-10-31T19:27:12+00:00",
+   "20261031-4-22.pdf": "2026-10-31T19:27:12+00:00",
+   "20261031-4-23.pdf": "2026-10-31T19:27:12+00:00",
+   "20261031-4-24.pdf": "2026-10-31T19:27:12+00:00",
+   "20261031-4-25.pdf": "2026-10-31T19:27:12+00:00",
+   "20261031-4-3.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-4.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-5.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-6.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-7.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-8.pdf": "2026-10-31T19:27:11+00:00",
+   "20261031-4-9.pdf": "2026-10-31T19:27:11+00:00"
   }
  },
  "skipped": {
@@ -4942,6 +5023,21 @@
   "resmigazete:20261030-4-9.pdf": {
    "d": "2026-10-30T19:59:53+00:00",
    "t": "Üniversitemizin aşağıda belirtilen birimlerine; 657 sayılı Devl et Memurları Kanunu’nun 48. maddesi, 2547 sayılı Yüksekö",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261031-4-22.pdf": {
+   "d": "2026-10-31T19:27:12+00:00",
+   "t": "İLK DEFA ATANMAK ÜZERE ZABITA MEMURU ALIM İLANI",
+   "why": "sadece lise/ön lisans kadroları (KPSS P93/P94)"
+  },
+  "resmigazete:20261031-4-23.pdf": {
+   "d": "2026-10-31T19:27:12+00:00",
+   "t": "Üniversitemize aylık ve özlük hakları yönünden 4857 sayılı İş K anunu hükümlerine tabi, tam zamanlı görev yapacak, 2547 ",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261031-4-24.pdf": {
+   "d": "2026-10-31T19:27:12+00:00",
+   "t": "Üniversitemize, 2547 Sayılı Yükseköğretim Kanunu ve Öğretim Üyeliğine Yükseltilme ve Atanma Yönetmeliğinin ilgili maddel",
    "why": "akademik kadro (2547 sayılı Kanun)"
   }
  }
