@@ -3736,6 +3736,119 @@
    "sent": true,
    "t": "Bilgisayar Mühendisi",
    "why": "bölüm şartı uygun: “…muhendislik fakultesi bilgisayar muhendisligi lisans muhendislik ve doga bilimler…”"
+  },
+  {
+   "d": "2026-11-03T21:11:33+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "elema",
+    "gazia",
+    "ogret",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Gaziantep Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-03T21:11:33+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "gazia",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Gaziantep Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-03T21:11:33+00:00",
+   "dec": "skip",
+   "k": "personel",
+   "o": [
+    "akade",
+    "arel",
+    "istan",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İstanbul Arel Üniversitesi Rektörlüğü Akademik Personel Alım İlanı",
+   "why": "akademik kadro"
+  },
+  {
+   "d": "2026-11-03T21:11:33+00:00",
+   "dec": "skip",
+   "k": "personel",
+   "o": [
+    "ajans",
+    "bakan",
+    "gelis",
+    "kultu",
+    "tanit",
+    "turiz",
+    "turki"
+   ],
+   "sent": false,
+   "t": "Kültür ve Turizm Bakanlığı Türkiye Turizm Tanıtım ve Geliştirme Ajansından Personel Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-11-03T21:11:34+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "antal",
+    "bilim",
+    "gorev",
+    "ogret",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Antalya Bilim Üniversitesi Öğretim Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-03T21:11:34+00:00",
+   "dec": "skip",
+   "k": "sozlesmeli personel",
+   "o": [
+    "dokuz",
+    "eylul",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Dokuz Eylül Üniversitesi Rektörlüğünden Sözleşmeli Personel Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-11-03T21:11:34+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "beled",
+    "iptal",
+    "posof"
+   ],
+   "sent": false,
+   "t": "Posof Belediye Başkanlığı (İptal İlanı)",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-11-03T21:11:54+00:00",
+   "dec": "check",
+   "k": "personel",
+   "o": [
+    "ajans",
+    "kalki",
+    "zafer"
+   ],
+   "sent": true,
+   "t": "PERSONEL ALIM İLANI T.C.",
+   "why": "kabul edilen bölümler ilan ekindeki tabloda; bölüm şartını kontrol edin"
   }
  ],
  "health": {
@@ -3765,8 +3878,8 @@
    "fails": 0
   }
  },
- "heartbeat": "2026-11-03",
- "last_scan": "2026-11-02T23:12:42+00:00",
+ "heartbeat": "2026-11-04",
+ "last_scan": "2026-11-03T21:12:11+00:00",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -4003,7 +4116,14 @@
    "2274524": "2026-11-02T23:11:07+00:00",
    "2274583": "2026-11-02T23:11:07+00:00",
    "2274715": "2026-11-02T23:11:06+00:00",
-   "2274950": "2026-11-02T23:11:06+00:00"
+   "2274950": "2026-11-02T23:11:06+00:00",
+   "2275931": "2026-11-03T21:11:34+00:00",
+   "2275934": "2026-11-03T21:11:34+00:00",
+   "2275935": "2026-11-03T21:11:34+00:00",
+   "2275940": "2026-11-03T21:11:33+00:00",
+   "2275960": "2026-11-03T21:11:33+00:00",
+   "2276004": "2026-11-03T21:11:33+00:00",
+   "2276031": "2026-11-03T21:11:33+00:00"
   },
   "iskur": {
    "00009855484": "2026-10-18T18:33:05+00:00",
@@ -4131,6 +4251,7 @@
    "39d5a688-3b17-48de-a123-9140f55af29e": "2026-10-18T18:55:22+00:00",
    "4850e095-8b16-4aba-9956-555740a41146": "2026-10-18T21:01:15+00:00",
    "4f7526a3-f38f-4117-913d-df615e9d8b78": "2026-10-18T18:55:22+00:00",
+   "51fd7921-cfbe-482f-8e2f-b8a569a605d0": "2026-11-03T21:12:10+00:00",
    "56b19c9c-b32c-45ae-8fdc-101d776c8df3": "2026-10-20T18:11:00+00:00",
    "5976effc-ff4b-49b1-a5d7-c08d82d81636": "2026-10-22T19:37:19+00:00",
    "5a71a4f2-6023-4194-822c-01e687eb9b15": "2026-10-18T18:55:22+00:00",
@@ -4408,7 +4529,15 @@
    "20261103-4-6.pdf": "2026-11-02T23:11:36+00:00",
    "20261103-4-7.pdf": "2026-11-02T23:11:36+00:00",
    "20261103-4-8.pdf": "2026-11-02T23:11:36+00:00",
-   "20261103-4-9.pdf": "2026-11-02T23:11:36+00:00"
+   "20261103-4-9.pdf": "2026-11-02T23:11:36+00:00",
+   "20261104-4-1.pdf": "2026-11-03T21:11:52+00:00",
+   "20261104-4-2.pdf": "2026-11-03T21:11:52+00:00",
+   "20261104-4-3.pdf": "2026-11-03T21:11:52+00:00",
+   "20261104-4-4.pdf": "2026-11-03T21:11:52+00:00",
+   "20261104-4-5.pdf": "2026-11-03T21:11:52+00:00",
+   "20261104-4-6.pdf": "2026-11-03T21:11:52+00:00",
+   "20261104-4-7.pdf": "2026-11-03T21:11:54+00:00",
+   "20261104-4-8.pdf": "2026-11-03T21:11:54+00:00"
   }
  },
  "skipped": {
@@ -4825,6 +4954,41 @@
   "ilangov:2274950": {
    "d": "2026-11-02T23:11:06+00:00",
    "t": "Toros Üniversitesi Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2275931": {
+   "d": "2026-11-03T21:11:34+00:00",
+   "t": "Posof Belediye Başkanlığı (İptal İlanı)",
+   "why": "iptal duyurusu"
+  },
+  "ilangov:2275934": {
+   "d": "2026-11-03T21:11:34+00:00",
+   "t": "Dokuz Eylül Üniversitesi Rektörlüğünden Sözleşmeli Personel Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "ilangov:2275935": {
+   "d": "2026-11-03T21:11:34+00:00",
+   "t": "Antalya Bilim Üniversitesi Öğretim Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2275940": {
+   "d": "2026-11-03T21:11:33+00:00",
+   "t": "Kültür ve Turizm Bakanlığı Türkiye Turizm Tanıtım ve Geliştirme Ajansından Personel Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "ilangov:2275960": {
+   "d": "2026-11-03T21:11:33+00:00",
+   "t": "İstanbul Arel Üniversitesi Rektörlüğü Akademik Personel Alım İlanı",
+   "why": "akademik kadro"
+  },
+  "ilangov:2276004": {
+   "d": "2026-11-03T21:11:33+00:00",
+   "t": "Gaziantep Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2276031": {
+   "d": "2026-11-03T21:11:33+00:00",
+   "t": "Gaziantep Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
    "why": "akademik kadro (ALES gerekir)"
   },
   "iskur:00009862271": {
@@ -5266,6 +5430,11 @@
    "d": "2026-11-02T23:12:06+00:00",
    "t": "YÜKSEKÖĞRETİM KURULU BAŞKANLIĞI (YÖK) - SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
    "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "kariyerkapisi:51fd7921-cfbe-482f-8e2f-b8a569a605d0": {
+   "d": "2026-11-03T21:12:10+00:00",
+   "t": "DOKUZ EYLÜL ÜNİVERSİTESİ REKTÖRLÜĞÜ - SÖZLEŞMELİ PERSONEL İLANI",
+   "why": "aynı ilanın metnine göre: akademik kadro (ALES gerekir)"
   },
   "kariyerkapisi:5976effc-ff4b-49b1-a5d7-c08d82d81636": {
    "d": "2026-10-22T19:37:19+00:00",
