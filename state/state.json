@@ -3960,6 +3960,268 @@
    "sent": true,
    "t": "KARABAĞLAR BELEDİYE BAŞKANLIĞI - Çevre Mühendisi Alımı (2 Adet)",
    "why": "ilan metni okunamadı, şartları kontrol edin"
+  },
+  {
+   "d": "2026-11-05T21:31:07+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "demok",
+    "iptal",
+    "izmir",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İzmir Demokrasi Üniversitesi (İptal İlanı)",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-11-05T21:31:07+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "beled",
+    "elesk",
+    "eri",
+    "itfai"
+   ],
+   "sent": false,
+   "t": "Eleşkirt Belediye Başkanlığı İtfaiye Eri Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-11-05T21:31:07+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "arast",
+    "erbak",
+    "gorev",
+    "necme",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Necmettin Erbakan Üniversitesi Rektörlüğünden Araştırma Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-05T21:31:07+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "istan",
+    "kultu",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "İstanbul Kültür Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-05T21:31:07+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ogret",
+    "samsu",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Samsun Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-05T21:31:08+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "arast",
+    "gorev",
+    "istan",
+    "kultu",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İstanbul Kültür Üniversitesi Rektörlüğünden Araştırma Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-05T21:31:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bogaz",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-05T21:31:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bakir",
+    "izmir",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İPTAL İLANI 19.10.2026 tarihli ve 33405 sayılı Resmî Gazete’de yayımlanan araştırma görevlisi ilanımız iptal edilmiştir.",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-11-05T21:31:35+00:00",
+   "dec": "skip",
+   "k": "sozlesmeli personel",
+   "o": [
+    "marma",
+    "unive"
+   ],
+   "sent": false,
+   "t": "657 SAYILI DEVLET MEMURLARI KANUNUNUN DEĞİŞİK 4/B MADDESİNE GÖRE SÖZLEŞMELİ PERSONEL ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-11-05T21:31:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "guven",
+    "kurum",
+    "sosya"
+   ],
+   "sent": false,
+   "t": "SOSYAL GÜVENLİK DENETMEN YARDIMCILIĞI GİRİŞ SINAVI İLANI I. SINAVA İLİŞKİN BİLGİLER: Kurumumuz taşra teşkilatı kadroları",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-11-05T21:31:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ankar",
+    "bilim",
+    "sosya",
+    "unive"
+   ],
+   "sent": false,
+   "t": "11546/1/1-1",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-11-05T21:31:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "aksar",
+    "unive"
+   ],
+   "sent": false,
+   "t": "06.11.2026 “CUMA” ᴎAMIK 11438 “RESİM” “ÇEŞİTLİ İLANLAR” 2 06.11.2026 “CUMA” ᴎAMIK 11438 “RESİM” “ÇEŞİTLİ İLANLAR” 3 06.1",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-11-05T21:31:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ahmet",
+    "cesit",
+    "cuma",
+    "ebys",
+    "erzur",
+    "tekni",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-05T21:31:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ahmet",
+    "cesit",
+    "cevir",
+    "cuma",
+    "gumus",
+    "pdf",
+    "unive",
+    "yapil"
+   ],
+   "sent": false,
+   "t": "Üniversitemizin aşağıda belirtilen birimlerine 2547 sayılı Kanunun ve Öğretim Üyeliğine Yükseltilme ve Atanma Yönetmeliğ",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-11-05T21:31:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "hasan",
+    "kalyo",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI 06.11.2026 “CUMA” ᴎAMIK 11545 RESİM ” “ÇEŞİTLİ İLANLAR” 2 06.11.2026 “CUMA” ᴎAMIK 11545 RESİM ”",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-05T21:31:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ahmet",
+    "cesit",
+    "cuma",
+    "ebys",
+    "gedik",
+    "istan",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Üniversitemize 2547 sayılı Yükseköğretim Kanunu’nun ve Öğretim Üyeliğine Yükseltilme ve Atanma Yönetmeliği’nin ilgili ma",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-11-05T21:31:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ahmet",
+    "cesit",
+    "cuma",
+    "ebys",
+    "sakar",
+    "unive"
+   ],
+   "sent": false,
+   "t": "2547 sayılı Kanun ve Öğretim Üyeliğine Yükseltilme ve Atanma Yönetmeliği ’nin ilgili maddelerine göre Üniversitemiz’e Öğ",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-11-05T21:31:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "cesit",
+    "cuma",
+    "ebys",
+    "ihtis",
+    "ilanl",
+    "unive",
+    "yalci",
+    "yukse"
+   ],
+   "sent": false,
+   "t": "Başvuru Tarihi : 06.11.2026 Son Başvuru Tarihi : 23.11.2026 Üniversitemize 2547 sayılı Yükseköğretim Kanunu ile 7100 say",
+   "why": "akademik kadro (2547 sayılı Kanun)"
   }
  ],
  "health": {
@@ -3989,8 +4251,8 @@
    "fails": 0
   }
  },
- "heartbeat": "2026-11-05",
- "last_scan": "2026-11-04T21:25:16+00:00",
+ "heartbeat": "2026-11-06",
+ "last_scan": "2026-11-05T21:32:01+00:00",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -4236,7 +4498,14 @@
    "2276004": "2026-11-03T21:11:33+00:00",
    "2276025": "2026-11-04T21:24:03+00:00",
    "2276031": "2026-11-03T21:11:33+00:00",
-   "2277600": "2026-11-04T21:24:03+00:00"
+   "2277600": "2026-11-04T21:24:03+00:00",
+   "2279175": "2026-11-05T21:31:08+00:00",
+   "2279176": "2026-11-05T21:31:07+00:00",
+   "2279177": "2026-11-05T21:31:07+00:00",
+   "2279180": "2026-11-05T21:31:07+00:00",
+   "2279181": "2026-11-05T21:31:07+00:00",
+   "2279285": "2026-11-05T21:31:07+00:00",
+   "2279290": "2026-11-05T21:31:07+00:00"
   },
   "iskur": {
    "00009855484": "2026-10-18T18:33:05+00:00",
@@ -4344,12 +4613,14 @@
    "00009880151": "2026-11-02T23:11:47+00:00",
    "00009882676": "2026-11-04T21:24:45+00:00",
    "00009885708": "2026-11-04T21:24:45+00:00",
+   "00009887077": "2026-11-05T21:31:41+00:00",
    "00009887503": "2026-11-04T21:24:44+00:00",
    "duyuru:turkiye-is-kurumu-genel-mudurlugu-sozlesmeli-bilisim-personeli-alimi-ilani-1": "2026-10-18T18:33:05+00:00"
   },
   "kamuilan": {},
   "kariyerkapisi": {
    "01e546b7-c1d0-4364-b010-7eea088f49cd": "2026-11-02T23:12:06+00:00",
+   "06fcbe8a-50bf-4b51-9ba1-9cc4ad6501f3": "2026-11-05T21:31:51+00:00",
    "0ad1bd8f-f6ad-4a03-8f10-7a42c33cf44a": "2026-10-18T18:55:22+00:00",
    "0f54adef-6e76-4b95-b503-03f415523085": "2026-10-21T19:46:16+00:00",
    "11272843-b0f1-470e-af31-cc176fa0e5d4": "2026-10-18T18:55:22+00:00",
@@ -4373,6 +4644,7 @@
    "5976effc-ff4b-49b1-a5d7-c08d82d81636": "2026-10-22T19:37:19+00:00",
    "5a71a4f2-6023-4194-822c-01e687eb9b15": "2026-10-18T18:55:22+00:00",
    "6e7cd2e5-b3d8-4c95-916b-6e1ff234b0b0": "2026-11-04T21:25:14+00:00",
+   "724294dd-2cf3-4df3-8cd5-615baea623be": "2026-11-05T21:32:00+00:00",
    "727b6946-c0fe-493f-a9e1-a0d668eabca2": "2026-10-18T18:55:22+00:00",
    "72e593aa-e1b5-43c4-a4c5-63da01a63ef9": "2026-10-18T18:55:22+00:00",
    "7726dd9c-56dd-49e0-a0b2-a098e6c57b8a": "2026-10-22T19:37:10+00:00",
@@ -4673,7 +4945,26 @@
    "20261105-4-6.pdf": "2026-11-04T21:24:36+00:00",
    "20261105-4-7.pdf": "2026-11-04T21:24:36+00:00",
    "20261105-4-8.pdf": "2026-11-04T21:24:36+00:00",
-   "20261105-4-9.pdf": "2026-11-04T21:24:36+00:00"
+   "20261105-4-9.pdf": "2026-11-04T21:24:36+00:00",
+   "20261106-4-1.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-10.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-11.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-12.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-13.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-14.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-15.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-16.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-17.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-18.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-2.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-3.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-4.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-5.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-6.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-7.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-8.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-9-1.pdf": "2026-11-05T21:31:35+00:00",
+   "20261106-4-9.pdf": "2026-11-05T21:31:35+00:00"
   }
  },
  "skipped": {
@@ -5132,6 +5423,36 @@
    "t": "Gaziantep Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
    "why": "akademik kadro (ALES gerekir)"
   },
+  "ilangov:2279175": {
+   "d": "2026-11-05T21:31:08+00:00",
+   "t": "İstanbul Kültür Üniversitesi Rektörlüğünden Araştırma Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2279176": {
+   "d": "2026-11-05T21:31:07+00:00",
+   "t": "Samsun Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2279177": {
+   "d": "2026-11-05T21:31:07+00:00",
+   "t": "İstanbul Kültür Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2279180": {
+   "d": "2026-11-05T21:31:07+00:00",
+   "t": "Necmettin Erbakan Üniversitesi Rektörlüğünden Araştırma Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2279181": {
+   "d": "2026-11-05T21:31:07+00:00",
+   "t": "Eleşkirt Belediye Başkanlığı İtfaiye Eri Alım İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "ilangov:2279290": {
+   "d": "2026-11-05T21:31:07+00:00",
+   "t": "İzmir Demokrasi Üniversitesi (İptal İlanı)",
+   "why": "iptal duyurusu"
+  },
   "iskur:00009862271": {
    "d": "2026-10-21T19:45:45+00:00",
    "t": "Mekaniker-Lokomotif",
@@ -5577,6 +5898,11 @@
    "t": "Orman İşçisi",
    "why": "meslek alanınızla ilgili değil"
   },
+  "iskur:00009887077": {
+   "d": "2026-11-05T21:31:41+00:00",
+   "t": "Greyder Operatörü",
+   "why": "meslek alanınızla ilgili değil"
+  },
   "iskur:00009887503": {
    "d": "2026-11-04T21:24:44+00:00",
    "t": "Kuaför",
@@ -5601,6 +5927,11 @@
    "d": "2026-10-22T19:37:19+00:00",
    "t": "TARIM VE ORMAN BAKANLIĞI - SÖZLEŞMELİ BİLİŞİM PERSONEL ALIMI",
    "why": "aynı ilanın metnine göre: sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "kariyerkapisi:724294dd-2cf3-4df3-8cd5-615baea623be": {
+   "d": "2026-11-05T21:32:00+00:00",
+   "t": "SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI - 2026/2 SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI - SOSYAL GÜVENLİK DENETMEN YARDIMCILIĞI / (",
+   "why": "aynı ilanın metnine göre: bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
   },
   "kariyerkapisi:7726dd9c-56dd-49e0-a0b2-a098e6c57b8a": {
    "d": "2026-10-22T19:37:10+00:00",
@@ -6071,6 +6402,66 @@
    "d": "2026-11-04T21:24:36+00:00",
    "t": "İPTAL İLANI 02.11.2026 tarih ve 33418 sayılı Resmî Gazete'de yayımlanan A2026/3 Öğretim Üyesi Alım İlanımızdaki A2026/3-",
    "why": "iptal duyurusu"
+  },
+  "resmigazete:20261106-4-10.pdf": {
+   "d": "2026-11-05T21:31:35+00:00",
+   "t": "06.11.2026 “CUMA” ᴎAMIK 11438 “RESİM” “ÇEŞİTLİ İLANLAR” 2 06.11.2026 “CUMA” ᴎAMIK 11438 “RESİM” “ÇEŞİTLİ İLANLAR” 3 06.1",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261106-4-11.pdf": {
+   "d": "2026-11-05T21:31:35+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261106-4-12.pdf": {
+   "d": "2026-11-05T21:31:35+00:00",
+   "t": "Üniversitemizin aşağıda belirtilen birimlerine 2547 sayılı Kanunun ve Öğretim Üyeliğine Yükseltilme ve Atanma Yönetmeliğ",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261106-4-13.pdf": {
+   "d": "2026-11-05T21:31:35+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI 06.11.2026 “CUMA” ᴎAMIK 11545 RESİM ” “ÇEŞİTLİ İLANLAR” 2 06.11.2026 “CUMA” ᴎAMIK 11545 RESİM ”",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261106-4-14.pdf": {
+   "d": "2026-11-05T21:31:35+00:00",
+   "t": "Üniversitemize 2547 sayılı Yükseköğretim Kanunu’nun ve Öğretim Üyeliğine Yükseltilme ve Atanma Yönetmeliği’nin ilgili ma",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261106-4-15.pdf": {
+   "d": "2026-11-05T21:31:35+00:00",
+   "t": "2547 sayılı Kanun ve Öğretim Üyeliğine Yükseltilme ve Atanma Yönetmeliği ’nin ilgili maddelerine göre Üniversitemiz’e Öğ",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261106-4-16.pdf": {
+   "d": "2026-11-05T21:31:35+00:00",
+   "t": "Başvuru Tarihi : 06.11.2026 Son Başvuru Tarihi : 23.11.2026 Üniversitemize 2547 sayılı Yükseköğretim Kanunu ile 7100 say",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261106-4-3.pdf": {
+   "d": "2026-11-05T21:31:35+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261106-4-6.pdf": {
+   "d": "2026-11-05T21:31:35+00:00",
+   "t": "İPTAL İLANI 19.10.2026 tarihli ve 33405 sayılı Resmî Gazete’de yayımlanan araştırma görevlisi ilanımız iptal edilmiştir.",
+   "why": "iptal duyurusu"
+  },
+  "resmigazete:20261106-4-8.pdf": {
+   "d": "2026-11-05T21:31:35+00:00",
+   "t": "657 SAYILI DEVLET MEMURLARI KANUNUNUN DEĞİŞİK 4/B MADDESİNE GÖRE SÖZLEŞMELİ PERSONEL ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261106-4-9-1.pdf": {
+   "d": "2026-11-05T21:31:35+00:00",
+   "t": "11546/1/1-1",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261106-4-9.pdf": {
+   "d": "2026-11-05T21:31:35+00:00",
+   "t": "SOSYAL GÜVENLİK DENETMEN YARDIMCILIĞI GİRİŞ SINAVI İLANI I. SINAVA İLİŞKİN BİLGİLER: Kurumumuz taşra teşkilatı kadroları",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
   }
  }
 }
