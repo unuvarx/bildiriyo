@@ -5287,6 +5287,201 @@
    "sent": false,
    "t": "Mesleki Yeterlilik Kurumu Uzman Yardımcısı",
    "why": "meslek alanınızla ilgili değil"
+  },
+  {
+   "d": "2026-11-10T21:22:43+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "asarc",
+    "beled",
+    "iptal",
+    "samsu"
+   ],
+   "sent": false,
+   "t": "Samsun İli Asarcık Belediye Başkanlığı (İptal İlanı)",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-11-10T21:22:43+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bahce",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Bahçeşehir Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-10T21:22:43+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "duzel",
+    "toros",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Düzeltme İlanı (Toros Üniversitesi Rektörlüğünden)",
+   "why": "düzeltme duyurusu"
+  },
+  {
+   "d": "2026-11-10T21:22:43+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "gorev",
+    "munzu",
+    "ogret",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Munzur Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-10T21:22:44+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "munzu",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Munzur Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-10T21:22:45+00:00",
+   "dec": "check",
+   "k": "",
+   "o": [
+    "cozum",
+    "progr",
+    "sayis"
+   ],
+   "sent": true,
+   "t": "Sayıştay Başkanlığından Sözleşmeli Çözümleyici ve Programcı Alım İlanı",
+   "why": "kabul edilen bölümler arasında bilgisayar/yazılım geçiyor; bölüm şartını kontrol edin"
+  },
+  {
+   "d": "2026-11-10T21:22:45+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bakir",
+    "iptal",
+    "izmir",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İzmir Bakırçay Üniversitesi (İptal İlanı)",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-11-10T21:22:46+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ogret",
+    "saban",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Sabancı Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-10T21:22:46+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "duzel",
+    "gumus",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Düzeltme İlanı (Gümüşhane Üniversitesi Rektörlüğü)",
+   "why": "düzeltme duyurusu"
+  },
+  {
+   "d": "2026-11-10T21:22:46+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bilim",
+    "elema",
+    "ogret",
+    "sagli",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Sağlık Bilimleri Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-10T21:22:46+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bilgi",
+    "istan",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "İstanbul Bilgi Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-10T21:23:04+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "istan",
+    "rumel",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Üniversitemizin aşağıda belirti len Fakülte ve Yüksekokul Bölüml erine 2547 sayılı Yükseköğretim Kanunu “Öğretim Üyeliği",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-11-10T21:23:04+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "beyke",
+    "istan",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Üniversitemize 2547 sayılı Yükse köğretim Kanunu ve \"Öğretim Üye liğine Yükseltilme ve Atanma Yönetmeliği” ile “İs tanbu",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-11-10T21:23:04+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "carsa",
+    "cesit",
+    "diske",
+    "salih",
+    "sirna",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI (2026-05)",
+   "why": "akademik kadro (doktora gerekir)"
   }
  ],
  "health": {
@@ -5316,8 +5511,8 @@
    "fails": 0
   }
  },
- "heartbeat": "2026-11-10",
- "last_scan": "2026-11-09T23:51:08+00:00",
+ "heartbeat": "2026-11-11",
+ "last_scan": "2026-11-10T21:23:12+00:00",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -5614,7 +5809,18 @@
    "2283207": "2026-11-09T23:49:49+00:00",
    "2283208": "2026-11-09T23:49:48+00:00",
    "2283213": "2026-11-09T23:49:48+00:00",
-   "2283277": "2026-11-09T23:49:48+00:00"
+   "2283277": "2026-11-09T23:49:48+00:00",
+   "2284932": "2026-11-10T21:22:46+00:00",
+   "2284939": "2026-11-10T21:22:46+00:00",
+   "2284946": "2026-11-10T21:22:46+00:00",
+   "2284965": "2026-11-10T21:22:46+00:00",
+   "2285009": "2026-11-10T21:22:45+00:00",
+   "2285010": "2026-11-10T21:22:45+00:00",
+   "2285027": "2026-11-10T21:22:44+00:00",
+   "2285031": "2026-11-10T21:22:43+00:00",
+   "2285038": "2026-11-10T21:22:43+00:00",
+   "2285086": "2026-11-10T21:22:43+00:00",
+   "2285089": "2026-11-10T21:22:43+00:00"
   },
   "iskur": {
    "00009855484": "2026-10-18T18:33:05+00:00",
@@ -6145,7 +6351,17 @@
    "20261110-4-6.pdf": "2026-11-09T23:50:35+00:00",
    "20261110-4-7.pdf": "2026-11-09T23:50:35+00:00",
    "20261110-4-8.pdf": "2026-11-09T23:50:35+00:00",
-   "20261110-4-9.pdf": "2026-11-09T23:50:35+00:00"
+   "20261110-4-9.pdf": "2026-11-09T23:50:35+00:00",
+   "20261111-4-1.pdf": "2026-11-10T21:23:04+00:00",
+   "20261111-4-10.pdf": "2026-11-10T21:23:04+00:00",
+   "20261111-4-2.pdf": "2026-11-10T21:23:04+00:00",
+   "20261111-4-3.pdf": "2026-11-10T21:23:04+00:00",
+   "20261111-4-4.pdf": "2026-11-10T21:23:04+00:00",
+   "20261111-4-5.pdf": "2026-11-10T21:23:04+00:00",
+   "20261111-4-6.pdf": "2026-11-10T21:23:04+00:00",
+   "20261111-4-7.pdf": "2026-11-10T21:23:04+00:00",
+   "20261111-4-8.pdf": "2026-11-10T21:23:04+00:00",
+   "20261111-4-9.pdf": "2026-11-10T21:23:04+00:00"
   }
  },
  "skipped": {
@@ -6853,6 +7069,56 @@
    "d": "2026-11-09T23:49:48+00:00",
    "t": "Ted Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
    "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2284932": {
+   "d": "2026-11-10T21:22:46+00:00",
+   "t": "İstanbul Bilgi Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2284939": {
+   "d": "2026-11-10T21:22:46+00:00",
+   "t": "Sağlık Bilimleri Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2284946": {
+   "d": "2026-11-10T21:22:46+00:00",
+   "t": "Düzeltme İlanı (Gümüşhane Üniversitesi Rektörlüğü)",
+   "why": "düzeltme duyurusu"
+  },
+  "ilangov:2284965": {
+   "d": "2026-11-10T21:22:46+00:00",
+   "t": "Sabancı Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2285009": {
+   "d": "2026-11-10T21:22:45+00:00",
+   "t": "İzmir Bakırçay Üniversitesi (İptal İlanı)",
+   "why": "iptal duyurusu"
+  },
+  "ilangov:2285027": {
+   "d": "2026-11-10T21:22:44+00:00",
+   "t": "Munzur Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2285031": {
+   "d": "2026-11-10T21:22:43+00:00",
+   "t": "Munzur Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2285038": {
+   "d": "2026-11-10T21:22:43+00:00",
+   "t": "Düzeltme İlanı (Toros Üniversitesi Rektörlüğünden)",
+   "why": "düzeltme duyurusu"
+  },
+  "ilangov:2285086": {
+   "d": "2026-11-10T21:22:43+00:00",
+   "t": "Bahçeşehir Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2285089": {
+   "d": "2026-11-10T21:22:43+00:00",
+   "t": "Samsun İli Asarcık Belediye Başkanlığı (İptal İlanı)",
+   "why": "iptal duyurusu"
   },
   "iskur:00009862271": {
    "d": "2026-10-21T19:45:45+00:00",
@@ -8072,6 +8338,21 @@
   "resmigazete:20261110-4-8.pdf": {
    "d": "2026-11-09T23:50:35+00:00",
    "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261111-4-6.pdf": {
+   "d": "2026-11-10T21:23:04+00:00",
+   "t": "Üniversitemizin aşağıda belirti len Fakülte ve Yüksekokul Bölüml erine 2547 sayılı Yükseköğretim Kanunu “Öğretim Üyeliği",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261111-4-7.pdf": {
+   "d": "2026-11-10T21:23:04+00:00",
+   "t": "Üniversitemize 2547 sayılı Yükse köğretim Kanunu ve \"Öğretim Üye liğine Yükseltilme ve Atanma Yönetmeliği” ile “İs tanbu",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261111-4-9.pdf": {
+   "d": "2026-11-10T21:23:04+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI (2026-05)",
    "why": "akademik kadro (doktora gerekir)"
   }
  }
