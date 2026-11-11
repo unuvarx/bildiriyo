@@ -5482,6 +5482,125 @@
    "sent": false,
    "t": "ÖĞRETİM ÜYESİ ALIM İLANI (2026-05)",
    "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-11T22:06:30+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "beyke",
+    "istan",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "İstanbul Beykent Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-11T22:06:30+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "istan",
+    "ogret",
+    "rumel",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "İstanbul Rumeli Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-11T22:06:31+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ogret",
+    "sirna",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Şırnak Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-11T22:07:01+00:00",
+   "dec": "check",
+   "k": "sozlesmeli personel",
+   "o": [
+    "cumhu",
+    "sanay",
+    "savun"
+   ],
+   "sent": true,
+   "t": "PROJE BAZLI SÖZLEŞMELİ PERSONEL ALIMI GİRİŞ SINAVI İLANI",
+   "why": "bölüm şartı uygun: “…disligi * kimya ve surec muhendisligi * yazilim muhendisligi yabanci dil sarti sinav basvuru sar…”; ama bazı kadrolar iş deneyimi istiyor"
+  },
+  {
+   "d": "2026-11-11T22:07:01+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "celeb",
+    "izmir",
+    "katip",
+    "unive"
+   ],
+   "sent": false,
+   "t": "DÜZELTME VE İPTAL İLANI 02/11/2026 tarih ve 33418 sayılı Resmî Gazete’de yayımlanan aşağıdaki tabloda bilgileri yer alan",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-11-11T22:07:01+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "pamuk",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İPTAL İLANI 21.10.2026 tarih ve 33407 sayılı Resmî Gazete’de yayımlanan 202 6-2/40 kodlu doktor öğretim üyesi ilanımız i",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-11-11T22:07:01+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "aciba",
+    "ali",
+    "aydin",
+    "cesit",
+    "ebys",
+    "ilanl",
+    "mehme",
+    "perse",
+    "unive",
+    "yalci"
+   ],
+   "sent": false,
+   "t": "Üniversitemizin aşağıda belirtilen birimleri için 2547 sayılı K anunun 26. 24. ve 23. maddesinde be lirtilen asgari koşu",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  {
+   "d": "2026-11-11T22:07:01+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "cesit",
+    "diske",
+    "dogus",
+    "perse",
+    "salih",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ELEMANI ALIM İLANI 2547",
+   "why": "akademik kadro (ALES gerekir)"
   }
  ],
  "health": {
@@ -5511,8 +5630,8 @@
    "fails": 0
   }
  },
- "heartbeat": "2026-11-11",
- "last_scan": "2026-11-10T21:23:12+00:00",
+ "heartbeat": "2026-11-12",
+ "last_scan": "2026-11-11T22:07:19+00:00",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -5820,7 +5939,10 @@
    "2285031": "2026-11-10T21:22:43+00:00",
    "2285038": "2026-11-10T21:22:43+00:00",
    "2285086": "2026-11-10T21:22:43+00:00",
-   "2285089": "2026-11-10T21:22:43+00:00"
+   "2285089": "2026-11-10T21:22:43+00:00",
+   "2286636": "2026-11-11T22:06:31+00:00",
+   "2286637": "2026-11-11T22:06:30+00:00",
+   "2286638": "2026-11-11T22:06:30+00:00"
   },
   "iskur": {
    "00009855484": "2026-10-18T18:33:05+00:00",
@@ -5941,6 +6063,8 @@
    "00009890205": "2026-11-09T23:50:46+00:00",
    "00009890336": "2026-11-09T23:50:46+00:00",
    "00009890343": "2026-11-09T23:50:47+00:00",
+   "00009896191": "2026-11-11T22:07:07+00:00",
+   "00009896444": "2026-11-11T22:07:07+00:00",
    "duyuru:turkiye-is-kurumu-genel-mudurlugu-sozlesmeli-bilisim-personeli-alimi-ilani-1": "2026-10-18T18:33:05+00:00"
   },
   "kamuilan": {},
@@ -5963,6 +6087,7 @@
    "35749108-46fb-4b62-bc89-3700f1525802": "2026-11-02T23:12:41+00:00",
    "39c5ca3c-3571-485b-b226-2ff559360a0a": "2026-10-28T21:56:45+00:00",
    "39d5a688-3b17-48de-a123-9140f55af29e": "2026-10-18T18:55:22+00:00",
+   "41353f9d-7dda-4b65-b2ba-de6bf8e72f54": "2026-11-11T22:07:18+00:00",
    "4850e095-8b16-4aba-9956-555740a41146": "2026-10-18T21:01:15+00:00",
    "4d1a4aba-67fa-449d-b19d-13b197a770f0": "2026-11-04T21:24:55+00:00",
    "4f7526a3-f38f-4117-913d-df615e9d8b78": "2026-10-18T18:55:22+00:00",
@@ -6361,7 +6486,19 @@
    "20261111-4-6.pdf": "2026-11-10T21:23:04+00:00",
    "20261111-4-7.pdf": "2026-11-10T21:23:04+00:00",
    "20261111-4-8.pdf": "2026-11-10T21:23:04+00:00",
-   "20261111-4-9.pdf": "2026-11-10T21:23:04+00:00"
+   "20261111-4-9.pdf": "2026-11-10T21:23:04+00:00",
+   "20261112-4-1.pdf": "2026-11-11T22:07:01+00:00",
+   "20261112-4-10.pdf": "2026-11-11T22:07:01+00:00",
+   "20261112-4-11.pdf": "2026-11-11T22:07:01+00:00",
+   "20261112-4-12.pdf": "2026-11-11T22:07:01+00:00",
+   "20261112-4-2.pdf": "2026-11-11T22:07:01+00:00",
+   "20261112-4-3.pdf": "2026-11-11T22:07:01+00:00",
+   "20261112-4-4.pdf": "2026-11-11T22:07:01+00:00",
+   "20261112-4-5.pdf": "2026-11-11T22:07:01+00:00",
+   "20261112-4-6.pdf": "2026-11-11T22:07:01+00:00",
+   "20261112-4-7.pdf": "2026-11-11T22:07:01+00:00",
+   "20261112-4-8.pdf": "2026-11-11T22:07:01+00:00",
+   "20261112-4-9.pdf": "2026-11-11T22:07:01+00:00"
   }
  },
  "skipped": {
@@ -7120,6 +7257,21 @@
    "t": "Samsun İli Asarcık Belediye Başkanlığı (İptal İlanı)",
    "why": "iptal duyurusu"
   },
+  "ilangov:2286636": {
+   "d": "2026-11-11T22:06:31+00:00",
+   "t": "Şırnak Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2286637": {
+   "d": "2026-11-11T22:06:30+00:00",
+   "t": "İstanbul Rumeli Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2286638": {
+   "d": "2026-11-11T22:06:30+00:00",
+   "t": "İstanbul Beykent Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
   "iskur:00009862271": {
    "d": "2026-10-21T19:45:45+00:00",
    "t": "Mekaniker-Lokomotif",
@@ -7628,6 +7780,16 @@
   "iskur:00009890343": {
    "d": "2026-11-09T23:50:47+00:00",
    "t": "Kahve ve Kakao Hazırlayıcısı (Barista)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009896191": {
+   "d": "2026-11-11T22:07:07+00:00",
+   "t": "Beden İşçisi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009896444": {
+   "d": "2026-11-11T22:07:07+00:00",
+   "t": "Beden İşçisi (Genel)",
    "why": "meslek alanınızla ilgili değil"
   },
   "kariyerkapisi:01e546b7-c1d0-4364-b010-7eea088f49cd": {
@@ -8354,6 +8516,26 @@
    "d": "2026-11-10T21:23:04+00:00",
    "t": "ÖĞRETİM ÜYESİ ALIM İLANI (2026-05)",
    "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261112-4-10.pdf": {
+   "d": "2026-11-11T22:07:01+00:00",
+   "t": "Üniversitemizin aşağıda belirtilen birimleri için 2547 sayılı K anunun 26. 24. ve 23. maddesinde be lirtilen asgari koşu",
+   "why": "akademik kadro (2547 sayılı Kanun)"
+  },
+  "resmigazete:20261112-4-11.pdf": {
+   "d": "2026-11-11T22:07:01+00:00",
+   "t": "ÖĞRETİM ELEMANI ALIM İLANI 2547",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "resmigazete:20261112-4-8.pdf": {
+   "d": "2026-11-11T22:07:01+00:00",
+   "t": "DÜZELTME VE İPTAL İLANI 02/11/2026 tarih ve 33418 sayılı Resmî Gazete’de yayımlanan aşağıdaki tabloda bilgileri yer alan",
+   "why": "iptal duyurusu"
+  },
+  "resmigazete:20261112-4-9.pdf": {
+   "d": "2026-11-11T22:07:01+00:00",
+   "t": "İPTAL İLANI 21.10.2026 tarih ve 33407 sayılı Resmî Gazete’de yayımlanan 202 6-2/40 kodlu doktor öğretim üyesi ilanımız i",
+   "why": "iptal duyurusu"
   }
  }
 }
