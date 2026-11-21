@@ -7343,9 +7343,9 @@
    "fails": 0
   },
   "iskur": {
-   "alerted": true,
-   "error": "SourceError: e-Şube arama sonucu beklenen biçimde değil",
-   "fails": 1
+   "alerted": false,
+   "error": "",
+   "fails": 0
   },
   "kamuilan": {
    "alerted": false,
@@ -7364,7 +7364,7 @@
   }
  },
  "heartbeat": "2026-11-21",
- "last_scan": "2026-11-20T22:19:14+00:00",
+ "last_scan": "2026-11-21T20:58:51+00:00",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -7885,6 +7885,7 @@
    "00009901748": "2026-11-16T23:49:01+00:00",
    "00009906905": "2026-11-19T22:46:34+00:00",
    "00009908955": "2026-11-19T22:46:33+00:00",
+   "duyuru:sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-1": "2026-11-21T20:58:48+00:00",
    "duyuru:turkiye-is-kurumu-genel-mudurlugu-sozlesmeli-bilisim-personeli-alimi-ilani-1": "2026-10-18T18:33:05+00:00"
   },
   "kamuilan": {},
@@ -10156,6 +10157,11 @@
    "d": "2026-11-19T22:46:33+00:00",
    "t": "Beden İşçisi (Genel)",
    "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:duyuru:sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-1": {
+   "d": "2026-11-21T20:58:48+00:00",
+   "t": "Sözleşmeli Bilişim Personeli Sözlü/Uygulamalı Sınava Girmeye Hak Kazananlar Hakkında Duyuru",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
   },
   "kariyerkapisi:01e546b7-c1d0-4364-b010-7eea088f49cd": {
    "d": "2026-11-02T23:12:06+00:00",
