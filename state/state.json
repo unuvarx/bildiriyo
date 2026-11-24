@@ -7494,6 +7494,297 @@
    "sent": false,
    "t": "ÖĞRETİM GÖREVLİSİ ALIM İLANI 23.11.2026 “PAZARTESİ” AYŞEGÜL 11973 “FİLM” “ÇEŞİTLİ İLANLAR” 2",
    "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-24T02:28:25+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "gorev",
+    "ogret",
+    "tarsu",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Tarsus Üniversitesi Rektörlüğü Öğretim Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-24T02:28:27+00:00",
+   "dec": "ok",
+   "k": "sozlesmeli personel",
+   "o": [
+    "bakan",
+    "icisl"
+   ],
+   "sent": true,
+   "t": "İçişleri Bakanlığı 1170 Sözleşmeli Personel Alım İlanı",
+   "why": "bölüm şartı uygun: “…) fakultelerin bilgisayar muhendisligi, yazilim muhendisligi, bilgisayar ve yazilim muhendisligi…”"
+  },
+  {
+   "d": "2026-11-24T02:28:28+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "gorev",
+    "ogret",
+    "ozyeg",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Özyeğin Üniversitesi Rektörlüğü Öğretim Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-24T02:28:28+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ogret",
+    "ozyeg",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Özyeğin Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-24T02:28:28+00:00",
+   "dec": "skip",
+   "k": "personel",
+   "o": [
+    "antal",
+    "belek",
+    "disin",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Antalya Belek Üniversitesi Öğretim Üyesi Dışındaki Kadrolara Personel Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-24T02:28:28+00:00",
+   "dec": "skip",
+   "k": "bilisim",
+   "o": [
+    "ankar",
+    "beyaz",
+    "bilis",
+    "unive",
+    "yildi"
+   ],
+   "sent": false,
+   "t": "Ankara Yıldırım Beyazıt Üniversitesi Sözleşmeli Bilişim Personeli Alım İlanı",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  {
+   "d": "2026-11-24T02:28:28+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bozok",
+    "ogret",
+    "unive",
+    "uyesi",
+    "yozga"
+   ],
+   "sent": false,
+   "t": "Yozgat Bozok Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-24T02:28:28+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ogret",
+    "unive",
+    "uyesi",
+    "yasar"
+   ],
+   "sent": false,
+   "t": "Yaşar Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-24T02:28:28+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "akred",
+    "gorev",
+    "guven",
+    "korum",
+    "kurum",
+    "turk"
+   ],
+   "sent": false,
+   "t": "Türk Akreditasyon Kurumundan Sözleşmeli Koruma ve Güvenlik Görevlisi Alım İlanı",
+   "why": "sadece lise/ön lisans kadroları (KPSS P93/P94)"
+  },
+  {
+   "d": "2026-11-24T02:28:29+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "dumlu",
+    "kutah",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Kütahya Dumlupınar Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-24T02:28:29+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "akade",
+    "bakan",
+    "erbas",
+    "guven",
+    "icisl",
+    "janda",
+    "sahil"
+   ],
+   "sent": false,
+   "t": "İçişleri Bakanlığı Jandarma ve Sahil Güvenlik Akademisi Başkanlığından Uzman Erbaş Temin İlanı",
+   "why": "askeri"
+  },
+  {
+   "d": "2026-11-24T02:28:29+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "duzce",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Düzce Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-24T02:28:29+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "duzce",
+    "elema",
+    "ogret",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Düzce Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-24T02:28:31+00:00",
+   "dec": "check",
+   "k": "surekli isci",
+   "o": [
+    "mayis",
+    "ondok",
+    "surek",
+    "unive"
+   ],
+   "sent": true,
+   "t": "Ondokuz Mayıs Üniversitesi Rektörlüğü Sürekli İşçi Alım İlanı",
+   "why": "kabul edilen bölümler ilan ekindeki tabloda; bölüm şartını kontrol edin"
+  },
+  {
+   "d": "2026-11-24T02:28:49+00:00",
+   "dec": "skip",
+   "k": "uzman yardimci",
+   "o": [
+    "bakan",
+    "cesit",
+    "ebys",
+    "ilanl",
+    "kultu",
+    "sali",
+    "turiz",
+    "yalci"
+   ],
+   "sent": false,
+   "t": "KÜLTÜR VE TURİZM UZMAN YARDIMCILIĞI YARIŞMA SINAV İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-11-24T02:28:49+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "canak",
+    "mart",
+    "onsek",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-24T02:28:49+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "istan",
+    "nisan",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ELEMANI ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-24T02:28:49+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "cesit",
+    "ebys",
+    "ilanl",
+    "marma",
+    "sali",
+    "unive",
+    "yalci"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ELEMANI ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-24T02:29:10+00:00",
+   "dec": "check",
+   "k": "",
+   "o": [
+    "bilgi",
+    "islet"
+   ],
+   "sent": true,
+   "t": "Bilgisayar İşletmeni",
+   "why": "ilan metni okunamadı, şartları kontrol edin"
+  },
+  {
+   "d": "2026-11-24T02:29:13+00:00",
+   "dec": "skip",
+   "k": "memur",
+   "o": [
+    "deniz",
+    "islet",
+    "turki"
+   ],
+   "sent": false,
+   "t": "Büro Memuru (Genel)",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
   }
  ],
  "health": {
@@ -7523,8 +7814,8 @@
    "fails": 0
   }
  },
- "heartbeat": "2026-11-23",
- "last_scan": "2026-11-22T21:11:57+00:00",
+ "heartbeat": "2026-11-24",
+ "last_scan": "2026-11-24T02:29:41+00:00",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -7906,7 +8197,21 @@
    "2298278": "2026-11-20T22:18:08+00:00",
    "2298310": "2026-11-20T22:18:08+00:00",
    "2298364": "2026-11-20T22:18:06+00:00",
-   "2298532": "2026-11-20T22:18:06+00:00"
+   "2298532": "2026-11-20T22:18:06+00:00",
+   "2299634": "2026-11-24T02:28:31+00:00",
+   "2299635": "2026-11-24T02:28:29+00:00",
+   "2299646": "2026-11-24T02:28:29+00:00",
+   "2299648": "2026-11-24T02:28:29+00:00",
+   "2299649": "2026-11-24T02:28:29+00:00",
+   "2299654": "2026-11-24T02:28:28+00:00",
+   "2299655": "2026-11-24T02:28:28+00:00",
+   "2299680": "2026-11-24T02:28:28+00:00",
+   "2299686": "2026-11-24T02:28:28+00:00",
+   "2299717": "2026-11-24T02:28:28+00:00",
+   "2299718": "2026-11-24T02:28:28+00:00",
+   "2299720": "2026-11-24T02:28:28+00:00",
+   "2299814": "2026-11-24T02:28:27+00:00",
+   "2299827": "2026-11-24T02:28:25+00:00"
   },
   "iskur": {
    "00009855484": "2026-10-18T18:33:05+00:00",
@@ -8043,8 +8348,50 @@
    "00009901387": "2026-11-16T23:49:01+00:00",
    "00009901431": "2026-11-16T23:49:01+00:00",
    "00009901748": "2026-11-16T23:49:01+00:00",
+   "00009905681": "2026-11-24T02:29:00+00:00",
+   "00009905684": "2026-11-24T02:29:01+00:00",
+   "00009905686": "2026-11-24T02:29:01+00:00",
+   "00009905689": "2026-11-24T02:29:01+00:00",
+   "00009905726": "2026-11-24T02:29:02+00:00",
+   "00009905729": "2026-11-24T02:29:02+00:00",
+   "00009905736": "2026-11-24T02:29:02+00:00",
+   "00009905756": "2026-11-24T02:29:02+00:00",
+   "00009905887": "2026-11-24T02:29:03+00:00",
+   "00009905891": "2026-11-24T02:29:03+00:00",
+   "00009905903": "2026-11-24T02:29:03+00:00",
+   "00009905992": "2026-11-24T02:29:03+00:00",
+   "00009906011": "2026-11-24T02:29:03+00:00",
+   "00009906014": "2026-11-24T02:29:04+00:00",
+   "00009906111": "2026-11-24T02:29:04+00:00",
+   "00009906117": "2026-11-24T02:29:04+00:00",
+   "00009906318": "2026-11-24T02:29:04+00:00",
+   "00009906321": "2026-11-24T02:29:05+00:00",
+   "00009906322": "2026-11-24T02:29:05+00:00",
+   "00009906323": "2026-11-24T02:29:05+00:00",
+   "00009906865": "2026-11-24T02:29:05+00:00",
+   "00009906873": "2026-11-24T02:29:06+00:00",
+   "00009906880": "2026-11-24T02:29:06+00:00",
    "00009906905": "2026-11-19T22:46:34+00:00",
+   "00009906955": "2026-11-24T02:29:06+00:00",
+   "00009907373": "2026-11-24T02:29:06+00:00",
+   "00009907417": "2026-11-24T02:29:07+00:00",
+   "00009907426": "2026-11-24T02:29:07+00:00",
+   "00009908150": "2026-11-24T02:29:07+00:00",
+   "00009908161": "2026-11-24T02:29:07+00:00",
+   "00009908163": "2026-11-24T02:29:08+00:00",
+   "00009908906": "2026-11-24T02:29:08+00:00",
    "00009908955": "2026-11-19T22:46:33+00:00",
+   "00009908959": "2026-11-24T02:29:08+00:00",
+   "00009908985": "2026-11-24T02:29:08+00:00",
+   "00009909085": "2026-11-24T02:29:09+00:00",
+   "00009909106": "2026-11-24T02:29:10+00:00",
+   "00009909214": "2026-11-24T02:29:08+00:00",
+   "00009909227": "2026-11-24T02:29:11+00:00",
+   "00009909233": "2026-11-24T02:29:11+00:00",
+   "00009909252": "2026-11-24T02:29:12+00:00",
+   "00009909258": "2026-11-24T02:29:12+00:00",
+   "00009909562": "2026-11-24T02:29:12+00:00",
+   "00009910001": "2026-11-24T02:29:13+00:00",
    "duyuru:sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-1": "2026-11-21T20:58:48+00:00",
    "duyuru:turkiye-is-kurumu-genel-mudurlugu-sozlesmeli-bilisim-personeli-alimi-ilani-1": "2026-10-18T18:33:05+00:00"
   },
@@ -8082,6 +8429,7 @@
    "56b19c9c-b32c-45ae-8fdc-101d776c8df3": "2026-10-20T18:11:00+00:00",
    "5976effc-ff4b-49b1-a5d7-c08d82d81636": "2026-10-22T19:37:19+00:00",
    "5a71a4f2-6023-4194-822c-01e687eb9b15": "2026-10-18T18:55:22+00:00",
+   "667b7787-181b-4063-af99-0f8f07ba1293": "2026-11-24T02:29:40+00:00",
    "6a34cb10-0ac0-41e0-a094-3ec83e29a644": "2026-11-18T22:40:31+00:00",
    "6e7cd2e5-b3d8-4c95-916b-6e1ff234b0b0": "2026-11-04T21:25:14+00:00",
    "724294dd-2cf3-4df3-8cd5-615baea623be": "2026-11-05T21:32:00+00:00",
@@ -8100,10 +8448,12 @@
    "a14f0db5-110e-4656-a977-7b6b17b55fbb": "2026-10-18T18:55:22+00:00",
    "a1ba338b-81ac-4dfb-9cc3-dc53c4c438cd": "2026-11-02T23:12:32+00:00",
    "a6d18ac1-8799-4f76-b4f5-418ceb8c735e": "2026-10-18T18:55:22+00:00",
+   "a75fb51f-19e0-4d1e-95fe-1e52774310c2": "2026-11-24T02:29:23+00:00",
    "a9f4af35-682a-4030-b699-68d7e4ad1546": "2026-11-02T23:12:15+00:00",
    "ac9395a0-1096-4384-abba-76719301f64a": "2026-10-18T18:55:22+00:00",
    "af46c544-8728-4ab2-beed-937fe050035c": "2026-10-26T09:25:20+00:00",
    "afb4d2b7-f217-46ec-8cef-efff28451755": "2026-11-02T23:11:58+00:00",
+   "b40dd0e6-81b6-4871-ac2b-97d9fbd0bd70": "2026-11-24T02:29:31+00:00",
    "bb1814b5-f9dd-47b3-8006-900a7b8098c5": "2026-11-02T23:12:24+00:00",
    "bf7a4a08-46c9-4643-a8c4-6ccf9c8c6d1b": "2026-11-09T23:50:58+00:00",
    "c1ab5cba-d22b-40ab-b89b-1d27431a422c": "2026-10-18T18:55:22+00:00",
@@ -8628,7 +8978,17 @@
    "20261123-4-6.pdf": "2026-11-22T21:11:29+00:00",
    "20261123-4-7.pdf": "2026-11-22T21:11:29+00:00",
    "20261123-4-8.pdf": "2026-11-22T21:11:29+00:00",
-   "20261123-4-9.pdf": "2026-11-22T21:11:29+00:00"
+   "20261123-4-9.pdf": "2026-11-22T21:11:29+00:00",
+   "20261124-4-1.pdf": "2026-11-24T02:28:49+00:00",
+   "20261124-4-10.pdf": "2026-11-24T02:28:49+00:00",
+   "20261124-4-2.pdf": "2026-11-24T02:28:49+00:00",
+   "20261124-4-3.pdf": "2026-11-24T02:28:49+00:00",
+   "20261124-4-4.pdf": "2026-11-24T02:28:49+00:00",
+   "20261124-4-5.pdf": "2026-11-24T02:28:49+00:00",
+   "20261124-4-6.pdf": "2026-11-24T02:28:49+00:00",
+   "20261124-4-7.pdf": "2026-11-24T02:28:49+00:00",
+   "20261124-4-8.pdf": "2026-11-24T02:28:49+00:00",
+   "20261124-4-9.pdf": "2026-11-24T02:28:49+00:00"
   }
  },
  "skipped": {
@@ -9737,6 +10097,66 @@
    "t": "Mardin Artuklu Üniversitesi Öğretim Üyesi Alım İlanı",
    "why": "akademik kadro (doktora gerekir)"
   },
+  "ilangov:2299635": {
+   "d": "2026-11-24T02:28:29+00:00",
+   "t": "Düzce Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2299646": {
+   "d": "2026-11-24T02:28:29+00:00",
+   "t": "Düzce Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2299648": {
+   "d": "2026-11-24T02:28:29+00:00",
+   "t": "İçişleri Bakanlığı Jandarma ve Sahil Güvenlik Akademisi Başkanlığından Uzman Erbaş Temin İlanı",
+   "why": "askeri"
+  },
+  "ilangov:2299649": {
+   "d": "2026-11-24T02:28:29+00:00",
+   "t": "Kütahya Dumlupınar Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2299654": {
+   "d": "2026-11-24T02:28:28+00:00",
+   "t": "Türk Akreditasyon Kurumundan Sözleşmeli Koruma ve Güvenlik Görevlisi Alım İlanı",
+   "why": "sadece lise/ön lisans kadroları (KPSS P93/P94)"
+  },
+  "ilangov:2299655": {
+   "d": "2026-11-24T02:28:28+00:00",
+   "t": "Yaşar Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2299680": {
+   "d": "2026-11-24T02:28:28+00:00",
+   "t": "Yozgat Bozok Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2299686": {
+   "d": "2026-11-24T02:28:28+00:00",
+   "t": "Ankara Yıldırım Beyazıt Üniversitesi Sözleşmeli Bilişim Personeli Alım İlanı",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "ilangov:2299717": {
+   "d": "2026-11-24T02:28:28+00:00",
+   "t": "Antalya Belek Üniversitesi Öğretim Üyesi Dışındaki Kadrolara Personel Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2299718": {
+   "d": "2026-11-24T02:28:28+00:00",
+   "t": "Özyeğin Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2299720": {
+   "d": "2026-11-24T02:28:28+00:00",
+   "t": "Özyeğin Üniversitesi Rektörlüğü Öğretim Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2299827": {
+   "d": "2026-11-24T02:28:25+00:00",
+   "t": "Tarsus Üniversitesi Rektörlüğü Öğretim Görevlisi Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
   "iskur:00009862271": {
    "d": "2026-10-21T19:45:45+00:00",
    "t": "Mekaniker-Lokomotif",
@@ -10327,15 +10747,220 @@
    "t": "Temizlik Görevlisi",
    "why": "meslek alanınızla ilgili değil"
   },
+  "iskur:00009905681": {
+   "d": "2026-11-24T02:29:00+00:00",
+   "t": "Diğer Tahmil-Tahliye ve İlgili Yük Taşıma İşçileri",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009905684": {
+   "d": "2026-11-24T02:29:01+00:00",
+   "t": "Diğer Tahmil-Tahliye ve İlgili Yük Taşıma İşçileri",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009905686": {
+   "d": "2026-11-24T02:29:01+00:00",
+   "t": "Diğer Tahmil-Tahliye ve İlgili Yük Taşıma İşçileri",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009905689": {
+   "d": "2026-11-24T02:29:01+00:00",
+   "t": "Diğer Tahmil-Tahliye ve İlgili Yük Taşıma İşçileri",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009905726": {
+   "d": "2026-11-24T02:29:02+00:00",
+   "t": "Diğer Tahmil-Tahliye ve İlgili Yük Taşıma İşçileri",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009905729": {
+   "d": "2026-11-24T02:29:02+00:00",
+   "t": "Diğer Tahmil-Tahliye ve İlgili Yük Taşıma İşçileri",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009905736": {
+   "d": "2026-11-24T02:29:02+00:00",
+   "t": "Diğer Tahmil-Tahliye ve İlgili Yük Taşıma İşçileri",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009905756": {
+   "d": "2026-11-24T02:29:02+00:00",
+   "t": "Diğer Tahmil-Tahliye ve İlgili Yük Taşıma İşçileri",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009905887": {
+   "d": "2026-11-24T02:29:03+00:00",
+   "t": "Genel Alan Temizleme Görevlisi/Meydancı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009905891": {
+   "d": "2026-11-24T02:29:03+00:00",
+   "t": "Genel Alan Temizleme Görevlisi/Meydancı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009905903": {
+   "d": "2026-11-24T02:29:03+00:00",
+   "t": "Genel Alan Temizleme Görevlisi/Meydancı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009905992": {
+   "d": "2026-11-24T02:29:03+00:00",
+   "t": "Genel Alan Temizleme Görevlisi/Meydancı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009906011": {
+   "d": "2026-11-24T02:29:03+00:00",
+   "t": "Genel Alan Temizleme Görevlisi/Meydancı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009906014": {
+   "d": "2026-11-24T02:29:04+00:00",
+   "t": "Genel Alan Temizleme Görevlisi/Meydancı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009906111": {
+   "d": "2026-11-24T02:29:04+00:00",
+   "t": "Genel Alan Temizleme Görevlisi/Meydancı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009906117": {
+   "d": "2026-11-24T02:29:04+00:00",
+   "t": "Genel Alan Temizleme Görevlisi/Meydancı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009906318": {
+   "d": "2026-11-24T02:29:04+00:00",
+   "t": "Diğer Tahmil-Tahliye ve İlgili Yük Taşıma İşçileri",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009906321": {
+   "d": "2026-11-24T02:29:05+00:00",
+   "t": "Diğer Tahmil-Tahliye ve İlgili Yük Taşıma İşçileri",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009906322": {
+   "d": "2026-11-24T02:29:05+00:00",
+   "t": "Diğer Tahmil-Tahliye ve İlgili Yük Taşıma İşçileri",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009906323": {
+   "d": "2026-11-24T02:29:05+00:00",
+   "t": "Diğer Tahmil-Tahliye ve İlgili Yük Taşıma İşçileri",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009906865": {
+   "d": "2026-11-24T02:29:05+00:00",
+   "t": "Nalbant",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009906873": {
+   "d": "2026-11-24T02:29:06+00:00",
+   "t": "Nalbant",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009906880": {
+   "d": "2026-11-24T02:29:06+00:00",
+   "t": "Nalbant",
+   "why": "meslek alanınızla ilgili değil"
+  },
   "iskur:00009906905": {
    "d": "2026-11-19T22:46:34+00:00",
    "t": "Şoför-Yük Taşıma",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009906955": {
+   "d": "2026-11-24T02:29:06+00:00",
+   "t": "Seyis",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009907373": {
+   "d": "2026-11-24T02:29:06+00:00",
+   "t": "Oto Bakım-Onarımcısı (Otomotiv Mekanikcisi)(Ön Düzen ve Balans Ayarcısı)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009907417": {
+   "d": "2026-11-24T02:29:07+00:00",
+   "t": "Oto Elektrikçisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009907426": {
+   "d": "2026-11-24T02:29:07+00:00",
+   "t": "Oto Bakım-Onarımcısı (Otomotiv Mekanikcisi)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009908150": {
+   "d": "2026-11-24T02:29:07+00:00",
+   "t": "Silah Tamircisi (Tüfek, Tabanca vb.)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009908161": {
+   "d": "2026-11-24T02:29:07+00:00",
+   "t": "Otomotiv Kaportacısı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009908163": {
+   "d": "2026-11-24T02:29:08+00:00",
+   "t": "Otomotiv Kaportacısı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009908906": {
+   "d": "2026-11-24T02:29:08+00:00",
+   "t": "Büro İşçisi",
    "why": "meslek alanınızla ilgili değil"
   },
   "iskur:00009908955": {
    "d": "2026-11-19T22:46:33+00:00",
    "t": "Beden İşçisi (Genel)",
    "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009908959": {
+   "d": "2026-11-24T02:29:08+00:00",
+   "t": "Temizlik Görevlisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009908985": {
+   "d": "2026-11-24T02:29:08+00:00",
+   "t": "Kaynakçı",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009909085": {
+   "d": "2026-11-24T02:29:09+00:00",
+   "t": "Temizlik Görevlisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009909214": {
+   "d": "2026-11-24T02:29:08+00:00",
+   "t": "Oto Bakım-Onarımcısı (Otomotiv Mekanikcisi)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009909227": {
+   "d": "2026-11-24T02:29:11+00:00",
+   "t": "Elektrikçi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009909233": {
+   "d": "2026-11-24T02:29:11+00:00",
+   "t": "Tarım İşçisi (Tarla Ürünleri)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009909252": {
+   "d": "2026-11-24T02:29:12+00:00",
+   "t": "Bahçe Bakım Elemanı(Park Bahçe ve Koruların Bakımı)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009909258": {
+   "d": "2026-11-24T02:29:12+00:00",
+   "t": "Mutfak Görevlisi",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009909562": {
+   "d": "2026-11-24T02:29:12+00:00",
+   "t": "Beden İşçisi (Genel)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009910001": {
+   "d": "2026-11-24T02:29:13+00:00",
+   "t": "Büro Memuru (Genel)",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
   },
   "iskur:duyuru:sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-1": {
    "d": "2026-11-21T20:58:48+00:00",
@@ -10397,6 +11022,11 @@
    "t": "TARIM VE ORMAN BAKANLIĞI - SÖZLEŞMELİ BİLİŞİM PERSONEL ALIMI",
    "why": "aynı ilanın metnine göre: sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
   },
+  "kariyerkapisi:667b7787-181b-4063-af99-0f8f07ba1293": {
+   "d": "2026-11-24T02:29:40+00:00",
+   "t": "İÇİŞLERİ BAKANLIĞI - 2026 YILI MERKEZ VE TAŞRA TEŞKİLATINDA ÇALIŞTIRILMAK ÜZERE 4/B SÖZLEŞMELİ PERSONEL ALIMINA İLİŞKİN ",
+   "why": "sınav duyurusu"
+  },
   "kariyerkapisi:6a34cb10-0ac0-41e0-a094-3ec83e29a644": {
    "d": "2026-11-18T22:40:31+00:00",
    "t": "SOSYAL GÜVENLİK KURUMU BAŞKANLIĞI - MÜFETTİŞ YARDIMCILIĞI GİRİŞ SINAVI DUYURUSU 2026",
@@ -10437,6 +11067,11 @@
    "t": "YILDIZ TEKNİK ÜNİVERSİTESİ REKTÖRLÜĞÜ - YILDIZ TEKNİK ÜNİVERSİTESİ SÖZLEŞMELİ BİLİŞİM PERSONELİ İLANI (2026/2)",
    "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
   },
+  "kariyerkapisi:a75fb51f-19e0-4d1e-95fe-1e52774310c2": {
+   "d": "2026-11-24T02:29:23+00:00",
+   "t": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ REKTÖRLÜĞÜ - SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
   "kariyerkapisi:af46c544-8728-4ab2-beed-937fe050035c": {
    "d": "2026-10-26T09:25:20+00:00",
    "t": "MARMARA ÜNİVERSİTESİ REKTÖRLÜĞÜ - Sözleşmeli Personel Alım İlanı (26.10.2026)",
@@ -10446,6 +11081,11 @@
    "d": "2026-11-02T23:11:58+00:00",
    "t": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ REKTÖRLÜĞÜ - ESKİ HÜKÜMLÜ/TMY TARIM İŞÇİSİ ALIM İLANI",
    "why": "eski hükümlü kontenjanı"
+  },
+  "kariyerkapisi:b40dd0e6-81b6-4871-ac2b-97d9fbd0bd70": {
+   "d": "2026-11-24T02:29:31+00:00",
+   "t": "JANDARMA VE SAHİL GÜVENLİK AKADEMİSİ BAŞKANLIĞI - 2027 YILI J.GN.K.LIĞI UZMAN ERBAŞ TEMİNİ",
+   "why": "askeri"
   },
   "kariyerkapisi:bb1814b5-f9dd-47b3-8006-900a7b8098c5": {
    "d": "2026-11-02T23:12:24+00:00",
@@ -11431,6 +12071,26 @@
    "d": "2026-11-22T21:11:29+00:00",
    "t": "ÖĞRETİM ÜYESİ VE ÖĞRETİM ÜYESİ DIŞINDAKİ KADROLARA PERSONEL ALIM İLANI I.",
    "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261124-4-6.pdf": {
+   "d": "2026-11-24T02:28:49+00:00",
+   "t": "KÜLTÜR VE TURİZM UZMAN YARDIMCILIĞI YARIŞMA SINAV İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261124-4-7.pdf": {
+   "d": "2026-11-24T02:28:49+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261124-4-8.pdf": {
+   "d": "2026-11-24T02:28:49+00:00",
+   "t": "ÖĞRETİM ELEMANI ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "resmigazete:20261124-4-9.pdf": {
+   "d": "2026-11-24T02:28:49+00:00",
+   "t": "ÖĞRETİM ELEMANI ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
   }
  }
 }
