@@ -7924,6 +7924,181 @@
    "sent": true,
    "t": "REKABET KURUMU BAŞKANLIĞI - REKABET UZMAN YARDIMCILIĞI GİRİŞ SINAVI",
    "why": "ilan metni okunamadı, şartları kontrol edin"
+  },
+  {
+   "d": "2026-11-25T23:44:13+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "birun",
+    "iptal",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İptal İlanı (Biruni Üniversitesi Rektörlüğü)",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-11-25T23:44:14+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "cag",
+    "elema",
+    "ogret",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Çağ Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-25T23:44:14+00:00",
+   "dec": "skip",
+   "k": "personel",
+   "o": [
+    "akade",
+    "bayar",
+    "celal",
+    "manis",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Manisa Celal Bayar Üniversitesi Rektörlüğü Akademik Personel Alım İlanı",
+   "why": "akademik kadro"
+  },
+  {
+   "d": "2026-11-25T23:44:32+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "karam",
+    "mehme",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İPTAL İLANI 09/11/2026 tarihinde Resmi Gazete’de yayımlanan aşağıdaki öğretim elemanı kadrosu ilanı iptal edilmiştir. S.",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-11-25T23:44:34+00:00",
+   "dec": "ok",
+   "k": "sozlesmeli personel",
+   "o": [
+    "bakan",
+    "ensti",
+    "orman",
+    "tarim",
+    "turki"
+   ],
+   "sent": true,
+   "t": "SÖZLEŞMELİ PERSONEL ALIM İLANI 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Cumhurbaşkanlığı Ka",
+   "why": "bölüm şartı uygun: “…ri asagida belirtilen 1 (bir) muhendis (bilgisayar muhendisi) pozisyonuna sozlesmeli personel alimi…”"
+  },
+  {
+   "d": "2026-11-25T23:44:34+00:00",
+   "dec": "skip",
+   "k": "surekli isci",
+   "o": [
+    "afyon",
+    "beled",
+    "ozbur"
+   ],
+   "sent": false,
+   "t": "SÜREKLİ İŞÇİ ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-11-25T23:44:34+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "imam",
+    "kahra",
+    "sutcu",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM GÖREVLİSİ ALIM İLANI 2547 sayılı Yükseköğretim Kanunu ile Öğretim Üyesi Dışındaki Öğretim Elemanı Kadrolarına Ya",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-25T23:44:34+00:00",
+   "dec": "skip",
+   "k": "bilisim",
+   "o": [
+    "mersi",
+    "unive"
+   ],
+   "sent": false,
+   "t": "SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  {
+   "d": "2026-11-25T23:44:34+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "afyon",
+    "bilim",
+    "sagli",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-25T23:44:34+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bogaz",
+    "cesit",
+    "ebys",
+    "ilanl",
+    "perse",
+    "unive",
+    "yalci"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM GÖREVLİSİ ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-25T23:44:34+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ahmet",
+    "cesit",
+    "duzce",
+    "ebys",
+    "perse",
+    "unive"
+   ],
+   "sent": false,
+   "t": "DÜZELTME İLANI 23.11.2026 tarihli ve 33439 sayılı Resmî Gazete’de aslına uygun olarak yayımlanan üniversitemizin Öğretim",
+   "why": "düzeltme duyurusu"
+  },
+  {
+   "d": "2026-11-25T23:44:34+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ahmet",
+    "beyke",
+    "cesit",
+    "cevri",
+    "istan",
+    "pdf",
+    "perse",
+    "unive",
+    "yapil"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
   }
  ],
  "health": {
@@ -7953,8 +8128,8 @@
    "fails": 0
   }
  },
- "heartbeat": "2026-11-25",
- "last_scan": "2026-11-25T00:01:08+00:00",
+ "heartbeat": "2026-11-26",
+ "last_scan": "2026-11-25T23:45:05+00:00",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -8356,7 +8531,11 @@
    "2301171": "2026-11-24T23:59:34+00:00",
    "2301174": "2026-11-24T23:59:34+00:00",
    "2301240": "2026-11-24T23:59:34+00:00",
-   "2301281": "2026-11-24T23:59:34+00:00"
+   "2301281": "2026-11-24T23:59:34+00:00",
+   "2302665": "2026-11-25T23:44:14+00:00",
+   "2302666": "2026-11-25T23:44:14+00:00",
+   "2302677": "2026-11-25T23:44:13+00:00",
+   "2302683": "2026-11-25T23:44:13+00:00"
   },
   "iskur": {
    "00009855484": "2026-10-18T18:33:05+00:00",
@@ -8537,6 +8716,8 @@
    "00009909258": "2026-11-24T02:29:12+00:00",
    "00009909562": "2026-11-24T02:29:12+00:00",
    "00009910001": "2026-11-24T02:29:13+00:00",
+   "00009914607": "2026-11-25T23:44:45+00:00",
+   "00009914726": "2026-11-25T23:44:45+00:00",
    "duyuru:sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-1": "2026-11-21T20:58:48+00:00",
    "duyuru:turkiye-is-kurumu-genel-mudurlugu-sozlesmeli-bilisim-personeli-alimi-ilani-1": "2026-10-18T18:33:05+00:00"
   },
@@ -8547,6 +8728,7 @@
    "06fcbe8a-50bf-4b51-9ba1-9cc4ad6501f3": "2026-11-05T21:31:51+00:00",
    "0ad1bd8f-f6ad-4a03-8f10-7a42c33cf44a": "2026-10-18T18:55:22+00:00",
    "0dee67ed-656b-4fa2-9ffd-deb7672253b8": "2026-11-20T22:19:04+00:00",
+   "0e649e12-a1b8-4d2f-a855-540f983ac98e": "2026-11-25T23:45:04+00:00",
    "0f54adef-6e76-4b95-b503-03f415523085": "2026-10-21T19:46:16+00:00",
    "11272843-b0f1-470e-af31-cc176fa0e5d4": "2026-10-18T18:55:22+00:00",
    "12c5b0ac-cd05-4316-9d7c-39ed4d06a358": "2026-10-18T18:55:22+00:00",
@@ -8575,6 +8757,7 @@
    "5976effc-ff4b-49b1-a5d7-c08d82d81636": "2026-10-22T19:37:19+00:00",
    "5a71a4f2-6023-4194-822c-01e687eb9b15": "2026-10-18T18:55:22+00:00",
    "5fb0c697-781e-4ea8-befb-3f041d6b9385": "2026-11-25T00:01:07+00:00",
+   "6119f52b-afb3-478d-aeb0-23fda9009aa5": "2026-11-25T23:44:55+00:00",
    "667b7787-181b-4063-af99-0f8f07ba1293": "2026-11-24T02:29:40+00:00",
    "6a34cb10-0ac0-41e0-a094-3ec83e29a644": "2026-11-18T22:40:31+00:00",
    "6e7cd2e5-b3d8-4c95-916b-6e1ff234b0b0": "2026-11-04T21:25:14+00:00",
@@ -9146,7 +9329,25 @@
    "20261125-4-6.pdf": "2026-11-25T00:00:02+00:00",
    "20261125-4-7.pdf": "2026-11-25T00:00:02+00:00",
    "20261125-4-8.pdf": "2026-11-25T00:00:02+00:00",
-   "20261125-4-9.pdf": "2026-11-25T00:00:02+00:00"
+   "20261125-4-9.pdf": "2026-11-25T00:00:02+00:00",
+   "20261126-4-1.pdf": "2026-11-25T23:44:32+00:00",
+   "20261126-4-10.pdf": "2026-11-25T23:44:34+00:00",
+   "20261126-4-11.pdf": "2026-11-25T23:44:34+00:00",
+   "20261126-4-12.pdf": "2026-11-25T23:44:34+00:00",
+   "20261126-4-13.pdf": "2026-11-25T23:44:34+00:00",
+   "20261126-4-14.pdf": "2026-11-25T23:44:34+00:00",
+   "20261126-4-15.pdf": "2026-11-25T23:44:34+00:00",
+   "20261126-4-16.pdf": "2026-11-25T23:44:34+00:00",
+   "20261126-4-17.pdf": "2026-11-25T23:44:34+00:00",
+   "20261126-4-18.pdf": "2026-11-25T23:44:34+00:00",
+   "20261126-4-2.pdf": "2026-11-25T23:44:32+00:00",
+   "20261126-4-3.pdf": "2026-11-25T23:44:32+00:00",
+   "20261126-4-4.pdf": "2026-11-25T23:44:32+00:00",
+   "20261126-4-5.pdf": "2026-11-25T23:44:32+00:00",
+   "20261126-4-6.pdf": "2026-11-25T23:44:32+00:00",
+   "20261126-4-7.pdf": "2026-11-25T23:44:32+00:00",
+   "20261126-4-8.pdf": "2026-11-25T23:44:32+00:00",
+   "20261126-4-9.pdf": "2026-11-25T23:44:32+00:00"
   }
  },
  "skipped": {
@@ -10345,6 +10546,21 @@
    "t": "Marmara Üniversitesi Öğretim Üyesi Alım İlanı",
    "why": "akademik kadro (doktora gerekir)"
   },
+  "ilangov:2302665": {
+   "d": "2026-11-25T23:44:14+00:00",
+   "t": "Manisa Celal Bayar Üniversitesi Rektörlüğü Akademik Personel Alım İlanı",
+   "why": "akademik kadro"
+  },
+  "ilangov:2302666": {
+   "d": "2026-11-25T23:44:14+00:00",
+   "t": "Çağ Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2302677": {
+   "d": "2026-11-25T23:44:13+00:00",
+   "t": "İptal İlanı (Biruni Üniversitesi Rektörlüğü)",
+   "why": "iptal duyurusu"
+  },
   "iskur:00009862271": {
    "d": "2026-10-21T19:45:45+00:00",
    "t": "Mekaniker-Lokomotif",
@@ -11150,6 +11366,16 @@
    "t": "Büro Memuru (Genel)",
    "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
   },
+  "iskur:00009914607": {
+   "d": "2026-11-25T23:44:45+00:00",
+   "t": "Kara Tankeri Operatörü (Tehlikeli Madde Taşımacılığı)",
+   "why": "meslek alanınızla ilgili değil"
+  },
+  "iskur:00009914726": {
+   "d": "2026-11-25T23:44:45+00:00",
+   "t": "Beko Loder (Kazıcı - Yükleyici) Operatörü",
+   "why": "meslek alanınızla ilgili değil"
+  },
   "iskur:duyuru:sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-1": {
    "d": "2026-11-21T20:58:48+00:00",
    "t": "Sözleşmeli Bilişim Personeli Sözlü/Uygulamalı Sınava Girmeye Hak Kazananlar Hakkında Duyuru",
@@ -11208,6 +11434,11 @@
   "kariyerkapisi:5976effc-ff4b-49b1-a5d7-c08d82d81636": {
    "d": "2026-10-22T19:37:19+00:00",
    "t": "TARIM VE ORMAN BAKANLIĞI - SÖZLEŞMELİ BİLİŞİM PERSONEL ALIMI",
+   "why": "aynı ilanın metnine göre: sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "kariyerkapisi:6119f52b-afb3-478d-aeb0-23fda9009aa5": {
+   "d": "2026-11-25T23:44:55+00:00",
+   "t": "MERSİN ÜNİVERSİTESİ REKTÖRLÜĞÜ - 1 ADET SÖZLEŞMELİ BİLİŞİM PERSONEL ALIM İLANI",
    "why": "aynı ilanın metnine göre: sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
   },
   "kariyerkapisi:667b7787-181b-4063-af99-0f8f07ba1293": {
@@ -12299,6 +12530,46 @@
    "d": "2026-11-25T00:00:02+00:00",
    "t": "ÖĞRETİM ELEMANI ALIM İLANI",
    "why": "akademik kadro (ALES gerekir)"
+  },
+  "resmigazete:20261126-4-11.pdf": {
+   "d": "2026-11-25T23:44:34+00:00",
+   "t": "SÜREKLİ İŞÇİ ALIM İLANI",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261126-4-12.pdf": {
+   "d": "2026-11-25T23:44:34+00:00",
+   "t": "ÖĞRETİM GÖREVLİSİ ALIM İLANI 2547 sayılı Yükseköğretim Kanunu ile Öğretim Üyesi Dışındaki Öğretim Elemanı Kadrolarına Ya",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261126-4-13.pdf": {
+   "d": "2026-11-25T23:44:34+00:00",
+   "t": "SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "resmigazete:20261126-4-14.pdf": {
+   "d": "2026-11-25T23:44:34+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261126-4-15.pdf": {
+   "d": "2026-11-25T23:44:34+00:00",
+   "t": "ÖĞRETİM GÖREVLİSİ ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "resmigazete:20261126-4-16.pdf": {
+   "d": "2026-11-25T23:44:34+00:00",
+   "t": "DÜZELTME İLANI 23.11.2026 tarihli ve 33439 sayılı Resmî Gazete’de aslına uygun olarak yayımlanan üniversitemizin Öğretim",
+   "why": "düzeltme duyurusu"
+  },
+  "resmigazete:20261126-4-17.pdf": {
+   "d": "2026-11-25T23:44:34+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261126-4-8.pdf": {
+   "d": "2026-11-25T23:44:32+00:00",
+   "t": "İPTAL İLANI 09/11/2026 tarihinde Resmi Gazete’de yayımlanan aşağıdaki öğretim elemanı kadrosu ilanı iptal edilmiştir. S.",
+   "why": "iptal duyurusu"
   }
  }
 }
