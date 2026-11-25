@@ -7785,6 +7785,145 @@
    "sent": false,
    "t": "Büro Memuru (Genel)",
    "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-11-24T23:59:34+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "marma",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Marmara Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-24T23:59:34+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "elema",
+    "marma",
+    "ogret",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Marmara Üniversitesi Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-24T23:59:34+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "canak",
+    "elema",
+    "mart",
+    "ogret",
+    "onsek",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Çanakkale Onsekiz Mart Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-24T23:59:34+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "canak",
+    "mart",
+    "ogret",
+    "onsek",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Çanakkale Onsekiz Mart Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-24T23:59:34+00:00",
+   "dec": "skip",
+   "k": "uzman yardimci",
+   "o": [
+    "bakan",
+    "kultu",
+    "turiz",
+    "yaris"
+   ],
+   "sent": false,
+   "t": "Kültür ve Turizm Bakanlığı Kültür ve Turizm Uzman Yardımcılığı Yarışma Sınav İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-11-24T23:59:35+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "elema",
+    "istan",
+    "nisan",
+    "ogret",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İstanbul Nişantaşı Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-25T00:00:02+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "birun",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İPTAL İLANI 13.11.2026 tarihli ve 33429 sayılı Resmî Gazete’de aslına uygun olarak yayımlanan ilanımız aşağıdaki belirti",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-11-25T00:00:02+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "cag",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ELEMANI ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-25T00:00:02+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bayar",
+    "celal",
+    "manis",
+    "unive"
+   ],
+   "sent": false,
+   "t": "A) ÖĞRETİM ÜYESİ KADROLARINA (PROFESÖR, DOÇENT, DOKTOR ÖĞRETİM ÜYESİ) AİT İLAN",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-25T00:01:07+00:00",
+   "dec": "check",
+   "k": "uzman yardimci",
+   "o": [
+    "kurum",
+    "rekab"
+   ],
+   "sent": true,
+   "t": "REKABET KURUMU BAŞKANLIĞI - REKABET UZMAN YARDIMCILIĞI GİRİŞ SINAVI",
+   "why": "ilan metni okunamadı, şartları kontrol edin"
   }
  ],
  "health": {
@@ -7814,8 +7953,8 @@
    "fails": 0
   }
  },
- "heartbeat": "2026-11-24",
- "last_scan": "2026-11-24T02:29:41+00:00",
+ "heartbeat": "2026-11-25",
+ "last_scan": "2026-11-25T00:01:08+00:00",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -8211,7 +8350,13 @@
    "2299718": "2026-11-24T02:28:28+00:00",
    "2299720": "2026-11-24T02:28:28+00:00",
    "2299814": "2026-11-24T02:28:27+00:00",
-   "2299827": "2026-11-24T02:28:25+00:00"
+   "2299827": "2026-11-24T02:28:25+00:00",
+   "2301150": "2026-11-24T23:59:35+00:00",
+   "2301151": "2026-11-24T23:59:34+00:00",
+   "2301171": "2026-11-24T23:59:34+00:00",
+   "2301174": "2026-11-24T23:59:34+00:00",
+   "2301240": "2026-11-24T23:59:34+00:00",
+   "2301281": "2026-11-24T23:59:34+00:00"
   },
   "iskur": {
    "00009855484": "2026-10-18T18:33:05+00:00",
@@ -8429,6 +8574,7 @@
    "56b19c9c-b32c-45ae-8fdc-101d776c8df3": "2026-10-20T18:11:00+00:00",
    "5976effc-ff4b-49b1-a5d7-c08d82d81636": "2026-10-22T19:37:19+00:00",
    "5a71a4f2-6023-4194-822c-01e687eb9b15": "2026-10-18T18:55:22+00:00",
+   "5fb0c697-781e-4ea8-befb-3f041d6b9385": "2026-11-25T00:01:07+00:00",
    "667b7787-181b-4063-af99-0f8f07ba1293": "2026-11-24T02:29:40+00:00",
    "6a34cb10-0ac0-41e0-a094-3ec83e29a644": "2026-11-18T22:40:31+00:00",
    "6e7cd2e5-b3d8-4c95-916b-6e1ff234b0b0": "2026-11-04T21:25:14+00:00",
@@ -8437,6 +8583,7 @@
    "72e593aa-e1b5-43c4-a4c5-63da01a63ef9": "2026-10-18T18:55:22+00:00",
    "7726dd9c-56dd-49e0-a0b2-a098e6c57b8a": "2026-10-22T19:37:10+00:00",
    "793cd518-1ca4-4e15-90ee-58989b15bd08": "2026-10-26T09:25:28+00:00",
+   "7cc8cb95-4799-4879-a104-8362bf62ca4d": "2026-11-25T00:00:57+00:00",
    "826fbdb8-f082-4294-9ac6-cd0abd98a7c9": "2026-10-18T18:55:22+00:00",
    "84e11358-b080-4b29-ae1e-3ab83bd8f689": "2026-11-06T21:05:33+00:00",
    "877cfe70-3bd5-4c0f-93e4-64da34f001f5": "2026-11-07T19:32:29+00:00",
@@ -8988,7 +9135,18 @@
    "20261124-4-6.pdf": "2026-11-24T02:28:49+00:00",
    "20261124-4-7.pdf": "2026-11-24T02:28:49+00:00",
    "20261124-4-8.pdf": "2026-11-24T02:28:49+00:00",
-   "20261124-4-9.pdf": "2026-11-24T02:28:49+00:00"
+   "20261124-4-9.pdf": "2026-11-24T02:28:49+00:00",
+   "20261125-4-1.pdf": "2026-11-25T00:00:02+00:00",
+   "20261125-4-10.pdf": "2026-11-25T00:00:02+00:00",
+   "20261125-4-11.pdf": "2026-11-25T00:00:02+00:00",
+   "20261125-4-2.pdf": "2026-11-25T00:00:02+00:00",
+   "20261125-4-3.pdf": "2026-11-25T00:00:02+00:00",
+   "20261125-4-4.pdf": "2026-11-25T00:00:02+00:00",
+   "20261125-4-5.pdf": "2026-11-25T00:00:02+00:00",
+   "20261125-4-6.pdf": "2026-11-25T00:00:02+00:00",
+   "20261125-4-7.pdf": "2026-11-25T00:00:02+00:00",
+   "20261125-4-8.pdf": "2026-11-25T00:00:02+00:00",
+   "20261125-4-9.pdf": "2026-11-25T00:00:02+00:00"
   }
  },
  "skipped": {
@@ -10157,6 +10315,36 @@
    "t": "Tarsus Üniversitesi Rektörlüğü Öğretim Görevlisi Alım İlanı",
    "why": "akademik kadro (ALES gerekir)"
   },
+  "ilangov:2301150": {
+   "d": "2026-11-24T23:59:35+00:00",
+   "t": "İstanbul Nişantaşı Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2301151": {
+   "d": "2026-11-24T23:59:34+00:00",
+   "t": "Kültür ve Turizm Bakanlığı Kültür ve Turizm Uzman Yardımcılığı Yarışma Sınav İlanı",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "ilangov:2301171": {
+   "d": "2026-11-24T23:59:34+00:00",
+   "t": "Çanakkale Onsekiz Mart Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2301174": {
+   "d": "2026-11-24T23:59:34+00:00",
+   "t": "Çanakkale Onsekiz Mart Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2301240": {
+   "d": "2026-11-24T23:59:34+00:00",
+   "t": "Marmara Üniversitesi Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2301281": {
+   "d": "2026-11-24T23:59:34+00:00",
+   "t": "Marmara Üniversitesi Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
   "iskur:00009862271": {
    "d": "2026-10-21T19:45:45+00:00",
    "t": "Mekaniker-Lokomotif",
@@ -11046,6 +11234,11 @@
    "d": "2026-10-26T09:25:28+00:00",
    "t": "ORMAN GENEL MÜDÜRLÜĞÜ - MÜFETTİŞ YARDIMCILIĞI GİRİŞ SINAVI İLANI",
    "why": "aynı ilanın metnine göre: bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "kariyerkapisi:7cc8cb95-4799-4879-a104-8362bf62ca4d": {
+   "d": "2026-11-25T00:00:57+00:00",
+   "t": "TÜRK-ALMAN ÜNİVERSİTESİ REKTÖRLÜĞÜ - SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI 30.11.2026",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
   },
   "kariyerkapisi:84e11358-b080-4b29-ae1e-3ab83bd8f689": {
    "d": "2026-11-06T21:05:33+00:00",
@@ -12089,6 +12282,21 @@
   },
   "resmigazete:20261124-4-9.pdf": {
    "d": "2026-11-24T02:28:49+00:00",
+   "t": "ÖĞRETİM ELEMANI ALIM İLANI",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "resmigazete:20261125-4-1.pdf": {
+   "d": "2026-11-25T00:00:02+00:00",
+   "t": "İPTAL İLANI 13.11.2026 tarihli ve 33429 sayılı Resmî Gazete’de aslına uygun olarak yayımlanan ilanımız aşağıdaki belirti",
+   "why": "iptal duyurusu"
+  },
+  "resmigazete:20261125-4-10.pdf": {
+   "d": "2026-11-25T00:00:02+00:00",
+   "t": "A) ÖĞRETİM ÜYESİ KADROLARINA (PROFESÖR, DOÇENT, DOKTOR ÖĞRETİM ÜYESİ) AİT İLAN",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261125-4-9.pdf": {
+   "d": "2026-11-25T00:00:02+00:00",
    "t": "ÖĞRETİM ELEMANI ALIM İLANI",
    "why": "akademik kadro (ALES gerekir)"
   }
