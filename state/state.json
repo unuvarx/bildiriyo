@@ -8411,6 +8411,192 @@
    "sent": true,
    "t": "Ziraat Mühendisi",
    "why": "ilan metni okunamadı, şartları kontrol edin"
+  },
+  {
+   "d": "2026-11-27T23:38:14+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "elema",
+    "ogret",
+    "unive",
+    "usak"
+   ],
+   "sent": false,
+   "t": "Uşak Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-27T23:38:14+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "ogret",
+    "unive",
+    "usak",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Uşak Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-27T23:38:14+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bilim",
+    "islam",
+    "ogret",
+    "tekno",
+    "turki",
+    "ulusl",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-27T23:38:14+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "istan",
+    "medip",
+    "ogret",
+    "unive",
+    "uyesi"
+   ],
+   "sent": false,
+   "t": "İstanbul Medipol Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-27T23:38:15+00:00",
+   "dec": "skip",
+   "k": "bilisim",
+   "o": [
+    "bilis",
+    "selcu",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Selçuk Üniversitesi Rektörlüğü Sözleşmeli Bilişim Personeli Alım İlanı",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  {
+   "d": "2026-11-27T23:38:15+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "beled",
+    "bozko",
+    "iptal"
+   ],
+   "sent": false,
+   "t": "İptal İlanı (Bozköy Belediye Başkanlığı)",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-11-27T23:38:15+00:00",
+   "dec": "skip",
+   "k": "personel",
+   "o": [
+    "avrup",
+    "bakan",
+    "birli",
+    "deste",
+    "disis"
+   ],
+   "sent": false,
+   "t": "Dışişleri Bakanlığı Avrupa Birliği Başkanlığı Sözleşmeli Destek Personeli Alım İlanı",
+   "why": "sadece lise/ön lisans kadroları (KPSS P93/P94)"
+  },
+  {
+   "d": "2026-11-27T23:38:15+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bilim",
+    "elema",
+    "gazia",
+    "islam",
+    "ogret",
+    "tekno",
+    "unive"
+   ],
+   "sent": false,
+   "t": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  {
+   "d": "2026-11-27T23:38:36+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "fener",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-27T23:38:36+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bilim",
+    "gazia",
+    "islam",
+    "tekno",
+    "unive"
+   ],
+   "sent": false,
+   "t": "İPTAL İLANI 16.11.2026 tarihli ve 33432 sayılı Resmî Gazete’de yayımlanan Öğretim Üyesi alım ilanından aşağıda İlan numa",
+   "why": "iptal duyurusu"
+  },
+  {
+   "d": "2026-11-27T23:38:36+00:00",
+   "dec": "skip",
+   "k": "mufettis yardimci",
+   "o": [
+    "bakan",
+    "kurul",
+    "sagli",
+    "tefti"
+   ],
+   "sent": false,
+   "t": "MÜFETTİŞ YARDIMCILIĞI GİRİŞ SINAVI İLANI T.C.",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  {
+   "d": "2026-11-27T23:38:36+00:00",
+   "dec": "skip",
+   "k": "",
+   "o": [
+    "bilke",
+    "dogra",
+    "ihsan",
+    "unive"
+   ],
+   "sent": false,
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI 2547 sayılı Yüksek Öğretim Kanununun 24. maddesi, 12 Haziran 2018 tarih ve 30449 sayılı Resmî G",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  {
+   "d": "2026-11-27T23:38:57+00:00",
+   "dec": "check",
+   "k": "personel",
+   "o": [
+    "gelir",
+    "idare"
+   ],
+   "sent": true,
+   "t": "GELİR İDARESİ BAŞKANLIĞI - SÖZLEŞMELİ DESTEK PERSONELİ (HİZMETLİ)",
+   "why": "ilan metni okunamadı, şartları kontrol edin"
   }
  ],
  "health": {
@@ -8440,8 +8626,8 @@
    "fails": 0
   }
  },
- "heartbeat": "2026-11-27",
- "last_scan": "2026-11-26T23:57:32+00:00",
+ "heartbeat": "2026-11-28",
+ "last_scan": "2026-11-27T23:39:41+00:00",
  "seen": {
   "ilangov": {
    "1973572": "2026-10-18T18:55:34+00:00",
@@ -8862,7 +9048,15 @@
    "2304216": "2026-11-26T23:56:33+00:00",
    "2304217": "2026-11-26T23:56:33+00:00",
    "2304230": "2026-11-26T23:56:33+00:00",
-   "2304234": "2026-11-26T23:56:32+00:00"
+   "2304234": "2026-11-26T23:56:32+00:00",
+   "2305856": "2026-11-27T23:38:15+00:00",
+   "2305857": "2026-11-27T23:38:15+00:00",
+   "2305858": "2026-11-27T23:38:15+00:00",
+   "2305859": "2026-11-27T23:38:15+00:00",
+   "2305879": "2026-11-27T23:38:14+00:00",
+   "2305880": "2026-11-27T23:38:14+00:00",
+   "2305887": "2026-11-27T23:38:14+00:00",
+   "2305888": "2026-11-27T23:38:14+00:00"
   },
   "iskur": {
    "00009855484": "2026-10-18T18:33:05+00:00",
@@ -9048,10 +9242,12 @@
    "00009917457": "2026-11-26T23:57:20+00:00",
    "00009917749": "2026-11-26T23:57:20+00:00",
    "duyuru:sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-1": "2026-11-21T20:58:48+00:00",
+   "duyuru:sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-3": "2026-11-27T23:38:44+00:00",
    "duyuru:turkiye-is-kurumu-genel-mudurlugu-sozlesmeli-bilisim-personeli-alimi-ilani-1": "2026-10-18T18:33:05+00:00"
   },
   "kamuilan": {},
   "kariyerkapisi": {
+   "01a31fb6-9c44-4e45-9d17-f47f7ed2e8bd": "2026-11-27T23:38:57+00:00",
    "01e546b7-c1d0-4364-b010-7eea088f49cd": "2026-11-02T23:12:06+00:00",
    "069150d6-ad89-4973-9410-25ae1fa56d67": "2026-11-17T23:04:44+00:00",
    "06fcbe8a-50bf-4b51-9ba1-9cc4ad6501f3": "2026-11-05T21:31:51+00:00",
@@ -9067,6 +9263,7 @@
    "20b04c08-a1a3-4c86-93e3-f6876db3a74f": "2026-11-26T23:57:31+00:00",
    "224db1dc-e78f-47df-809c-61ede62b9c36": "2026-11-22T21:11:47+00:00",
    "232d3886-9af8-4b69-a802-b393f13a600d": "2026-10-18T18:55:22+00:00",
+   "26bdd65d-ebb3-4070-b9d4-2b8e46fa4fa4": "2026-11-27T23:39:06+00:00",
    "26f5b7a7-865c-483f-9045-2f77e5e7fb9d": "2026-11-07T19:32:38+00:00",
    "292b13a1-7511-4f89-896d-b19f526fcab1": "2026-10-20T18:08:31+00:00",
    "2b5ee2d8-3958-4fd1-a3cb-219bcb7b536d": "2026-11-13T21:30:33+00:00",
@@ -9108,9 +9305,11 @@
    "a14f0db5-110e-4656-a977-7b6b17b55fbb": "2026-10-18T18:55:22+00:00",
    "a1ba338b-81ac-4dfb-9cc3-dc53c4c438cd": "2026-11-02T23:12:32+00:00",
    "a6d18ac1-8799-4f76-b4f5-418ceb8c735e": "2026-10-18T18:55:22+00:00",
+   "a72d5bb6-a2c6-4ba9-b937-0057ef8fc0ea": "2026-11-27T23:39:14+00:00",
    "a75fb51f-19e0-4d1e-95fe-1e52774310c2": "2026-11-24T02:29:23+00:00",
    "a9f4af35-682a-4030-b699-68d7e4ad1546": "2026-11-02T23:12:15+00:00",
    "ac9395a0-1096-4384-abba-76719301f64a": "2026-10-18T18:55:22+00:00",
+   "add4bb83-a310-4b00-9f8b-6771300863f5": "2026-11-27T23:39:40+00:00",
    "af46c544-8728-4ab2-beed-937fe050035c": "2026-10-26T09:25:20+00:00",
    "afb4d2b7-f217-46ec-8cef-efff28451755": "2026-11-02T23:11:58+00:00",
    "b40dd0e6-81b6-4871-ac2b-97d9fbd0bd70": "2026-11-24T02:29:31+00:00",
@@ -9120,6 +9319,7 @@
    "cb266bf7-8022-4349-b285-053be1f91922": "2026-10-20T18:10:10+00:00",
    "d419889e-c536-4404-b91f-b319b84f1fa9": "2026-10-20T09:12:26+00:00",
    "d518cb3b-36c9-43fb-8e94-e563f9887888": "2026-10-20T18:08:22+00:00",
+   "d6665f54-0008-46c3-b9c5-a8eb809e7c42": "2026-11-27T23:39:23+00:00",
    "d72bc5ed-a952-4452-9fea-b05616038765": "2026-10-18T18:55:22+00:00",
    "da785726-3bff-45bb-9ab6-d43389db86f9": "2026-10-18T18:55:22+00:00",
    "db21f412-186a-4d5c-bc46-03dff9ea17fb": "2026-10-18T18:55:22+00:00",
@@ -9133,6 +9333,7 @@
    "f7ee3ab4-6c25-48f1-8a78-588066e3cf52": "2026-10-28T21:56:53+00:00",
    "f82ad1a8-39b9-4732-acb4-be6cbe8f772e": "2026-11-16T23:49:49+00:00",
    "fa2227c2-e4f6-43fe-b45f-82552f7277aa": "2026-10-18T18:55:22+00:00",
+   "fbe6dbe7-e178-4680-8509-e91d11d9e505": "2026-11-27T23:39:31+00:00",
    "ff6084a1-bbdd-45d7-b62e-a649a026a2b2": "2026-11-09T23:51:07+00:00"
   },
   "resmigazete": {
@@ -9692,7 +9893,19 @@
    "20261127-4-6.pdf": "2026-11-26T23:57:07+00:00",
    "20261127-4-7.pdf": "2026-11-26T23:57:07+00:00",
    "20261127-4-8.pdf": "2026-11-26T23:57:07+00:00",
-   "20261127-4-9.pdf": "2026-11-26T23:57:07+00:00"
+   "20261127-4-9.pdf": "2026-11-26T23:57:07+00:00",
+   "20261128-4-1.pdf": "2026-11-27T23:38:36+00:00",
+   "20261128-4-10.pdf": "2026-11-27T23:38:36+00:00",
+   "20261128-4-11.pdf": "2026-11-27T23:38:36+00:00",
+   "20261128-4-12.pdf": "2026-11-27T23:38:36+00:00",
+   "20261128-4-2.pdf": "2026-11-27T23:38:36+00:00",
+   "20261128-4-3.pdf": "2026-11-27T23:38:36+00:00",
+   "20261128-4-4.pdf": "2026-11-27T23:38:36+00:00",
+   "20261128-4-5.pdf": "2026-11-27T23:38:36+00:00",
+   "20261128-4-6.pdf": "2026-11-27T23:38:36+00:00",
+   "20261128-4-7.pdf": "2026-11-27T23:38:36+00:00",
+   "20261128-4-8.pdf": "2026-11-27T23:38:36+00:00",
+   "20261128-4-9.pdf": "2026-11-27T23:38:36+00:00"
   }
  },
  "skipped": {
@@ -10976,6 +11189,46 @@
    "t": "İptal İlanı (Sakarya Üniversitesi Rektörlüğü)",
    "why": "iptal duyurusu"
   },
+  "ilangov:2305856": {
+   "d": "2026-11-27T23:38:15+00:00",
+   "t": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi Rektörlüğü Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
+  "ilangov:2305857": {
+   "d": "2026-11-27T23:38:15+00:00",
+   "t": "Dışişleri Bakanlığı Avrupa Birliği Başkanlığı Sözleşmeli Destek Personeli Alım İlanı",
+   "why": "sadece lise/ön lisans kadroları (KPSS P93/P94)"
+  },
+  "ilangov:2305858": {
+   "d": "2026-11-27T23:38:15+00:00",
+   "t": "İptal İlanı (Bozköy Belediye Başkanlığı)",
+   "why": "iptal duyurusu"
+  },
+  "ilangov:2305859": {
+   "d": "2026-11-27T23:38:15+00:00",
+   "t": "Selçuk Üniversitesi Rektörlüğü Sözleşmeli Bilişim Personeli Alım İlanı",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "ilangov:2305879": {
+   "d": "2026-11-27T23:38:14+00:00",
+   "t": "İstanbul Medipol Üniversitesi Rektörlüğü Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2305880": {
+   "d": "2026-11-27T23:38:14+00:00",
+   "t": "Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2305887": {
+   "d": "2026-11-27T23:38:14+00:00",
+   "t": "Uşak Üniversitesi Rektörlüğünden Öğretim Üyesi Alım İlanı",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "ilangov:2305888": {
+   "d": "2026-11-27T23:38:14+00:00",
+   "t": "Uşak Üniversitesi Rektörlüğünden Öğretim Elemanı Alım İlanı",
+   "why": "akademik kadro (ALES gerekir)"
+  },
   "iskur:00009862271": {
    "d": "2026-10-21T19:45:45+00:00",
    "t": "Mekaniker-Lokomotif",
@@ -11801,6 +12054,11 @@
    "t": "Sözleşmeli Bilişim Personeli Sözlü/Uygulamalı Sınava Girmeye Hak Kazananlar Hakkında Duyuru",
    "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
   },
+  "iskur:duyuru:sozlesmeli-bilisim-personeli-sozlu-uygulamali-sinava-girmeye-hak-kazananlar-hakkinda-duyuru-3": {
+   "d": "2026-11-27T23:38:44+00:00",
+   "t": "Sözleşmeli Bilişim Personeli Sözlü/Uygulamalı Sınava Girmeye Hak Kazananlar Hakkında Duyuru",
+   "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
   "kariyerkapisi:01e546b7-c1d0-4364-b010-7eea088f49cd": {
    "d": "2026-11-02T23:12:06+00:00",
    "t": "YÜKSEKÖĞRETİM KURULU BAŞKANLIĞI (YÖK) - SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
@@ -11825,6 +12083,11 @@
    "d": "2026-11-22T21:11:47+00:00",
    "t": "DEVLET TİYATROLARI GENEL MÜDÜRLÜĞÜ - GÖREVDE YÜKSELME SINAVI",
    "why": "kurum içi sınav"
+  },
+  "kariyerkapisi:26bdd65d-ebb3-4070-b9d4-2b8e46fa4fa4": {
+   "d": "2026-11-27T23:39:06+00:00",
+   "t": "GELİR İDARESİ BAŞKANLIĞI - SÖZLEŞMELİ DESTEK PERSONELİ (ŞOFÖR) GİRİŞ SINAVI",
+   "why": "farklı meslek"
   },
   "kariyerkapisi:26f5b7a7-865c-483f-9045-2f77e5e7fb9d": {
    "d": "2026-11-07T19:32:38+00:00",
@@ -11916,10 +12179,20 @@
    "t": "YILDIZ TEKNİK ÜNİVERSİTESİ REKTÖRLÜĞÜ - YILDIZ TEKNİK ÜNİVERSİTESİ SÖZLEŞMELİ BİLİŞİM PERSONELİ İLANI (2026/2)",
    "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
   },
+  "kariyerkapisi:a72d5bb6-a2c6-4ba9-b937-0057ef8fc0ea": {
+   "d": "2026-11-27T23:39:14+00:00",
+   "t": "GELİR İDARESİ BAŞKANLIĞI - SÖZLEŞMELİ KORUMA VE GÜVENLİK GÖREVLİSİ",
+   "why": "farklı meslek (sertifika gerekir)"
+  },
   "kariyerkapisi:a75fb51f-19e0-4d1e-95fe-1e52774310c2": {
    "d": "2026-11-24T02:29:23+00:00",
    "t": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ REKTÖRLÜĞÜ - SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
    "why": "sözleşmeli bilişim personeli: tüm kadrolar en az 3 yıl deneyim istiyor"
+  },
+  "kariyerkapisi:add4bb83-a310-4b00-9f8b-6771300863f5": {
+   "d": "2026-11-27T23:39:40+00:00",
+   "t": "AVRUPA BİRLİĞİ BAŞKANLIĞI - SÖZLEŞMELİ DESTEK PERSONELİ (ŞOFÖR) İLANI",
+   "why": "farklı meslek"
   },
   "kariyerkapisi:af46c544-8728-4ab2-beed-937fe050035c": {
    "d": "2026-10-26T09:25:20+00:00",
@@ -11945,6 +12218,11 @@
    "d": "2026-11-09T23:50:58+00:00",
    "t": "KAMU DENETÇİLİĞİ KURUMU (OMBUDSMANLIK) - KAMU DENETÇİLİĞİ UZMAN YARDIMCILIĞI GİRİŞ SINAVI İLANI",
    "why": "aynı ilanın metnine göre: bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "kariyerkapisi:d6665f54-0008-46c3-b9c5-a8eb809e7c42": {
+   "d": "2026-11-27T23:39:23+00:00",
+   "t": "GELİR İDARESİ BAŞKANLIĞI - Sözleşmeli Avukat",
+   "why": "hukuk mezunu gerekir"
   },
   "kariyerkapisi:dc97ce1e-dce0-408a-a785-682c4656435e": {
    "d": "2026-11-20T22:19:13+00:00",
@@ -13030,6 +13308,26 @@
    "d": "2026-11-26T23:57:07+00:00",
    "t": "ÖĞRETİM ELEMANI ALIM İLANI",
    "why": "akademik kadro (ALES gerekir)"
+  },
+  "resmigazete:20261128-4-10.pdf": {
+   "d": "2026-11-27T23:38:36+00:00",
+   "t": "MÜFETTİŞ YARDIMCILIĞI GİRİŞ SINAVI İLANI T.C.",
+   "why": "bölüm şartı Yazılım Mühendisliği (lisans) içermiyor"
+  },
+  "resmigazete:20261128-4-11.pdf": {
+   "d": "2026-11-27T23:38:36+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI 2547 sayılı Yüksek Öğretim Kanununun 24. maddesi, 12 Haziran 2018 tarih ve 30449 sayılı Resmî G",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261128-4-3.pdf": {
+   "d": "2026-11-27T23:38:36+00:00",
+   "t": "ÖĞRETİM ÜYESİ ALIM İLANI",
+   "why": "akademik kadro (doktora gerekir)"
+  },
+  "resmigazete:20261128-4-4.pdf": {
+   "d": "2026-11-27T23:38:36+00:00",
+   "t": "İPTAL İLANI 16.11.2026 tarihli ve 33432 sayılı Resmî Gazete’de yayımlanan Öğretim Üyesi alım ilanından aşağıda İlan numa",
+   "why": "iptal duyurusu"
   }
  }
 }
